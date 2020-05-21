@@ -3,7 +3,7 @@
   <img src="/img/github_cover.png" >
 </p>
 
-Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, Machine Learning e Deep Learning.
+Aqui você encontra os *notebooks* dos meus projetos na área de Data Science e Machine Learning.
 
 ## Projetos:
 Lista de projetos em Jupyter Notebook:
@@ -19,9 +19,8 @@ Lista de projetos em Jupyter Notebook:
 
 ### Sobre mim:
 
-Sou Piloto Militar da Força Aérea Brasileira e Engenheiro de Missão de Satélite no Centro de Operações Espaciais (COPE), em Brasília-DF. Autor do *blog* [sigmoidal.ai](http://sigmoidal.ai).
+Desenvolvedor Business Intelligence (BI) aplicando as melhores práticas de análise e desenvolvimento, nas ferramentas Power BI(DAX e M), Pentaho (PDI), Integrativo Services (SSIS), Analysis Services (SSAS) e SQL Server. 
 
-* Graduação em Ciências Aeronáuticas pela AFA.
-* Mestrado em Ciências e Tecnologias Espaciais pelo ITA.
-* MBA em Gestão de Projetos e Processos pela UNIFA.
-* Curso de Operações Espaciais pela Força Aérea do Canadá.
+* Graduação em Gestão em Tecnologia da Informação.
+* Pós Graduação em Bussines Intelligence e Analytics.
+* Especialiação BI Academy - Rafael Piton.
