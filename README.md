@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="/img/github_cover.png" >
-</p>
 
 Aqui você encontra os *notebooks* dos meus projetos na área de Data Science e Machine Learning.
 
