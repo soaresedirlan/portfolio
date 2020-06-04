@@ -5,7 +5,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science e 
 ## Projetos:
 Lista de projetos em Jupyter Notebook:
 
-* **Previsão Valor de Casas em Boston:** https://github.com/soaresedirlan/data_science/blob/master/Previs%C3%A3o_de_Valores_Casas_Boston.ipynb
+
 
 
 ---
