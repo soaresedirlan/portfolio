@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner2.jpg" >
+  <img src="banner3.jpg" >
 </p>
 
 Aqui você encontra os *notebooks* dos meus projetos na área de Data Science e Machine Learning.
