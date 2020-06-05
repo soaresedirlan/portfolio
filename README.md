@@ -2,7 +2,7 @@
   <img src="banner.png" >
 </p>
 
-Aqui você encontra os *notebooks* dos meus projetos na área de Data Science e Machine Learning.
+Aqui você encontra dos meus projetos na área de Data Science e Machine Learning.
 
 ## Projetos:
 
