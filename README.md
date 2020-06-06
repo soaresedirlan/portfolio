@@ -15,7 +15,7 @@ Aqui você encontra meus projetos na área de Data Science e Machine Learning.
 
 
 ## Edirlan Soares
-Desenvolvedor Business Intelligence (BI) aplicando as melhores práticas de análise e desenvolvimento, nas ferramentas Power BI(DAX e M), Pentaho (PDI), Integrativo Services (SSIS), Analysis Services (SSAS) e SQL Server. 
+Desenvolvedor Business Intelligence (BI) aplicando as melhores práticas de análise e desenvolvimento, nas ferramentas Power BI(DAX e M), Pentaho (PDI), Integration Services (SSIS), Analysis Services (SSAS) e SQL Server. 
 
 * Graduação em Gestão em Tecnologia da Informação.
 * Pós Graduação em Bussines Intelligence e Analytics.
