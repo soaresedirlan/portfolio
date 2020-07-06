@@ -8,7 +8,7 @@ Aqui você encontra meus projetos na área de Data Science e Machine Learning.
 
 * **Machine Learning naufrágio do Titanic:** https://bit.ly/2UfyPUW
 * **Machine Learning para previsão de valores casas em Boston:** https://bit.ly/2MAw64d
-* **Análise de dados Airbnb cidade do Rio de Janeiro:** https://bityli.com/xmRzO
+* **Análise de dados Airbnb cidade do Rio de Janeiro:** https://bit.ly/31QO4Z0
 * **Análise de dados Covid - 19 - Paraná:** https://bit.ly/3e9SBZQ
 
 
