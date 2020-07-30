@@ -10,7 +10,7 @@ Aqui você encontra meus projetos na área de Data Science e Machine Learning.
 * **Machine Learning para previsão de valores casas em Boston:** https://bit.ly/2MAw64d
 * **Análise de dados Covid - 19 - Paraná:** https://bit.ly/3e9SBZQ
 * **Detectando Fraudes em Cartões de Crédito:** https://cutt.ly/rs3EzLE
-* **Séries Temporais com ARIMA:**https://cutt.ly/4s3Gouu
+* **Séries Temporais com ARIMA:***https://cutt.ly/4s3Gouu
 
 
 ## Edirlan Soares
