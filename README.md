@@ -18,6 +18,25 @@ Desenvolvedor Business Intelligence (BI) aplicando as melhores práticas de aná
 
 **Links:**
 
-Linkedin: <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="edirlansoares" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/edirlansoares?trk=profile-badge">Edirlan Carlos Soares</a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="edirlansoares" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/edirlansoares?trk=profile-badge">Edirlan Carlos Soares</a></div>
               
 
