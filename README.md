@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="baner01.jpeg" >
+  <img src="banner.jpeg" >
 </p>
 
 ## Edirlan Soares
