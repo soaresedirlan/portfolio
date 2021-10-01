@@ -4,7 +4,7 @@
 
 ## Edirlan Soares
 Especialista em Business Intelligence & Analytics, hard skills em Microsoft BI tools (SSAS, SSIS, SSRS, SQL SERVER e POWER BI) e linguagem python.
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="edirlansoares" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/edirlansoares?trk=profile-badge"> Linkedin: Edirlan Carlos Soares</a></div>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="edirlansoares" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/edirlansoares?trk=profile-badge"> Linkedin</a></div>
 
 ## Formação:
 - Graduação em Gestão da Tecnologia da Informação pela Faculdades OPET.
