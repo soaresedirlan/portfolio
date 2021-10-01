@@ -3,22 +3,20 @@
 </p>
 
 
+
 ## Projetos:
 
 
 ## Edirlan Soares
-Desenvolvedor Business Intelligence (BI) aplicando as melhores práticas de análise e desenvolvimento, nas ferramentas Power BI(DAX e M), Pentaho (PDI), Integration Services (SSIS), Analysis Services (SSAS) e SQL Server. 
+Especialista em Business Intelligence & Analytics, hard skills em Microsoft BI tools (SSAS, SSIS, SSRS, SQL SERVER e POWER BI) e linguagem python.
 
-* Graduação em Gestão em Tecnologia da Informação.
-* Pós Graduação em Bussines Intelligence e Analytics.
-* Especialiação BI Academy - Rafael Piton.
-* Curso Data Science na Pratica - Sigmoidal 
-* Escola de Data Science - Sigmoidal
+Graduação em Gestão da Tecnologia da Informação pela Faculdades OPET.
+Pós-graduação em Business Intelligence & Analytics pela Puc Minas.
+Microsoft Certified: Data Analyst Associate
+ 
+
 
 **Links:**
-
-
-
 
 
 
