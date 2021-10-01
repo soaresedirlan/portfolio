@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="baner01.png" >
+  <img src="baner01.jpeg" >
 </p>
 
 Aqui você encontra meus projetos na área de Data Science e Machine Learning.
