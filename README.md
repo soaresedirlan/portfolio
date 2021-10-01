@@ -2,13 +2,13 @@
   <img src="baner01.jpeg" >
 </p>
 
-
+## Edirlan Soares
+Especialista em Business Intelligence & Analytics, hard skills em Microsoft BI tools (SSAS, SSIS, SSRS, SQL SERVER e POWER BI) e linguagem python.
 
 ## Projetos:
 
 
-## Edirlan Soares
-Especialista em Business Intelligence & Analytics, hard skills em Microsoft BI tools (SSAS, SSIS, SSRS, SQL SERVER e POWER BI) e linguagem python.
+
 
 
 
