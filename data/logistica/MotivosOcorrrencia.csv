@@ -1,0 +1,29 @@
+idOcorrencia,Motivo,Responsabilidade
+0,Entregue,Entregue
+1,Preço Divergente,Comercial
+2,Falta cond. Pagamento,Comercial
+3,Pedido Incompleto,Logística
+4,Mercadoria Errada,Comercial
+10,Prazo Pagto Errado,Comercial
+11,Cond. Pagamento Errada,Comercial
+12,Desistência Cliente,Comercial
+13,Falta de Pedido,Comercial
+14,Erro Cad. - Mercadoria,Compras
+15,Erro Cad. - Cliente,Comercial
+16,Erro Tributação,Legal
+18,Recolha Merc.Vencida,Comercial
+19,Outros,Logística
+20,Desacordo Data Entrega,Logística
+21,Atraso / Reentrega,Logística
+22,Estab. Fechado,Logística
+24,Merc. Avariada,Logística
+26,Razão Social Errada,Legal
+27,Cancelamento NF,Legal
+30,Cliente Fechado ,Logística
+32,Recusa do Cliente,Logística
+38,Ender. Diverg. NF,Legal
+39,Entrega Antecipada ,Logística
+41,Entrega Atrasada,Logística
+48,Preço Errado,Comercial
+50,Fora De Rota ,Logística
+51,Prod. Próx. Venc,Compras
