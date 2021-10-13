@@ -1,0 +1,136 @@
+01.00.00000 | RECEITA BRUTA
+	01.01.00000 | AGRICULTURA
+		01.01.00001 | Feijão
+		01.01.00002 | Milho
+		01.01.00003 | Soja
+		01.01.00004 | Café
+		01.01.00005 | Trigo
+02.00.00000 | DEDUCOES DA RECEITA BRUTA
+	02.01.00000 | IMPOSTOS SOBRE RECEITA
+		02.01.00001 | INSS
+03.00.00000 | INSUMOS E UTILIDADES
+	03.01.00000 | INSUMOS AGRÍCOLAS
+		03.01.00001 | Corretivos / Fertilizantes
+		03.01.00002 | Sementes
+		03.01.00003 | Defensivos
+		03.01.00004 | Outros Insumos Agrícolas
+	03.02.00000 | COMBUSTÍVEIS E LUBRIFICANTES
+		03.02.00001 | Combustíveis
+		03.02.00002 | Lubrificantes
+		03.02.00003 | Lenha
+	03.03.00000 | UTILIDADES
+		03.03.00001 | Oxigênio e Acetileno
+		03.03.00002 | Instrumentos, Ferramentas e Apetrechos
+		03.03.00003 | Energia eletrica - Demanda
+		03.03.00004 | Energia eletrica - Consumo
+		03.03.00005 | Outras Utilidades
+04.00.00000 | SALARIOS E ENCARGOS
+	04.01.00000 | SALÁRIOS
+		04.01.00001 | Salários
+		04.01.00002 | Horas Extras
+		04.01.00003 | Adicional Noturno
+		04.01.00004 | Adicional Periculosidade
+		04.01.00005 | Adicional Insalubridade
+	04.02.00000 | ENCARGOS SOCIAIS
+		04.02.00001 | FGTS
+	04.03.00000 | PROVISÕES TRABALHISTAS
+		04.03.00001 | Provisão de Férias
+		04.03.00002 | Provisão de 13o Salário
+05.00.00000 | GASTOS COM PESSOAL
+	05.01.00000 | ALIMENTAÇÃO
+		05.01.00001 | Gêneros Alimentícios
+		05.01.00002 | Utensílios de Copa & Cozinha
+		05.01.00003 | Material de Combustão
+		05.01.00004 | Vale Alimentação
+	05.02.00000 | AMBULATÓRIO E FARMÁCIA
+		05.02.00001 | Utensílios e Instrumentos de Enfermaria
+		05.02.00002 | Material de Enfermagem
+		05.02.00003 | Medicamentos
+		05.02.00004 | Honorários Médicos
+	05.03.00000 | ALOJAMENTOS
+		05.03.00001 | Roupas de Cama
+		05.03.00002 | Material de Higiene e Limpeza
+	05.04.00000 | SEGURANÇA E SAÚDE DO TRABALHO
+		05.04.00001 | Uniformes
+		05.04.00002 | Epi's
+		05.04.00003 | Exames Médicos e Medicamentos
+	05.05.00000 | QUALIFICAÇÃO E TREINAMENTO
+		05.05.00001 | Cursos de Treinamento
+	05.06.00000 | OUTROS BENEFÍCIOS A FUNCIONÁRIOS
+		05.06.00001 | Vale Transporte
+		05.06.00002 | Transporte de Pessoal
+		05.06.00003 | Assistencia Médica
+06.00.00000 | SERVIÇOS DE TERCEIROS
+	06.01.00000 | SERVIÇOS DE TERCEIROS
+		06.01.00001 | Consultorias
+		06.01.00002 | Outros Serviços Prestados por PJ
+		06.01.00003 | Certificação
+		06.01.00004 | Auditoria
+		06.01.00005 | Servicos de manutencao por terceiros
+07.00.00000 | MANUTENÇÃO EM GERAL
+	07.01.00000 | MANUTENÇÃO - PEÇAS ACESSÓRIOS
+		07.01.00001 | Pecas de maquinas, veiculos e eqptos
+		07.01.00002 | Materiais de construcao, eletricos e hidraulicos
+08.00.00000 | DESPESAS ADMINISTRATIVAS
+	08.01.00000 | SEGUROS DIVERSOS
+		08.01.00001 | Seguro de Veículos
+		08.01.00002 | Seguro de Máquinas Equipamentos e Implementos Ag
+		08.01.00003 | Seguro de Construções e Instalações
+		08.01.00004 | Seguro de Pessoal
+		08.01.00005 | Seguro de Mercadorias
+		08.01.00006 | Seguro de Responsabilidade Civil
+	08.02.00000 | DESPESAS ADMINISTRATIVAS
+		08.02.00001 | Impressos, Xerox e Materiais de Escritório
+		08.02.00002 | Lanches e Refeições
+		08.02.00003 | Transportes / Reembolso Km / Estacionamento
+		08.02.00004 | Assinatura de Publicações
+		08.02.00005 | Correios / Courrier / Motoboy
+		08.02.00006 | Telefone, Banda Larga e Provedor de Internet
+		08.02.00007 | Despesas Legais, Cartórios e Autenticações
+		08.02.00008 | Associações de Classe
+		08.02.00009 | Inscrições em Congressos / Palestras / Seminários
+		08.02.00010 | Bens de Pequeno Valor
+		08.02.00011 | Hortas e Pomares
+		08.02.00012 | Aluguel e condominio
+		08.02.00013 | Materiais e utensilios de limpeza
+	08.03.00000 | DESPESAS COM INFORMATICA
+		08.03.00001 | Periféricos
+		08.03.00002 | Manutenção de informatica
+		08.03.00003 | Aluguel / Licenças de Software
+		08.03.00004 | Materiais de Informática
+	08.04.00000 | DESPESAS COM VIAGENS
+		08.04.00001 | Passagens Aéreas e Terrestres
+		08.04.00002 | Hotel e Refeições
+		08.04.00003 | Reembolso de Km / Estacionamento / Pedágio
+		08.04.00004 | Condução / Locomoção
+	08.05.00000 | DESPESAS COM VEICULOS
+		08.05.00001 | IPVA
+09.00.00000 | IMPOSTOS TAXAS E CONTRIBUIÇÕES
+	09.01.00000 | IMPOSTOS, TAXAS E CONTRIBUIÇÕES
+		09.01.00001 | ITR
+		09.01.00002 | Taxas e Emolumentos
+		09.01.00003 | Taxas Administrativas
+10.00.00000 | LOCACOES
+	10.01.00000 | LOCACOES
+		10.01.00001 | Locacoes de caminhoes
+		10.01.00002 | Locação de Veículos
+11.00.00000 | EXAUSTÃO DEPRECIAÇÃO E AMORTIZAÇÃO
+	11.01.00000 | DEPRECIAÇÃO
+		11.01.00001 | Rebanhos
+		11.01.00002 | Culturas Permanentes Formadas
+		11.01.00003 | Sistemas de Irrigação / fertiirigação
+		11.01.00004 | Máquinas, Equipamentos e Implementos Agrícolas
+		11.01.00006 | Instalações Pecuárias
+		11.01.00007 | Máquinas Equipamentos e Implementos Pecuários
+		11.01.00008 | Instalações
+		11.01.00009 | Veículos
+		11.01.00010 | Depreciação Maq e Implementos objetos de Leasing
+		11.01.00011 | Construções Civis
+		11.01.00012 | Equipamentos de Informática
+		11.01.00013 | Móveis e Utensílios
+		11.01.00014 | Obras de Infra-estrutura
+		11.01.00015 | Rede de Comunicação
+		11.01.00016 | Rede Elétrica
+		11.01.00017 | Usina de Beneficiamento
+	11.02.00000 | AMORTIZAÇÃO DIFERIDO
+		11.02.00001 | Softwares

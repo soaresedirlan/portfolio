@@ -1,0 +1,20 @@
+Cod.DRE,Descrição,Tipo
+1,RECEITA BRUTA,A
+2,( - ) Deduções da Receita,A
+3,RECEITA LÍQUIDA,ST
+5,"	( - ) Salários e Encargos",A
+6,"	( - ) Gastos com Pessoal",A
+7,"	( - ) Insumos Agrícolas",A
+8,"	( - ) Combustíveis e Lubrificantes",A
+9,"	( - ) Energia Elétrica",A
+10,"	( - ) Manutenção",A
+11,"	( - ) Serviços de Terceiros",A
+12,"	( - ) Seguros",A
+13,LUCRO BRUTO,ST
+14,( - ) Despesas Operacionais,A
+15,EBITDA,ST
+16,( - ) Depreciação,A
+17,( - ) Amortização,A
+18,LUCRO OPERACIONAL,ST
+19,( - ) Tributos,A
+20,LUCRO LÍQUIDO,ST
