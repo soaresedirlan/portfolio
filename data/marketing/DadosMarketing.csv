@@ -1,0 +1,2001 @@
+Cliente,Origem Lead,Tipo Membro,Data Contato,Data Efetivação,Valor da Venda,Vendedor
+Cli0001,Outros,Gold,4/26/2019,12/12/2019,2700,Felipe
+Cli0002,Blog,Black,12/5/2019,12/12/2019,1800,João
+Cli0003,Blog,Black,9/30/2019,12/9/2019,1800,Jorge
+Cli0004,Google Ads,Gold,9/13/2018,12/9/2019,999,Jorge
+Cli0005,Blog,Gold,5/12/2018,12/9/2019,2700,Maria
+Cli0006,Facebook Ads,Gold,11/6/2019,12/9/2019,2700,Clarita
+Cli0007,Google Ads,Gold,11/20/2019,12/9/2019,2700,Karina
+Cli0008,Google Ads,Gold,7/11/2019,12/8/2019,2700,Oscar
+Cli0009,Blog,Black,11/25/2019,12/5/2019,1800,Karina
+Cli0010,Blog,Platinum,7/12/2019,12/2/2019,3500,Maria
+Cli0011,Google Ads,Gold,11/28/2019,12/2/2019,2700,Rodolfo
+Cli0012,Afiliados,Black,11/25/2019,12/1/2019,1800,Allan
+Cli0013,Blog,Gold,11/26/2018,12/1/2019,2700,Rodolfo
+Cli0014,Email Marketing,Gold,7/14/2019,12/1/2019,999,Rodolfo
+Cli0015,Afiliados,Gold,11/10/2018,12/1/2019,2700,Oscar
+Cli0016,Blog,Platinum,2/6/2019,11/30/2019,3500,Maria
+Cli0017,Blog,Gold,11/11/2019,11/30/2019,2700,Rodolfo
+Cli0018,Outros,Black,11/27/2019,11/30/2019,1800,Rodolfo
+Cli0019,Blog,Gold,11/22/2019,11/30/2019,999,Karina
+Cli0020,Blog,Gold,7/12/2019,11/30/2019,2700,Roberto
+Cli0021,Blog,Gold,10/5/2019,11/30/2019,999,Oscar
+Cli0022,Blog,Gold,7/7/2019,11/30/2019,2700,Jorge
+Cli0023,Blog,Gold,11/27/2019,11/30/2019,2700,Oscar
+Cli0024,Blog,Gold,11/15/2019,11/30/2019,2700,Allan
+Cli0025,Blog,Gold,11/20/2019,11/30/2019,2700,Jorge
+Cli0026,Blog,Platinum,8/15/2019,11/29/2019,3500,Roberto
+Cli0027,Afiliados,Gold,11/15/2019,11/29/2019,2700,Felipe
+Cli0028,Blog,Black,11/20/2019,11/29/2019,1800,Maria
+Cli0029,Blog,Gold,11/8/2019,11/29/2019,2700,Karina
+Cli0030,Google Ads,Gold,10/25/2019,11/29/2019,999,Felipe
+Cli0031,Blog,Gold,11/22/2019,11/29/2019,999,Allan
+Cli0032,Afiliados,Gold,7/31/2018,11/28/2019,999,Thaize
+Cli0033,Blog,Gold,5/17/2019,11/28/2019,999,Roberto
+Cli0034,Blog,Platinum,11/21/2019,11/28/2019,3500,Clarita
+Cli0035,Blog,Black,9/21/2019,11/28/2019,1800,Karina
+Cli0036,Blog,Gold,11/30/2018,11/25/2019,2700,Allan
+Cli0037,Afiliados,Gold,4/1/2019,11/25/2019,999,Rodolfo
+Cli0038,Outros,Platinum,11/16/2019,11/25/2019,3500,Jorge
+Cli0039,Blog,Gold,7/4/2018,11/25/2019,2700,João
+Cli0040,Facebook Ads,Black,11/15/2019,11/25/2019,1800,Maria
+Cli0041,Blog,Black,5/22/2019,11/25/2019,1800,Maria
+Cli0042,Outros,Gold,11/10/2019,11/25/2019,999,Roberto
+Cli0043,Blog,Black,5/31/2018,11/24/2019,1800,Allan
+Cli0044,Afiliados,Gold,7/13/2019,11/24/2019,2700,Clarita
+Cli0045,Blog,Black,11/15/2019,11/23/2019,1800,Rodolfo
+Cli0046,Blog,Platinum,5/24/2019,11/22/2019,3500,Maria
+Cli0047,Blog,Black,10/10/2018,11/21/2019,1800,Rodolfo
+Cli0048,Google Ads,Gold,11/5/2018,11/18/2019,999,João
+Cli0049,Blog,Black,9/8/2018,11/18/2019,1800,Jorge
+Cli0050,Blog,Black,1/16/2019,11/18/2019,1800,Thaize
+Cli0051,Blog,Black,11/13/2019,11/18/2019,1800,Rodolfo
+Cli0052,Google Ads,Gold,11/6/2019,11/17/2019,2700,Jorge
+Cli0053,Google Ads,Platinum,9/11/2019,11/17/2019,3500,João
+Cli0054,Email Marketing,Gold,10/17/2019,11/17/2019,2700,Maria
+Cli0055,Blog,Platinum,8/5/2019,11/17/2019,3500,Karina
+Cli0056,Blog,Gold,10/27/2019,11/17/2019,2700,Jorge
+Cli0057,Outros,Platinum,9/11/2019,11/17/2019,3500,Roberto
+Cli0058,Google Ads,Gold,11/6/2019,11/17/2019,2700,Jorge
+Cli0059,Blog,Black,10/17/2019,11/15/2019,1800,Jorge
+Cli0060,Blog,Gold,11/7/2019,11/14/2019,999,Thaize
+Cli0061,Blog,Gold,10/25/2019,11/14/2019,999,João
+Cli0062,Google Ads,Black,11/6/2019,11/11/2019,1800,Roberto
+Cli0063,Email Marketing,Gold,11/30/2018,11/11/2019,999,Roberto
+Cli0064,Google Ads,Black,9/1/2019,11/11/2019,1800,Maria
+Cli0065,Blog,Platinum,6/11/2019,11/11/2019,3500,Oscar
+Cli0066,Blog,Black,4/2/2018,11/10/2019,1800,Rodolfo
+Cli0067,Email Marketing,Gold,8/26/2019,11/10/2019,999,Roberto
+Cli0068,Outros,Gold,9/14/2019,11/9/2019,999,Clarita
+Cli0069,Google Ads,Black,10/6/2019,11/8/2019,1800,Allan
+Cli0070,Blog,Gold,10/22/2019,11/8/2019,2700,Felipe
+Cli0071,Google Ads,Black,10/26/2019,11/8/2019,1800,Karina
+Cli0072,Google Ads,Black,11/7/2019,11/7/2019,1800,Oscar
+Cli0073,Blog,Gold,10/21/2019,11/7/2019,2700,Thaize
+Cli0074,Google Ads,Black,10/16/2019,11/4/2019,1800,Clarita
+Cli0075,Blog,Platinum,6/24/2019,11/3/2019,3500,Karina
+Cli0076,Google Ads,Platinum,9/27/2019,11/3/2019,3500,Allan
+Cli0077,Blog,Platinum,4/22/2019,11/3/2019,3500,Jorge
+Cli0078,Outros,Gold,9/27/2019,11/3/2019,2700,Allan
+Cli0079,Blog,Gold,3/14/2019,11/3/2019,2700,João
+Cli0080,Afiliados,Black,10/9/2019,11/2/2019,1800,Felipe
+Cli0081,Blog,Black,9/25/2019,11/2/2019,1800,Thaize
+Cli0082,Blog,Gold,3/30/2018,11/2/2019,2700,Allan
+Cli0083,Facebook Ads,Gold,8/22/2019,11/1/2019,2700,Karina
+Cli0084,Facebook Ads,Gold,9/24/2019,11/1/2019,2700,Rodolfo
+Cli0085,Blog,Gold,2/23/2018,10/31/2019,2700,Jorge
+Cli0086,Facebook Ads,Gold,3/27/2019,10/31/2019,999,Allan
+Cli0087,Blog,Black,10/17/2019,10/31/2019,1800,Thaize
+Cli0088,Facebook Ads,Black,4/1/2018,10/28/2019,1800,Felipe
+Cli0089,Facebook Ads,Gold,8/7/2018,10/28/2019,2700,Rodolfo
+Cli0090,Google Ads,Gold,8/14/2019,10/28/2019,2700,Thaize
+Cli0091,Email Marketing,Gold,10/19/2019,10/28/2019,999,Clarita
+Cli0092,Facebook Ads,Black,8/14/2019,10/28/2019,1800,Karina
+Cli0093,Google Ads,Gold,2/15/2019,10/28/2019,2700,Jorge
+Cli0094,Afiliados,Black,3/24/2019,10/28/2019,1800,Allan
+Cli0095,Afiliados,Black,1/28/2018,10/28/2019,1800,Rodolfo
+Cli0096,Google Ads,Gold,7/27/2018,10/28/2019,2700,Oscar
+Cli0097,Afiliados,Gold,10/12/2019,10/28/2019,2700,Jorge
+Cli0098,Blog,Gold,9/21/2019,10/28/2019,2700,Oscar
+Cli0099,Google Ads,Black,10/20/2019,10/28/2019,1800,Jorge
+Cli0100,Outros,Gold,12/16/2018,10/27/2019,999,Karina
+Cli0101,Email Marketing,Gold,6/15/2018,10/27/2019,999,Roberto
+Cli0102,Blog,Platinum,6/26/2019,10/27/2019,3500,Oscar
+Cli0103,Blog,Black,10/20/2019,10/27/2019,1800,Jorge
+Cli0104,Outros,Black,2/19/2019,10/26/2019,1800,Rodolfo
+Cli0105,Afiliados,Gold,4/5/2018,10/26/2019,2700,Thaize
+Cli0106,Outros,Gold,9/27/2019,10/26/2019,2700,João
+Cli0107,Blog,Gold,10/20/2019,10/26/2019,2700,Jorge
+Cli0108,Email Marketing,Platinum,10/18/2019,10/26/2019,3500,Thaize
+Cli0109,Facebook Ads,Gold,11/2/2018,10/26/2019,2700,Allan
+Cli0110,Afiliados,Gold,10/7/2019,10/24/2019,2700,Rodolfo
+Cli0111,Blog,Gold,9/11/2019,10/24/2019,2700,Allan
+Cli0112,Afiliados,Black,2/27/2019,10/24/2019,1800,Maria
+Cli0113,Afiliados,Gold,10/6/2018,10/21/2019,999,Roberto
+Cli0114,Facebook Ads,Gold,7/13/2019,10/21/2019,2700,Thaize
+Cli0115,Email Marketing,Black,10/12/2019,10/20/2019,1800,Roberto
+Cli0116,Blog,Platinum,10/12/2019,10/20/2019,3500,Rodolfo
+Cli0117,Google Ads,Gold,7/28/2019,10/18/2019,999,Rodolfo
+Cli0118,Blog,Platinum,10/12/2019,10/17/2019,3500,Jorge
+Cli0119,Google Ads,Platinum,9/12/2019,10/17/2019,3500,Oscar
+Cli0120,Blog,Black,7/21/2019,10/14/2019,1800,Felipe
+Cli0121,Google Ads,Gold,10/6/2019,10/14/2019,2700,João
+Cli0122,Google Ads,Black,9/30/2019,10/14/2019,1800,Jorge
+Cli0123,Google Ads,Gold,5/4/2018,10/14/2019,2700,Allan
+Cli0124,Facebook Ads,Platinum,10/1/2019,10/14/2019,3500,Karina
+Cli0125,Facebook Ads,Gold,3/20/2018,10/13/2019,999,Maria
+Cli0126,Afiliados,Gold,9/24/2019,10/13/2019,999,Rodolfo
+Cli0127,Blog,Black,8/22/2018,10/13/2019,1800,Clarita
+Cli0128,Email Marketing,Gold,9/26/2019,10/11/2019,2700,Felipe
+Cli0129,Afiliados,Platinum,9/15/2019,10/10/2019,3500,Oscar
+Cli0130,Blog,Platinum,9/24/2019,10/10/2019,3500,Thaize
+Cli0131,Outros,Platinum,3/31/2018,10/7/2019,3500,Karina
+Cli0132,Blog,Gold,9/30/2019,10/7/2019,2700,Rodolfo
+Cli0133,Google Ads,Gold,7/20/2019,10/7/2019,2700,Felipe
+Cli0134,Google Ads,Black,10/1/2019,10/6/2019,1800,Thaize
+Cli0135,Afiliados,Gold,8/20/2019,10/6/2019,2700,Felipe
+Cli0136,Google Ads,Platinum,8/29/2019,10/6/2019,3500,Rodolfo
+Cli0137,Outros,Gold,2/20/2019,10/5/2019,2700,Oscar
+Cli0138,Google Ads,Gold,8/8/2019,10/5/2019,999,Felipe
+Cli0139,Facebook Ads,Black,8/28/2019,10/4/2019,1800,Clarita
+Cli0140,Blog,Gold,9/27/2019,10/4/2019,2700,Oscar
+Cli0141,Email Marketing,Gold,9/13/2019,10/4/2019,2700,Karina
+Cli0142,Google Ads,Platinum,6/7/2019,9/30/2019,3500,João
+Cli0143,Facebook Ads,Black,9/21/2019,9/30/2019,1800,Jorge
+Cli0144,Blog,Gold,8/29/2019,9/30/2019,2700,Oscar
+Cli0145,Blog,Gold,8/2/2019,9/30/2019,999,Rodolfo
+Cli0146,Google Ads,Gold,9/18/2019,9/29/2019,999,Jorge
+Cli0147,Blog,Platinum,7/16/2018,9/26/2019,3500,Karina
+Cli0148,Blog,Gold,11/26/2018,9/26/2019,999,Maria
+Cli0149,Email Marketing,Gold,4/5/2019,9/26/2019,999,Oscar
+Cli0150,Afiliados,Platinum,9/23/2019,9/26/2019,3500,Thaize
+Cli0151,Blog,Gold,8/25/2018,9/23/2019,2700,Jorge
+Cli0152,Outros,Black,3/19/2018,9/23/2019,1800,Maria
+Cli0153,Afiliados,Platinum,1/16/2019,9/23/2019,3500,Oscar
+Cli0154,Facebook Ads,Gold,3/20/2018,9/23/2019,2700,Clarita
+Cli0155,Email Marketing,Gold,7/14/2019,9/23/2019,999,Oscar
+Cli0156,Google Ads,Gold,6/1/2019,9/23/2019,2700,Jorge
+Cli0157,Facebook Ads,Black,4/3/2019,9/23/2019,1800,Thaize
+Cli0158,Blog,Gold,8/25/2019,9/23/2019,2700,João
+Cli0159,Blog,Gold,11/30/2018,9/23/2019,999,Roberto
+Cli0160,Facebook Ads,Platinum,5/8/2019,9/21/2019,3500,Karina
+Cli0161,Blog,Platinum,9/4/2019,9/19/2019,3500,Felipe
+Cli0162,Email Marketing,Gold,1/2/2019,9/19/2019,2700,Jorge
+Cli0163,Blog,Gold,5/4/2019,9/19/2019,2700,João
+Cli0164,Blog,Gold,10/4/2018,9/15/2019,2700,Felipe
+Cli0165,Blog,Gold,9/12/2019,9/15/2019,2700,Jorge
+Cli0166,Blog,Black,8/28/2019,9/14/2019,1800,Jorge
+Cli0167,Afiliados,Gold,1/30/2019,9/14/2019,2700,Jorge
+Cli0168,Blog,Platinum,6/8/2018,9/12/2019,3500,Rodolfo
+Cli0169,Google Ads,Platinum,9/6/2019,9/12/2019,3500,Allan
+Cli0170,Blog,Gold,11/27/2018,9/8/2019,2700,Karina
+Cli0171,Blog,Platinum,10/26/2018,9/8/2019,3500,Karina
+Cli0172,Email Marketing,Gold,2/21/2018,9/8/2019,2700,Oscar
+Cli0173,Blog,Gold,11/28/2018,9/7/2019,999,Jorge
+Cli0174,Email Marketing,Black,6/11/2018,9/6/2019,1800,Karina
+Cli0175,Blog,Platinum,11/1/2018,9/5/2019,3500,Karina
+Cli0176,Blog,Gold,8/24/2019,9/2/2019,2700,Roberto
+Cli0177,Afiliados,Platinum,6/19/2019,9/1/2019,3500,Jorge
+Cli0178,Blog,Platinum,7/20/2018,8/31/2019,3500,Jorge
+Cli0179,Google Ads,Gold,3/15/2018,8/31/2019,2700,Allan
+Cli0180,Blog,Platinum,8/24/2019,8/31/2019,3500,Roberto
+Cli0181,Afiliados,Gold,7/13/2019,8/31/2019,2700,Thaize
+Cli0182,Blog,Gold,6/10/2019,8/31/2019,999,Oscar
+Cli0183,Blog,Gold,7/30/2018,8/31/2019,2700,Felipe
+Cli0184,Blog,Gold,3/22/2019,8/31/2019,2700,João
+Cli0185,Blog,Black,6/9/2018,8/31/2019,1800,Allan
+Cli0186,Google Ads,Gold,8/31/2019,8/31/2019,2700,Jorge
+Cli0187,Outros,Gold,7/5/2019,8/31/2019,2700,Jorge
+Cli0188,Blog,Black,5/31/2018,8/31/2019,1800,Rodolfo
+Cli0189,Blog,Gold,8/12/2019,8/31/2019,2700,Clarita
+Cli0190,Facebook Ads,Gold,5/5/2019,8/30/2019,999,Roberto
+Cli0191,Blog,Platinum,10/3/2018,8/30/2019,3500,Oscar
+Cli0192,Afiliados,Gold,6/16/2018,8/29/2019,2700,Jorge
+Cli0193,Blog,Platinum,7/5/2019,8/29/2019,3500,Maria
+Cli0194,Blog,Gold,8/21/2019,8/29/2019,999,Felipe
+Cli0195,Facebook Ads,Black,6/30/2019,8/29/2019,1800,João
+Cli0196,Google Ads,Platinum,7/12/2019,8/29/2019,3500,Felipe
+Cli0197,Facebook Ads,Platinum,4/18/2019,8/26/2019,3500,Thaize
+Cli0198,Blog,Gold,12/12/2018,8/26/2019,2700,Clarita
+Cli0199,Google Ads,Black,7/18/2019,8/26/2019,1800,Rodolfo
+Cli0200,Blog,Gold,8/25/2019,8/25/2019,999,Roberto
+Cli0201,Blog,Platinum,8/25/2019,8/25/2019,3500,Jorge
+Cli0202,Email Marketing,Gold,8/25/2019,8/25/2019,999,Jorge
+Cli0203,Google Ads,Black,3/7/2018,8/24/2019,1800,Karina
+Cli0204,Blog,Gold,2/22/2018,8/24/2019,999,Maria
+Cli0205,Blog,Black,7/13/2019,8/24/2019,1800,Felipe
+Cli0206,Facebook Ads,Black,3/23/2019,8/24/2019,1800,Felipe
+Cli0207,Blog,Gold,3/27/2019,8/24/2019,2700,Thaize
+Cli0208,Outros,Gold,8/9/2018,8/24/2019,999,Thaize
+Cli0209,Email Marketing,Gold,10/3/2018,8/22/2019,2700,Thaize
+Cli0210,Blog,Gold,1/29/2018,8/22/2019,2700,Rodolfo
+Cli0211,Google Ads,Black,1/23/2019,8/22/2019,1800,Roberto
+Cli0212,Facebook Ads,Gold,7/18/2019,8/22/2019,2700,Maria
+Cli0213,Blog,Platinum,3/29/2019,8/19/2019,3500,Rodolfo
+Cli0214,Blog,Gold,8/12/2019,8/19/2019,2700,Jorge
+Cli0215,Blog,Gold,6/22/2018,8/19/2019,2700,Karina
+Cli0216,Google Ads,Gold,6/6/2019,8/19/2019,2700,Karina
+Cli0217,Afiliados,Platinum,5/11/2019,8/18/2019,3500,João
+Cli0218,Email Marketing,Gold,5/1/2019,8/17/2019,999,Jorge
+Cli0219,Blog,Gold,11/5/2018,8/17/2019,999,Thaize
+Cli0220,Google Ads,Gold,7/16/2018,8/16/2019,999,Felipe
+Cli0221,Outros,Black,11/29/2018,8/15/2019,1800,Jorge
+Cli0222,Blog,Gold,7/25/2019,8/15/2019,2700,Felipe
+Cli0223,Google Ads,Platinum,8/6/2019,8/15/2019,3500,Clarita
+Cli0224,Blog,Gold,8/8/2019,8/12/2019,999,Jorge
+Cli0225,Outros,Gold,3/8/2018,8/12/2019,2700,Jorge
+Cli0226,Blog,Platinum,8/7/2019,8/11/2019,3500,Jorge
+Cli0227,Outros,Black,4/16/2019,8/11/2019,1800,Roberto
+Cli0228,Blog,Gold,7/27/2019,8/11/2019,2700,Clarita
+Cli0229,Blog,Gold,8/7/2019,8/11/2019,999,Felipe
+Cli0230,Facebook Ads,Gold,7/30/2019,8/8/2019,999,João
+Cli0231,Blog,Black,7/27/2019,8/5/2019,1800,Felipe
+Cli0232,Google Ads,Gold,2/14/2019,8/4/2019,2700,Karina
+Cli0233,Google Ads,Gold,7/28/2019,8/1/2019,2700,Felipe
+Cli0234,Blog,Gold,7/11/2019,8/1/2019,2700,João
+Cli0235,Outros,Gold,3/12/2019,8/1/2019,2700,Oscar
+Cli0236,Blog,Gold,7/27/2019,8/1/2019,999,Thaize
+Cli0237,Blog,Gold,6/26/2019,7/29/2019,2700,Karina
+Cli0238,Facebook Ads,Gold,1/28/2018,7/29/2019,999,Felipe
+Cli0239,Facebook Ads,Platinum,7/13/2019,7/29/2019,3500,Felipe
+Cli0240,Afiliados,Gold,5/18/2019,7/29/2019,2700,Oscar
+Cli0241,Facebook Ads,Gold,7/25/2019,7/28/2019,999,João
+Cli0242,Google Ads,Black,7/28/2019,7/28/2019,1800,Jorge
+Cli0243,Blog,Platinum,6/8/2019,7/28/2019,3500,Oscar
+Cli0244,Blog,Platinum,7/22/2019,7/28/2019,3500,João
+Cli0245,Outros,Platinum,4/11/2019,7/28/2019,3500,Rodolfo
+Cli0246,Email Marketing,Gold,3/19/2019,7/27/2019,2700,Oscar
+Cli0247,Blog,Gold,5/25/2019,7/26/2019,999,Karina
+Cli0248,Blog,Gold,7/26/2019,7/26/2019,2700,Allan
+Cli0249,Blog,Platinum,4/10/2019,7/26/2019,3500,Rodolfo
+Cli0250,Blog,Gold,7/26/2019,7/26/2019,999,Clarita
+Cli0251,Blog,Gold,7/14/2019,7/25/2019,2700,Felipe
+Cli0252,Email Marketing,Platinum,7/25/2019,7/25/2019,3500,Karina
+Cli0253,Blog,Platinum,7/25/2019,7/25/2019,3500,Oscar
+Cli0254,Google Ads,Platinum,7/25/2019,7/25/2019,3500,Karina
+Cli0255,Google Ads,Black,7/25/2019,7/25/2019,1800,Jorge
+Cli0256,Blog,Gold,7/25/2019,7/25/2019,2700,Felipe
+Cli0257,Blog,Gold,7/25/2019,7/25/2019,2700,João
+Cli0258,Blog,Gold,7/25/2019,7/25/2019,2700,Allan
+Cli0259,Afiliados,Platinum,7/25/2019,7/25/2019,3500,Thaize
+Cli0260,Blog,Gold,7/25/2019,7/25/2019,2700,Roberto
+Cli0261,Google Ads,Black,7/25/2019,7/25/2019,1800,Jorge
+Cli0262,Facebook Ads,Gold,5/15/2019,7/25/2019,999,Jorge
+Cli0263,Blog,Gold,7/13/2019,7/22/2019,2700,Roberto
+Cli0264,Google Ads,Gold,5/10/2018,7/22/2019,2700,Jorge
+Cli0265,Outros,Gold,7/18/2019,7/22/2019,2700,Allan
+Cli0266,Google Ads,Gold,5/18/2019,7/22/2019,2700,Thaize
+Cli0267,Blog,Platinum,7/13/2019,7/20/2019,3500,Rodolfo
+Cli0268,Facebook Ads,Gold,7/12/2019,7/20/2019,999,Oscar
+Cli0269,Blog,Gold,7/8/2019,7/20/2019,2700,Karina
+Cli0270,Outros,Gold,5/8/2019,7/19/2019,999,Thaize
+Cli0271,Email Marketing,Platinum,2/10/2019,7/15/2019,3500,Felipe
+Cli0272,Blog,Gold,6/28/2019,7/15/2019,2700,Roberto
+Cli0273,Outros,Platinum,11/27/2018,7/15/2019,3500,Felipe
+Cli0274,Blog,Gold,4/1/2019,7/15/2019,2700,Felipe
+Cli0275,Blog,Platinum,4/11/2019,7/15/2019,3500,Thaize
+Cli0276,Afiliados,Black,9/25/2018,7/15/2019,1800,João
+Cli0277,Outros,Platinum,6/26/2019,7/15/2019,3500,Maria
+Cli0278,Outros,Platinum,11/30/2018,7/15/2019,3500,Thaize
+Cli0279,Google Ads,Platinum,7/5/2019,7/15/2019,3500,Clarita
+Cli0280,Blog,Gold,7/10/2019,7/15/2019,2700,Maria
+Cli0281,Blog,Gold,3/29/2019,7/14/2019,2700,Allan
+Cli0282,Outros,Black,6/27/2019,7/14/2019,1800,Jorge
+Cli0283,Blog,Gold,6/29/2019,7/14/2019,2700,Roberto
+Cli0284,Outros,Platinum,5/26/2019,7/13/2019,3500,Roberto
+Cli0285,Email Marketing,Gold,7/8/2019,7/13/2019,999,Jorge
+Cli0286,Email Marketing,Black,7/2/2019,7/12/2019,1800,Roberto
+Cli0287,Blog,Black,6/29/2019,7/11/2019,1800,Rodolfo
+Cli0288,Google Ads,Platinum,5/24/2019,7/8/2019,3500,Oscar
+Cli0289,Afiliados,Gold,6/27/2019,7/8/2019,2700,Thaize
+Cli0290,Blog,Gold,5/3/2019,7/8/2019,2700,Maria
+Cli0291,Google Ads,Platinum,6/23/2019,7/8/2019,3500,Roberto
+Cli0292,Blog,Gold,6/10/2019,7/8/2019,999,Jorge
+Cli0293,Outros,Gold,5/18/2019,7/7/2019,999,Felipe
+Cli0294,Blog,Platinum,6/16/2019,7/7/2019,3500,Jorge
+Cli0295,Blog,Gold,1/18/2019,7/7/2019,2700,Clarita
+Cli0296,Blog,Platinum,4/18/2019,7/4/2019,3500,Rodolfo
+Cli0297,Blog,Platinum,6/29/2019,7/1/2019,3500,Jorge
+Cli0298,Google Ads,Gold,3/27/2019,7/1/2019,2700,Felipe
+Cli0299,Blog,Gold,6/15/2019,7/1/2019,999,Oscar
+Cli0300,Outros,Gold,4/26/2019,12/12/2019,999,Felipe
+Cli0301,Blog,Gold,12/5/2019,12/12/2019,2700,Rodolfo
+Cli0302,Outros,Gold,9/30/2019,12/9/2019,2700,Jorge
+Cli0303,Blog,Gold,9/13/2018,12/9/2019,2700,Maria
+Cli0304,Google Ads,Platinum,5/12/2018,12/9/2019,3500,Karina
+Cli0305,Email Marketing,Black,11/6/2019,12/9/2019,1800,Jorge
+Cli0306,Afiliados,Gold,11/20/2019,12/9/2019,999,Roberto
+Cli0307,Google Ads,Gold,7/11/2019,12/8/2019,999,Rodolfo
+Cli0308,Blog,Platinum,11/25/2019,12/5/2019,3500,Jorge
+Cli0309,Blog,Gold,7/12/2019,12/2/2019,2700,Thaize
+Cli0310,Blog,Gold,11/28/2019,12/2/2019,2700,Roberto
+Cli0311,Blog,Black,11/25/2019,12/1/2019,1800,Roberto
+Cli0312,Afiliados,Gold,11/26/2018,12/1/2019,2700,Oscar
+Cli0313,Blog,Black,7/14/2019,12/1/2019,1800,Maria
+Cli0314,Email Marketing,Platinum,11/10/2018,12/1/2019,3500,Clarita
+Cli0315,Afiliados,Gold,2/6/2019,11/30/2019,2700,Maria
+Cli0316,Google Ads,Gold,11/11/2019,11/30/2019,2700,Allan
+Cli0317,Google Ads,Gold,11/27/2019,11/30/2019,2700,Clarita
+Cli0318,Email Marketing,Black,11/22/2019,11/30/2019,1800,Maria
+Cli0319,Afiliados,Gold,7/12/2019,11/30/2019,2700,João
+Cli0320,Blog,Gold,10/5/2019,11/30/2019,2700,Felipe
+Cli0321,Outros,Gold,7/7/2019,11/30/2019,2700,Allan
+Cli0322,Facebook Ads,Gold,11/27/2019,11/30/2019,2700,Clarita
+Cli0323,Blog,Gold,11/15/2019,11/30/2019,999,Oscar
+Cli0324,Facebook Ads,Black,11/20/2019,11/30/2019,1800,Jorge
+Cli0325,Blog,Gold,8/15/2019,11/29/2019,2700,Maria
+Cli0326,Email Marketing,Gold,11/15/2019,11/29/2019,999,João
+Cli0327,Blog,Gold,11/20/2019,11/29/2019,999,João
+Cli0328,Google Ads,Platinum,11/8/2019,11/29/2019,3500,João
+Cli0329,Blog,Platinum,10/25/2019,11/29/2019,3500,Maria
+Cli0330,Blog,Platinum,11/22/2019,11/29/2019,3500,Oscar
+Cli0331,Email Marketing,Black,7/31/2018,11/28/2019,1800,Rodolfo
+Cli0332,Google Ads,Gold,5/17/2019,11/28/2019,2700,João
+Cli0333,Afiliados,Gold,11/21/2019,11/28/2019,2700,Karina
+Cli0334,Google Ads,Black,9/21/2019,11/28/2019,1800,João
+Cli0335,Facebook Ads,Gold,11/30/2018,11/25/2019,2700,Jorge
+Cli0336,Blog,Black,4/1/2019,11/25/2019,1800,Roberto
+Cli0337,Afiliados,Gold,11/16/2019,11/25/2019,999,Felipe
+Cli0338,Facebook Ads,Gold,7/4/2018,11/25/2019,999,Roberto
+Cli0339,Blog,Black,11/15/2019,11/25/2019,1800,Jorge
+Cli0340,Facebook Ads,Gold,5/22/2019,11/25/2019,2700,Roberto
+Cli0341,Blog,Black,11/10/2019,11/25/2019,1800,Jorge
+Cli0342,Google Ads,Platinum,5/31/2018,11/24/2019,3500,Jorge
+Cli0343,Facebook Ads,Platinum,7/13/2019,11/24/2019,3500,Clarita
+Cli0344,Afiliados,Platinum,11/15/2019,11/23/2019,3500,Oscar
+Cli0345,Blog,Black,5/24/2019,11/22/2019,1800,Roberto
+Cli0346,Blog,Black,10/10/2018,11/21/2019,1800,Rodolfo
+Cli0347,Afiliados,Gold,11/5/2018,11/18/2019,999,Felipe
+Cli0348,Blog,Gold,9/8/2018,11/18/2019,2700,Rodolfo
+Cli0349,Blog,Black,1/16/2019,11/18/2019,1800,Thaize
+Cli0350,Blog,Gold,11/13/2019,11/18/2019,2700,João
+Cli0351,Afiliados,Gold,11/6/2019,11/17/2019,999,Rodolfo
+Cli0352,Blog,Platinum,9/11/2019,11/17/2019,3500,Roberto
+Cli0353,Blog,Gold,10/17/2019,11/17/2019,999,Oscar
+Cli0354,Outros,Black,8/5/2019,11/17/2019,1800,Felipe
+Cli0355,Google Ads,Platinum,10/27/2019,11/17/2019,3500,Roberto
+Cli0356,Blog,Gold,9/11/2019,11/17/2019,2700,Jorge
+Cli0357,Google Ads,Platinum,11/6/2019,11/17/2019,3500,Allan
+Cli0358,Outros,Platinum,10/17/2019,11/15/2019,3500,Thaize
+Cli0359,Afiliados,Gold,11/7/2019,11/14/2019,2700,João
+Cli0360,Blog,Gold,10/25/2019,11/14/2019,2700,Oscar
+Cli0361,Google Ads,Gold,11/6/2019,11/11/2019,999,Jorge
+Cli0362,Google Ads,Gold,11/30/2018,11/11/2019,2700,Karina
+Cli0363,Afiliados,Gold,9/1/2019,11/11/2019,2700,Thaize
+Cli0364,Blog,Gold,6/11/2019,11/11/2019,999,Jorge
+Cli0365,Facebook Ads,Gold,4/2/2018,11/10/2019,2700,Oscar
+Cli0366,Blog,Black,8/26/2019,11/10/2019,1800,Felipe
+Cli0367,Outros,Gold,9/14/2019,11/9/2019,999,João
+Cli0368,Outros,Black,10/6/2019,11/8/2019,1800,Oscar
+Cli0369,Outros,Gold,10/22/2019,11/8/2019,2700,Maria
+Cli0370,Google Ads,Gold,10/26/2019,11/8/2019,2700,Allan
+Cli0371,Blog,Gold,11/7/2019,11/7/2019,2700,Roberto
+Cli0372,Google Ads,Gold,10/21/2019,11/7/2019,2700,Oscar
+Cli0373,Outros,Gold,10/16/2019,11/4/2019,999,Maria
+Cli0374,Google Ads,Gold,6/24/2019,11/3/2019,2700,Oscar
+Cli0375,Blog,Gold,9/27/2019,11/3/2019,2700,Rodolfo
+Cli0376,Blog,Black,4/22/2019,11/3/2019,1800,Felipe
+Cli0377,Outros,Gold,9/27/2019,11/3/2019,2700,Clarita
+Cli0378,Blog,Platinum,3/14/2019,11/3/2019,3500,Jorge
+Cli0379,Google Ads,Platinum,10/9/2019,11/2/2019,3500,João
+Cli0380,Blog,Platinum,9/25/2019,11/2/2019,3500,Clarita
+Cli0381,Blog,Gold,3/30/2018,11/2/2019,999,Roberto
+Cli0382,Blog,Gold,8/22/2019,11/1/2019,999,Oscar
+Cli0383,Blog,Platinum,9/24/2019,11/1/2019,3500,Thaize
+Cli0384,Afiliados,Black,2/23/2018,10/31/2019,1800,Jorge
+Cli0385,Email Marketing,Platinum,3/27/2019,10/31/2019,3500,Rodolfo
+Cli0386,Blog,Gold,10/17/2019,10/31/2019,2700,Thaize
+Cli0387,Outros,Gold,4/1/2018,10/28/2019,2700,Jorge
+Cli0388,Google Ads,Black,8/7/2018,10/28/2019,1800,Maria
+Cli0389,Blog,Platinum,8/14/2019,10/28/2019,3500,Jorge
+Cli0390,Blog,Gold,10/19/2019,10/28/2019,999,Allan
+Cli0391,Afiliados,Gold,8/14/2019,10/28/2019,2700,Jorge
+Cli0392,Blog,Gold,2/15/2019,10/28/2019,2700,Maria
+Cli0393,Facebook Ads,Gold,3/24/2019,10/28/2019,999,Oscar
+Cli0394,Blog,Platinum,1/28/2018,10/28/2019,3500,Roberto
+Cli0395,Email Marketing,Black,7/27/2018,10/28/2019,1800,Felipe
+Cli0396,Google Ads,Platinum,10/12/2019,10/28/2019,3500,Jorge
+Cli0397,Email Marketing,Black,9/21/2019,10/28/2019,1800,Allan
+Cli0398,Outros,Gold,10/20/2019,10/28/2019,2700,Allan
+Cli0399,Blog,Gold,12/16/2018,10/27/2019,999,João
+Cli0400,Blog,Gold,6/15/2018,10/27/2019,999,Maria
+Cli0401,Email Marketing,Black,6/26/2019,10/27/2019,1800,Jorge
+Cli0402,Afiliados,Gold,10/20/2019,10/27/2019,999,Karina
+Cli0403,Google Ads,Platinum,2/19/2019,10/26/2019,3500,Clarita
+Cli0404,Blog,Black,4/5/2018,10/26/2019,1800,Thaize
+Cli0405,Google Ads,Gold,9/27/2019,10/26/2019,2700,Maria
+Cli0406,Afiliados,Platinum,10/20/2019,10/26/2019,3500,Jorge
+Cli0407,Blog,Gold,10/18/2019,10/26/2019,999,Jorge
+Cli0408,Afiliados,Gold,11/2/2018,10/26/2019,999,Rodolfo
+Cli0409,Blog,Black,10/7/2019,10/24/2019,1800,Maria
+Cli0410,Blog,Gold,9/11/2019,10/24/2019,999,Jorge
+Cli0411,Blog,Gold,2/27/2019,10/24/2019,2700,Oscar
+Cli0412,Google Ads,Black,10/6/2018,10/21/2019,1800,Maria
+Cli0413,Outros,Platinum,7/13/2019,10/21/2019,3500,Roberto
+Cli0414,Blog,Platinum,10/12/2019,10/20/2019,3500,Clarita
+Cli0415,Blog,Platinum,10/12/2019,10/20/2019,3500,Roberto
+Cli0416,Outros,Gold,7/28/2019,10/18/2019,2700,Maria
+Cli0417,Afiliados,Gold,10/12/2019,10/17/2019,2700,Allan
+Cli0418,Blog,Gold,9/12/2019,10/17/2019,2700,Roberto
+Cli0419,Facebook Ads,Platinum,7/21/2019,10/14/2019,3500,Maria
+Cli0420,Blog,Gold,10/6/2019,10/14/2019,2700,Thaize
+Cli0421,Blog,Gold,9/30/2019,10/14/2019,2700,Rodolfo
+Cli0422,Facebook Ads,Gold,5/4/2018,10/14/2019,2700,Rodolfo
+Cli0423,Blog,Black,10/1/2019,10/14/2019,1800,Thaize
+Cli0424,Blog,Gold,3/20/2018,10/13/2019,2700,Roberto
+Cli0425,Google Ads,Gold,9/24/2019,10/13/2019,999,Maria
+Cli0426,Blog,Platinum,8/22/2018,10/13/2019,3500,Felipe
+Cli0427,Blog,Gold,9/26/2019,10/11/2019,2700,Allan
+Cli0428,Google Ads,Black,9/15/2019,10/10/2019,1800,Roberto
+Cli0429,Google Ads,Platinum,9/24/2019,10/10/2019,3500,Rodolfo
+Cli0430,Blog,Gold,3/31/2018,10/7/2019,2700,Jorge
+Cli0431,Email Marketing,Gold,9/30/2019,10/7/2019,2700,João
+Cli0432,Facebook Ads,Black,7/20/2019,10/7/2019,1800,João
+Cli0433,Blog,Gold,10/1/2019,10/6/2019,2700,Maria
+Cli0434,Blog,Gold,8/20/2019,10/6/2019,2700,Jorge
+Cli0435,Blog,Platinum,8/29/2019,10/6/2019,3500,João
+Cli0436,Outros,Gold,2/20/2019,10/5/2019,999,Oscar
+Cli0437,Blog,Gold,8/8/2019,10/5/2019,2700,Rodolfo
+Cli0438,Outros,Gold,8/28/2019,10/4/2019,2700,Oscar
+Cli0439,Facebook Ads,Platinum,9/27/2019,10/4/2019,3500,Jorge
+Cli0440,Google Ads,Gold,9/13/2019,10/4/2019,999,Thaize
+Cli0441,Facebook Ads,Platinum,6/7/2019,9/30/2019,3500,Rodolfo
+Cli0442,Blog,Gold,9/21/2019,9/30/2019,2700,Karina
+Cli0443,Blog,Gold,8/29/2019,9/30/2019,2700,Jorge
+Cli0444,Facebook Ads,Platinum,8/2/2019,9/30/2019,3500,Maria
+Cli0445,Afiliados,Gold,9/18/2019,9/29/2019,2700,Oscar
+Cli0446,Blog,Gold,7/16/2018,9/26/2019,2700,Jorge
+Cli0447,Blog,Gold,11/26/2018,9/26/2019,2700,Allan
+Cli0448,Blog,Platinum,4/5/2019,9/26/2019,3500,Allan
+Cli0449,Google Ads,Platinum,9/23/2019,9/26/2019,3500,Allan
+Cli0450,Afiliados,Gold,8/25/2018,9/23/2019,2700,Allan
+Cli0451,Email Marketing,Gold,3/19/2018,9/23/2019,2700,Thaize
+Cli0452,Google Ads,Platinum,1/16/2019,9/23/2019,3500,Jorge
+Cli0453,Blog,Black,3/20/2018,9/23/2019,1800,Thaize
+Cli0454,Google Ads,Gold,7/14/2019,9/23/2019,999,Felipe
+Cli0455,Blog,Black,6/1/2019,9/23/2019,1800,Jorge
+Cli0456,Blog,Gold,4/3/2019,9/23/2019,2700,Felipe
+Cli0457,Email Marketing,Black,8/25/2019,9/23/2019,1800,Jorge
+Cli0458,Outros,Black,11/30/2018,9/23/2019,1800,Rodolfo
+Cli0459,Facebook Ads,Platinum,5/8/2019,9/21/2019,3500,Felipe
+Cli0460,Outros,Platinum,9/4/2019,9/19/2019,3500,Jorge
+Cli0461,Blog,Gold,1/2/2019,9/19/2019,2700,Thaize
+Cli0462,Google Ads,Gold,5/4/2019,9/19/2019,2700,Allan
+Cli0463,Blog,Gold,10/4/2018,9/15/2019,2700,João
+Cli0464,Facebook Ads,Black,9/12/2019,9/15/2019,1800,Jorge
+Cli0465,Email Marketing,Gold,8/28/2019,9/14/2019,999,Allan
+Cli0466,Google Ads,Platinum,1/30/2019,9/14/2019,3500,Rodolfo
+Cli0467,Facebook Ads,Black,6/8/2018,9/12/2019,1800,Rodolfo
+Cli0468,Google Ads,Black,9/6/2019,9/12/2019,1800,Felipe
+Cli0469,Blog,Gold,11/27/2018,9/8/2019,2700,Jorge
+Cli0470,Google Ads,Platinum,10/26/2018,9/8/2019,3500,Jorge
+Cli0471,Outros,Gold,2/21/2018,9/8/2019,999,Felipe
+Cli0472,Blog,Gold,11/28/2018,9/7/2019,999,Oscar
+Cli0473,Google Ads,Black,6/11/2018,9/6/2019,1800,Jorge
+Cli0474,Google Ads,Platinum,11/1/2018,9/5/2019,3500,Clarita
+Cli0475,Blog,Gold,8/24/2019,9/2/2019,2700,Maria
+Cli0476,Outros,Gold,6/19/2019,9/1/2019,2700,Allan
+Cli0477,Google Ads,Platinum,7/20/2018,8/31/2019,3500,Karina
+Cli0478,Email Marketing,Black,3/15/2018,8/31/2019,1800,Thaize
+Cli0479,Email Marketing,Gold,8/24/2019,8/31/2019,2700,Karina
+Cli0480,Afiliados,Gold,7/13/2019,8/31/2019,2700,Jorge
+Cli0481,Blog,Platinum,6/10/2019,8/31/2019,3500,Karina
+Cli0482,Blog,Gold,7/30/2018,8/31/2019,2700,Clarita
+Cli0483,Google Ads,Black,3/22/2019,8/31/2019,1800,Oscar
+Cli0484,Email Marketing,Platinum,6/9/2018,8/31/2019,3500,Jorge
+Cli0485,Facebook Ads,Black,8/31/2019,8/31/2019,1800,Clarita
+Cli0486,Google Ads,Gold,7/5/2019,8/31/2019,2700,Karina
+Cli0487,Blog,Gold,5/31/2018,8/31/2019,999,Jorge
+Cli0488,Facebook Ads,Black,8/12/2019,8/31/2019,1800,Maria
+Cli0489,Google Ads,Black,5/5/2019,8/30/2019,1800,Jorge
+Cli0490,Blog,Gold,10/3/2018,8/30/2019,2700,Roberto
+Cli0491,Email Marketing,Gold,6/16/2018,8/29/2019,2700,Jorge
+Cli0492,Blog,Black,7/5/2019,8/29/2019,1800,Felipe
+Cli0493,Google Ads,Gold,8/21/2019,8/29/2019,2700,Roberto
+Cli0494,Blog,Gold,6/30/2019,8/29/2019,2700,Allan
+Cli0495,Google Ads,Gold,7/12/2019,8/29/2019,2700,Jorge
+Cli0496,Outros,Gold,4/18/2019,8/26/2019,2700,João
+Cli0497,Google Ads,Platinum,12/12/2018,8/26/2019,3500,Maria
+Cli0498,Blog,Platinum,7/18/2019,8/26/2019,3500,Thaize
+Cli0499,Google Ads,Black,8/25/2019,8/25/2019,1800,Clarita
+Cli0500,Blog,Gold,8/25/2019,8/25/2019,2700,Roberto
+Cli0501,Facebook Ads,Gold,8/25/2019,8/25/2019,2700,Clarita
+Cli0502,Blog,Gold,3/7/2018,8/24/2019,2700,Clarita
+Cli0503,Outros,Gold,2/22/2018,8/24/2019,2700,Clarita
+Cli0504,Blog,Black,7/13/2019,8/24/2019,1800,Felipe
+Cli0505,Google Ads,Gold,3/23/2019,8/24/2019,2700,Rodolfo
+Cli0506,Blog,Platinum,3/27/2019,8/24/2019,3500,Jorge
+Cli0507,Email Marketing,Gold,8/9/2018,8/24/2019,2700,Rodolfo
+Cli0508,Facebook Ads,Black,10/3/2018,8/22/2019,1800,Thaize
+Cli0509,Outros,Gold,1/29/2018,8/22/2019,999,Thaize
+Cli0510,Blog,Gold,1/23/2019,8/22/2019,2700,Allan
+Cli0511,Blog,Platinum,7/18/2019,8/22/2019,3500,Jorge
+Cli0512,Blog,Black,3/29/2019,8/19/2019,1800,Jorge
+Cli0513,Email Marketing,Gold,8/12/2019,8/19/2019,999,Jorge
+Cli0514,Blog,Platinum,6/22/2018,8/19/2019,3500,Thaize
+Cli0515,Blog,Black,6/6/2019,8/19/2019,1800,Clarita
+Cli0516,Blog,Gold,5/11/2019,8/18/2019,999,Felipe
+Cli0517,Google Ads,Platinum,5/1/2019,8/17/2019,3500,Jorge
+Cli0518,Blog,Platinum,11/5/2018,8/17/2019,3500,Jorge
+Cli0519,Google Ads,Gold,7/16/2018,8/16/2019,999,Allan
+Cli0520,Google Ads,Gold,11/29/2018,8/15/2019,2700,Maria
+Cli0521,Email Marketing,Platinum,7/25/2019,8/15/2019,3500,Rodolfo
+Cli0522,Blog,Platinum,8/6/2019,8/15/2019,3500,Thaize
+Cli0523,Blog,Gold,8/8/2019,8/12/2019,999,Jorge
+Cli0524,Blog,Black,3/8/2018,8/12/2019,1800,Thaize
+Cli0525,Email Marketing,Platinum,8/7/2019,8/11/2019,3500,Thaize
+Cli0526,Blog,Black,4/16/2019,8/11/2019,1800,Rodolfo
+Cli0527,Blog,Black,7/27/2019,8/11/2019,1800,Maria
+Cli0528,Facebook Ads,Gold,8/7/2019,8/11/2019,999,Karina
+Cli0529,Blog,Gold,7/30/2019,8/8/2019,2700,João
+Cli0530,Blog,Gold,7/27/2019,8/5/2019,2700,João
+Cli0531,Afiliados,Platinum,2/14/2019,8/4/2019,3500,Roberto
+Cli0532,Google Ads,Black,7/28/2019,8/1/2019,1800,Jorge
+Cli0533,Blog,Gold,7/11/2019,8/1/2019,2700,João
+Cli0534,Google Ads,Gold,3/12/2019,8/1/2019,2700,Felipe
+Cli0535,Blog,Platinum,7/27/2019,8/1/2019,3500,Clarita
+Cli0536,Outros,Platinum,6/26/2019,7/29/2019,3500,Jorge
+Cli0537,Blog,Black,1/28/2018,7/29/2019,1800,Roberto
+Cli0538,Blog,Black,7/13/2019,7/29/2019,1800,Allan
+Cli0539,Blog,Gold,5/18/2019,7/29/2019,999,Karina
+Cli0540,Afiliados,Black,7/25/2019,7/28/2019,1800,Allan
+Cli0541,Blog,Gold,7/28/2019,7/28/2019,2700,Roberto
+Cli0542,Google Ads,Gold,6/8/2019,7/28/2019,999,Maria
+Cli0543,Blog,Gold,7/22/2019,7/28/2019,999,Karina
+Cli0544,Blog,Black,4/11/2019,7/28/2019,1800,Maria
+Cli0545,Blog,Platinum,3/19/2019,7/27/2019,3500,Thaize
+Cli0546,Email Marketing,Gold,5/25/2019,7/26/2019,2700,Thaize
+Cli0547,Google Ads,Black,7/26/2019,7/26/2019,1800,Roberto
+Cli0548,Outros,Gold,4/10/2019,7/26/2019,999,Thaize
+Cli0549,Google Ads,Platinum,7/26/2019,7/26/2019,3500,Oscar
+Cli0550,Google Ads,Black,7/14/2019,7/25/2019,1800,Jorge
+Cli0551,Google Ads,Black,7/25/2019,7/25/2019,1800,Karina
+Cli0552,Facebook Ads,Gold,7/25/2019,7/25/2019,2700,Maria
+Cli0553,Blog,Platinum,7/25/2019,7/25/2019,3500,Felipe
+Cli0554,Outros,Platinum,7/25/2019,7/25/2019,3500,Roberto
+Cli0555,Afiliados,Platinum,7/25/2019,7/25/2019,3500,Maria
+Cli0556,Blog,Platinum,7/25/2019,7/25/2019,3500,João
+Cli0557,Blog,Gold,7/25/2019,7/25/2019,2700,Felipe
+Cli0558,Blog,Gold,7/25/2019,7/25/2019,2700,Rodolfo
+Cli0559,Blog,Gold,7/25/2019,7/25/2019,2700,Jorge
+Cli0560,Google Ads,Gold,7/25/2019,7/25/2019,999,Karina
+Cli0561,Facebook Ads,Gold,5/15/2019,7/25/2019,999,Jorge
+Cli0562,Blog,Gold,7/13/2019,7/22/2019,2700,Maria
+Cli0563,Blog,Black,5/10/2018,7/22/2019,1800,João
+Cli0564,Google Ads,Gold,7/18/2019,7/22/2019,2700,Felipe
+Cli0565,Blog,Black,5/18/2019,7/22/2019,1800,Maria
+Cli0566,Blog,Gold,7/13/2019,7/20/2019,999,Maria
+Cli0567,Blog,Gold,7/12/2019,7/20/2019,2700,Felipe
+Cli0568,Blog,Platinum,7/8/2019,7/20/2019,3500,Clarita
+Cli0569,Outros,Black,5/8/2019,7/19/2019,1800,Rodolfo
+Cli0570,Google Ads,Platinum,2/10/2019,7/15/2019,3500,Thaize
+Cli0571,Blog,Platinum,6/28/2019,7/15/2019,3500,Maria
+Cli0572,Outros,Black,11/27/2018,7/15/2019,1800,Clarita
+Cli0573,Blog,Black,4/1/2019,7/15/2019,1800,Jorge
+Cli0574,Outros,Gold,4/11/2019,7/15/2019,2700,Roberto
+Cli0575,Blog,Platinum,9/25/2018,7/15/2019,3500,Jorge
+Cli0576,Blog,Platinum,6/26/2019,7/15/2019,3500,Roberto
+Cli0577,Blog,Platinum,11/30/2018,7/15/2019,3500,Thaize
+Cli0578,Google Ads,Platinum,7/5/2019,7/15/2019,3500,Maria
+Cli0579,Blog,Platinum,7/10/2019,7/15/2019,3500,João
+Cli0580,Blog,Platinum,3/29/2019,7/14/2019,3500,Oscar
+Cli0581,Blog,Platinum,6/27/2019,7/14/2019,3500,Allan
+Cli0582,Outros,Black,6/29/2019,7/14/2019,1800,Oscar
+Cli0583,Outros,Gold,5/26/2019,7/13/2019,2700,Allan
+Cli0584,Facebook Ads,Gold,7/8/2019,7/13/2019,2700,Oscar
+Cli0585,Blog,Black,7/2/2019,7/12/2019,1800,Roberto
+Cli0586,Blog,Gold,6/29/2019,7/11/2019,999,Maria
+Cli0587,Google Ads,Gold,5/24/2019,7/8/2019,2700,Rodolfo
+Cli0588,Google Ads,Black,6/27/2019,7/8/2019,1800,Allan
+Cli0589,Facebook Ads,Platinum,5/3/2019,7/8/2019,3500,Jorge
+Cli0590,Blog,Platinum,6/23/2019,7/8/2019,3500,Thaize
+Cli0591,Blog,Black,6/10/2019,7/8/2019,1800,Rodolfo
+Cli0592,Blog,Gold,5/18/2019,7/7/2019,2700,Roberto
+Cli0593,Google Ads,Gold,6/16/2019,7/7/2019,999,Karina
+Cli0594,Blog,Gold,1/18/2019,7/7/2019,2700,Roberto
+Cli0595,Outros,Gold,4/18/2019,7/4/2019,2700,Roberto
+Cli0596,Blog,Gold,6/29/2019,7/1/2019,2700,Rodolfo
+Cli0597,Facebook Ads,Black,3/27/2019,7/1/2019,1800,Clarita
+Cli0598,Google Ads,Gold,6/15/2019,7/1/2019,2700,Jorge
+Cli0599,Google Ads,Black,4/26/2019,12/12/2019,1800,Jorge
+Cli0600,Email Marketing,Black,12/5/2019,12/12/2019,1800,Karina
+Cli0601,Afiliados,Gold,9/30/2019,12/9/2019,999,Jorge
+Cli0602,Facebook Ads,Gold,9/13/2018,12/9/2019,2700,Allan
+Cli0603,Facebook Ads,Platinum,5/12/2018,12/9/2019,3500,Clarita
+Cli0604,Outros,Black,11/6/2019,12/9/2019,1800,Roberto
+Cli0605,Outros,Gold,11/20/2019,12/9/2019,2700,Allan
+Cli0606,Blog,Platinum,7/11/2019,12/8/2019,3500,Maria
+Cli0607,Blog,Black,11/25/2019,12/5/2019,1800,João
+Cli0608,Blog,Black,7/12/2019,12/2/2019,1800,Roberto
+Cli0609,Blog,Gold,11/28/2019,12/2/2019,2700,Clarita
+Cli0610,Facebook Ads,Gold,11/25/2019,12/1/2019,2700,Rodolfo
+Cli0611,Facebook Ads,Gold,11/26/2018,12/1/2019,2700,Clarita
+Cli0612,Google Ads,Gold,7/14/2019,12/1/2019,999,Oscar
+Cli0613,Google Ads,Platinum,11/10/2018,12/1/2019,3500,Jorge
+Cli0614,Blog,Gold,2/6/2019,11/30/2019,999,Maria
+Cli0615,Blog,Gold,11/11/2019,11/30/2019,2700,Thaize
+Cli0616,Google Ads,Gold,11/27/2019,11/30/2019,2700,Rodolfo
+Cli0617,Outros,Black,11/22/2019,11/30/2019,1800,Allan
+Cli0618,Blog,Gold,7/12/2019,11/30/2019,999,Karina
+Cli0619,Blog,Gold,10/5/2019,11/30/2019,2700,Thaize
+Cli0620,Google Ads,Platinum,7/7/2019,11/30/2019,3500,Jorge
+Cli0621,Blog,Black,11/27/2019,11/30/2019,1800,Clarita
+Cli0622,Blog,Gold,11/15/2019,11/30/2019,2700,Karina
+Cli0623,Google Ads,Platinum,11/20/2019,11/30/2019,3500,Roberto
+Cli0624,Blog,Black,8/15/2019,11/29/2019,1800,Roberto
+Cli0625,Email Marketing,Platinum,11/15/2019,11/29/2019,3500,Allan
+Cli0626,Blog,Gold,11/20/2019,11/29/2019,2700,Oscar
+Cli0627,Blog,Gold,11/8/2019,11/29/2019,999,Maria
+Cli0628,Blog,Platinum,10/25/2019,11/29/2019,3500,Felipe
+Cli0629,Blog,Black,11/22/2019,11/29/2019,1800,Roberto
+Cli0630,Facebook Ads,Gold,7/31/2018,11/28/2019,999,João
+Cli0631,Blog,Gold,5/17/2019,11/28/2019,999,Allan
+Cli0632,Blog,Black,11/21/2019,11/28/2019,1800,Karina
+Cli0633,Afiliados,Platinum,9/21/2019,11/28/2019,3500,João
+Cli0634,Blog,Gold,11/30/2018,11/25/2019,999,Jorge
+Cli0635,Google Ads,Gold,4/1/2019,11/25/2019,2700,Oscar
+Cli0636,Afiliados,Gold,11/16/2019,11/25/2019,2700,Maria
+Cli0637,Google Ads,Gold,7/4/2018,11/25/2019,2700,Felipe
+Cli0638,Blog,Gold,11/15/2019,11/25/2019,2700,Rodolfo
+Cli0639,Blog,Gold,5/22/2019,11/25/2019,2700,Allan
+Cli0640,Afiliados,Gold,11/10/2019,11/25/2019,2700,Karina
+Cli0641,Blog,Platinum,5/31/2018,11/24/2019,3500,Roberto
+Cli0642,Blog,Black,7/13/2019,11/24/2019,1800,Roberto
+Cli0643,Blog,Black,11/15/2019,11/23/2019,1800,Thaize
+Cli0644,Google Ads,Gold,5/24/2019,11/22/2019,2700,Clarita
+Cli0645,Blog,Platinum,10/10/2018,11/21/2019,3500,Jorge
+Cli0646,Outros,Platinum,11/5/2018,11/18/2019,3500,Thaize
+Cli0647,Afiliados,Black,9/8/2018,11/18/2019,1800,Roberto
+Cli0648,Blog,Gold,1/16/2019,11/18/2019,2700,Jorge
+Cli0649,Email Marketing,Gold,11/13/2019,11/18/2019,999,Jorge
+Cli0650,Google Ads,Platinum,11/6/2019,11/17/2019,3500,Karina
+Cli0651,Blog,Gold,9/11/2019,11/17/2019,2700,Jorge
+Cli0652,Blog,Gold,10/17/2019,11/17/2019,999,Roberto
+Cli0653,Blog,Black,8/5/2019,11/17/2019,1800,Allan
+Cli0654,Blog,Platinum,10/27/2019,11/17/2019,3500,Jorge
+Cli0655,Blog,Gold,9/11/2019,11/17/2019,2700,Oscar
+Cli0656,Email Marketing,Black,11/6/2019,11/17/2019,1800,Rodolfo
+Cli0657,Email Marketing,Platinum,10/17/2019,11/15/2019,3500,Thaize
+Cli0658,Blog,Black,11/7/2019,11/14/2019,1800,Thaize
+Cli0659,Email Marketing,Gold,10/25/2019,11/14/2019,2700,Rodolfo
+Cli0660,Blog,Platinum,11/6/2019,11/11/2019,3500,João
+Cli0661,Blog,Gold,11/30/2018,11/11/2019,2700,Oscar
+Cli0662,Blog,Platinum,9/1/2019,11/11/2019,3500,Roberto
+Cli0663,Google Ads,Black,6/11/2019,11/11/2019,1800,Karina
+Cli0664,Blog,Platinum,4/2/2018,11/10/2019,3500,Clarita
+Cli0665,Blog,Black,8/26/2019,11/10/2019,1800,Maria
+Cli0666,Blog,Gold,9/14/2019,11/9/2019,999,Clarita
+Cli0667,Outros,Gold,10/6/2019,11/8/2019,2700,Clarita
+Cli0668,Outros,Gold,10/22/2019,11/8/2019,2700,Clarita
+Cli0669,Blog,Gold,10/26/2019,11/8/2019,2700,Jorge
+Cli0670,Blog,Black,11/7/2019,11/7/2019,1800,Rodolfo
+Cli0671,Blog,Gold,10/21/2019,11/7/2019,999,Felipe
+Cli0672,Blog,Gold,10/16/2019,11/4/2019,2700,Maria
+Cli0673,Blog,Black,6/24/2019,11/3/2019,1800,Oscar
+Cli0674,Google Ads,Gold,9/27/2019,11/3/2019,999,Karina
+Cli0675,Blog,Gold,4/22/2019,11/3/2019,2700,Thaize
+Cli0676,Outros,Gold,9/27/2019,11/3/2019,2700,João
+Cli0677,Facebook Ads,Gold,3/14/2019,11/3/2019,2700,João
+Cli0678,Blog,Gold,10/9/2019,11/2/2019,2700,Rodolfo
+Cli0679,Google Ads,Black,9/25/2019,11/2/2019,1800,Thaize
+Cli0680,Email Marketing,Gold,3/30/2018,11/2/2019,2700,Roberto
+Cli0681,Blog,Gold,8/22/2019,11/1/2019,2700,Rodolfo
+Cli0682,Blog,Platinum,9/24/2019,11/1/2019,3500,Roberto
+Cli0683,Afiliados,Platinum,2/23/2018,10/31/2019,3500,Maria
+Cli0684,Blog,Gold,3/27/2019,10/31/2019,999,Thaize
+Cli0685,Blog,Black,10/17/2019,10/31/2019,1800,Clarita
+Cli0686,Afiliados,Gold,4/1/2018,10/28/2019,999,Allan
+Cli0687,Blog,Black,8/7/2018,10/28/2019,1800,Felipe
+Cli0688,Facebook Ads,Gold,8/14/2019,10/28/2019,2700,Jorge
+Cli0689,Blog,Black,10/19/2019,10/28/2019,1800,Felipe
+Cli0690,Facebook Ads,Gold,8/14/2019,10/28/2019,999,Thaize
+Cli0691,Google Ads,Black,2/15/2019,10/28/2019,1800,Oscar
+Cli0692,Afiliados,Gold,3/24/2019,10/28/2019,2700,Felipe
+Cli0693,Google Ads,Gold,1/28/2018,10/28/2019,2700,Oscar
+Cli0694,Blog,Gold,7/27/2018,10/28/2019,999,Thaize
+Cli0695,Blog,Gold,10/12/2019,10/28/2019,999,Jorge
+Cli0696,Google Ads,Gold,9/21/2019,10/28/2019,2700,Rodolfo
+Cli0697,Blog,Platinum,10/20/2019,10/28/2019,3500,Clarita
+Cli0698,Blog,Black,12/16/2018,10/27/2019,1800,Rodolfo
+Cli0699,Google Ads,Platinum,6/15/2018,10/27/2019,3500,Karina
+Cli0700,Blog,Gold,6/26/2019,10/27/2019,2700,Jorge
+Cli0701,Facebook Ads,Gold,10/20/2019,10/27/2019,999,João
+Cli0702,Facebook Ads,Gold,2/19/2019,10/26/2019,999,Maria
+Cli0703,Google Ads,Platinum,4/5/2018,10/26/2019,3500,João
+Cli0704,Blog,Gold,9/27/2019,10/26/2019,2700,Clarita
+Cli0705,Blog,Gold,10/20/2019,10/26/2019,2700,João
+Cli0706,Facebook Ads,Gold,10/18/2019,10/26/2019,999,Karina
+Cli0707,Afiliados,Black,11/2/2018,10/26/2019,1800,Allan
+Cli0708,Outros,Black,10/7/2019,10/24/2019,1800,Allan
+Cli0709,Email Marketing,Platinum,9/11/2019,10/24/2019,3500,Thaize
+Cli0710,Afiliados,Gold,2/27/2019,10/24/2019,2700,João
+Cli0711,Email Marketing,Platinum,10/6/2018,10/21/2019,3500,Oscar
+Cli0712,Email Marketing,Platinum,7/13/2019,10/21/2019,3500,João
+Cli0713,Blog,Gold,10/12/2019,10/20/2019,999,Roberto
+Cli0714,Facebook Ads,Gold,10/12/2019,10/20/2019,999,Felipe
+Cli0715,Outros,Gold,7/28/2019,10/18/2019,2700,Thaize
+Cli0716,Google Ads,Black,10/12/2019,10/17/2019,1800,Felipe
+Cli0717,Email Marketing,Black,9/12/2019,10/17/2019,1800,Roberto
+Cli0718,Google Ads,Black,7/21/2019,10/14/2019,1800,Thaize
+Cli0719,Google Ads,Platinum,10/6/2019,10/14/2019,3500,João
+Cli0720,Afiliados,Gold,9/30/2019,10/14/2019,2700,Clarita
+Cli0721,Blog,Gold,5/4/2018,10/14/2019,2700,Karina
+Cli0722,Blog,Gold,10/1/2019,10/14/2019,999,Felipe
+Cli0723,Google Ads,Gold,3/20/2018,10/13/2019,2700,Allan
+Cli0724,Afiliados,Gold,9/24/2019,10/13/2019,999,Karina
+Cli0725,Google Ads,Black,8/22/2018,10/13/2019,1800,Clarita
+Cli0726,Google Ads,Platinum,9/26/2019,10/11/2019,3500,Karina
+Cli0727,Email Marketing,Black,9/15/2019,10/10/2019,1800,João
+Cli0728,Outros,Black,9/24/2019,10/10/2019,1800,Felipe
+Cli0729,Google Ads,Platinum,3/31/2018,10/7/2019,3500,Roberto
+Cli0730,Blog,Black,9/30/2019,10/7/2019,1800,Felipe
+Cli0731,Google Ads,Black,7/20/2019,10/7/2019,1800,João
+Cli0732,Blog,Gold,10/1/2019,10/6/2019,2700,Rodolfo
+Cli0733,Blog,Gold,8/20/2019,10/6/2019,2700,João
+Cli0734,Google Ads,Gold,8/29/2019,10/6/2019,999,Oscar
+Cli0735,Outros,Gold,2/20/2019,10/5/2019,2700,Rodolfo
+Cli0736,Facebook Ads,Platinum,8/8/2019,10/5/2019,3500,Allan
+Cli0737,Blog,Gold,8/28/2019,10/4/2019,2700,Allan
+Cli0738,Afiliados,Platinum,9/27/2019,10/4/2019,3500,Clarita
+Cli0739,Blog,Gold,9/13/2019,10/4/2019,2700,Thaize
+Cli0740,Blog,Platinum,6/7/2019,9/30/2019,3500,Allan
+Cli0741,Blog,Platinum,9/21/2019,9/30/2019,3500,Jorge
+Cli0742,Google Ads,Gold,8/29/2019,9/30/2019,2700,Roberto
+Cli0743,Email Marketing,Gold,8/2/2019,9/30/2019,2700,Felipe
+Cli0744,Afiliados,Black,9/18/2019,9/29/2019,1800,Thaize
+Cli0745,Blog,Gold,7/16/2018,9/26/2019,2700,Oscar
+Cli0746,Blog,Platinum,11/26/2018,9/26/2019,3500,João
+Cli0747,Blog,Gold,4/5/2019,9/26/2019,2700,Oscar
+Cli0748,Blog,Platinum,9/23/2019,9/26/2019,3500,Oscar
+Cli0749,Outros,Black,8/25/2018,9/23/2019,1800,Felipe
+Cli0750,Blog,Platinum,3/19/2018,9/23/2019,3500,Jorge
+Cli0751,Email Marketing,Gold,1/16/2019,9/23/2019,2700,Thaize
+Cli0752,Blog,Platinum,3/20/2018,9/23/2019,3500,Karina
+Cli0753,Google Ads,Platinum,7/14/2019,9/23/2019,3500,Oscar
+Cli0754,Outros,Platinum,6/1/2019,9/23/2019,3500,Maria
+Cli0755,Google Ads,Gold,4/3/2019,9/23/2019,2700,Felipe
+Cli0756,Blog,Platinum,8/25/2019,9/23/2019,3500,Clarita
+Cli0757,Outros,Gold,11/30/2018,9/23/2019,2700,Rodolfo
+Cli0758,Facebook Ads,Black,5/8/2019,9/21/2019,1800,Clarita
+Cli0759,Blog,Black,9/4/2019,9/19/2019,1800,Clarita
+Cli0760,Blog,Gold,1/2/2019,9/19/2019,2700,Thaize
+Cli0761,Outros,Gold,5/4/2019,9/19/2019,999,Thaize
+Cli0762,Blog,Black,10/4/2018,9/15/2019,1800,Clarita
+Cli0763,Email Marketing,Gold,9/12/2019,9/15/2019,2700,Rodolfo
+Cli0764,Blog,Gold,8/28/2019,9/14/2019,2700,Clarita
+Cli0765,Outros,Platinum,1/30/2019,9/14/2019,3500,Oscar
+Cli0766,Facebook Ads,Platinum,6/8/2018,9/12/2019,3500,Clarita
+Cli0767,Blog,Platinum,9/6/2019,9/12/2019,3500,Rodolfo
+Cli0768,Blog,Gold,11/27/2018,9/8/2019,2700,Thaize
+Cli0769,Email Marketing,Platinum,10/26/2018,9/8/2019,3500,Roberto
+Cli0770,Email Marketing,Gold,2/21/2018,9/8/2019,999,Maria
+Cli0771,Email Marketing,Gold,11/28/2018,9/7/2019,999,Maria
+Cli0772,Email Marketing,Platinum,6/11/2018,9/6/2019,3500,João
+Cli0773,Google Ads,Black,11/1/2018,9/5/2019,1800,Karina
+Cli0774,Outros,Black,8/24/2019,9/2/2019,1800,Maria
+Cli0775,Afiliados,Platinum,6/19/2019,9/1/2019,3500,Jorge
+Cli0776,Blog,Gold,7/20/2018,8/31/2019,999,Thaize
+Cli0777,Blog,Gold,3/15/2018,8/31/2019,2700,Rodolfo
+Cli0778,Blog,Black,8/24/2019,8/31/2019,1800,Clarita
+Cli0779,Facebook Ads,Gold,7/13/2019,8/31/2019,2700,Maria
+Cli0780,Google Ads,Platinum,6/10/2019,8/31/2019,3500,Jorge
+Cli0781,Email Marketing,Gold,7/30/2018,8/31/2019,999,Maria
+Cli0782,Blog,Gold,3/22/2019,8/31/2019,999,Jorge
+Cli0783,Facebook Ads,Gold,6/9/2018,8/31/2019,2700,Thaize
+Cli0784,Blog,Gold,8/31/2019,8/31/2019,999,Oscar
+Cli0785,Email Marketing,Gold,7/5/2019,8/31/2019,2700,Roberto
+Cli0786,Facebook Ads,Gold,5/31/2018,8/31/2019,2700,Felipe
+Cli0787,Google Ads,Gold,8/12/2019,8/31/2019,2700,Allan
+Cli0788,Blog,Black,5/5/2019,8/30/2019,1800,Jorge
+Cli0789,Email Marketing,Gold,10/3/2018,8/30/2019,2700,Rodolfo
+Cli0790,Blog,Gold,6/16/2018,8/29/2019,2700,Oscar
+Cli0791,Email Marketing,Platinum,7/5/2019,8/29/2019,3500,Jorge
+Cli0792,Blog,Gold,8/21/2019,8/29/2019,2700,Jorge
+Cli0793,Blog,Platinum,6/30/2019,8/29/2019,3500,Oscar
+Cli0794,Email Marketing,Platinum,7/12/2019,8/29/2019,3500,Allan
+Cli0795,Email Marketing,Black,4/18/2019,8/26/2019,1800,Rodolfo
+Cli0796,Blog,Platinum,12/12/2018,8/26/2019,3500,João
+Cli0797,Blog,Platinum,7/18/2019,8/26/2019,3500,Roberto
+Cli0798,Afiliados,Platinum,8/25/2019,8/25/2019,3500,Roberto
+Cli0799,Google Ads,Black,8/25/2019,8/25/2019,1800,Oscar
+Cli0800,Blog,Black,8/25/2019,8/25/2019,1800,Allan
+Cli0801,Google Ads,Black,3/7/2018,8/24/2019,1800,Thaize
+Cli0802,Afiliados,Black,2/22/2018,8/24/2019,1800,Felipe
+Cli0803,Blog,Gold,7/13/2019,8/24/2019,2700,Jorge
+Cli0804,Google Ads,Gold,3/23/2019,8/24/2019,2700,Rodolfo
+Cli0805,Afiliados,Gold,3/27/2019,8/24/2019,999,Thaize
+Cli0806,Blog,Platinum,8/9/2018,8/24/2019,3500,Rodolfo
+Cli0807,Email Marketing,Gold,10/3/2018,8/22/2019,2700,Jorge
+Cli0808,Blog,Black,1/29/2018,8/22/2019,1800,Allan
+Cli0809,Blog,Black,1/23/2019,8/22/2019,1800,Oscar
+Cli0810,Blog,Gold,7/18/2019,8/22/2019,2700,Roberto
+Cli0811,Blog,Black,3/29/2019,8/19/2019,1800,Rodolfo
+Cli0812,Blog,Platinum,8/12/2019,8/19/2019,3500,Oscar
+Cli0813,Blog,Black,6/22/2018,8/19/2019,1800,Felipe
+Cli0814,Facebook Ads,Gold,6/6/2019,8/19/2019,999,Felipe
+Cli0815,Outros,Gold,5/11/2019,8/18/2019,999,Felipe
+Cli0816,Google Ads,Gold,5/1/2019,8/17/2019,2700,Jorge
+Cli0817,Google Ads,Gold,11/5/2018,8/17/2019,999,Oscar
+Cli0818,Google Ads,Gold,7/16/2018,8/16/2019,2700,Karina
+Cli0819,Google Ads,Black,11/29/2018,8/15/2019,1800,Karina
+Cli0820,Blog,Black,7/25/2019,8/15/2019,1800,Jorge
+Cli0821,Blog,Gold,8/6/2019,8/15/2019,999,Jorge
+Cli0822,Afiliados,Platinum,8/8/2019,8/12/2019,3500,Jorge
+Cli0823,Facebook Ads,Gold,3/8/2018,8/12/2019,2700,Thaize
+Cli0824,Facebook Ads,Gold,8/7/2019,8/11/2019,2700,Thaize
+Cli0825,Blog,Black,4/16/2019,8/11/2019,1800,Maria
+Cli0826,Google Ads,Platinum,7/27/2019,8/11/2019,3500,João
+Cli0827,Facebook Ads,Platinum,8/7/2019,8/11/2019,3500,Rodolfo
+Cli0828,Google Ads,Gold,7/30/2019,8/8/2019,999,Maria
+Cli0829,Email Marketing,Gold,7/27/2019,8/5/2019,2700,Allan
+Cli0830,Email Marketing,Platinum,2/14/2019,8/4/2019,3500,Jorge
+Cli0831,Google Ads,Black,7/28/2019,8/1/2019,1800,Maria
+Cli0832,Facebook Ads,Platinum,7/11/2019,8/1/2019,3500,Clarita
+Cli0833,Afiliados,Platinum,3/12/2019,8/1/2019,3500,Karina
+Cli0834,Afiliados,Platinum,7/27/2019,8/1/2019,3500,Thaize
+Cli0835,Blog,Gold,6/26/2019,7/29/2019,2700,Karina
+Cli0836,Google Ads,Platinum,1/28/2018,7/29/2019,3500,Jorge
+Cli0837,Facebook Ads,Black,7/13/2019,7/29/2019,1800,Maria
+Cli0838,Facebook Ads,Black,5/18/2019,7/29/2019,1800,Maria
+Cli0839,Blog,Gold,7/25/2019,7/28/2019,2700,Rodolfo
+Cli0840,Afiliados,Gold,7/28/2019,7/28/2019,2700,Oscar
+Cli0841,Blog,Platinum,6/8/2019,7/28/2019,3500,Oscar
+Cli0842,Google Ads,Gold,7/22/2019,7/28/2019,2700,Maria
+Cli0843,Blog,Gold,4/11/2019,7/28/2019,2700,Jorge
+Cli0844,Google Ads,Gold,3/19/2019,7/27/2019,2700,Rodolfo
+Cli0845,Blog,Platinum,5/25/2019,7/26/2019,3500,João
+Cli0846,Afiliados,Gold,7/26/2019,7/26/2019,999,Maria
+Cli0847,Email Marketing,Black,4/10/2019,7/26/2019,1800,Thaize
+Cli0848,Email Marketing,Black,7/26/2019,7/26/2019,1800,Jorge
+Cli0849,Blog,Gold,7/14/2019,7/25/2019,2700,Clarita
+Cli0850,Blog,Platinum,7/25/2019,7/25/2019,3500,Jorge
+Cli0851,Outros,Gold,7/25/2019,7/25/2019,2700,Jorge
+Cli0852,Blog,Gold,7/25/2019,7/25/2019,2700,Rodolfo
+Cli0853,Blog,Gold,7/25/2019,7/25/2019,999,Roberto
+Cli0854,Email Marketing,Gold,7/25/2019,7/25/2019,999,Allan
+Cli0855,Facebook Ads,Gold,7/25/2019,7/25/2019,999,Jorge
+Cli0856,Outros,Black,7/25/2019,7/25/2019,1800,Maria
+Cli0857,Facebook Ads,Black,7/25/2019,7/25/2019,1800,Allan
+Cli0858,Blog,Gold,7/25/2019,7/25/2019,2700,Jorge
+Cli0859,Blog,Gold,7/25/2019,7/25/2019,2700,Karina
+Cli0860,Afiliados,Black,5/15/2019,7/25/2019,1800,Oscar
+Cli0861,Blog,Black,7/13/2019,7/22/2019,1800,Maria
+Cli0862,Blog,Platinum,5/10/2018,7/22/2019,3500,Rodolfo
+Cli0863,Blog,Black,7/18/2019,7/22/2019,1800,Allan
+Cli0864,Blog,Platinum,5/18/2019,7/22/2019,3500,Felipe
+Cli0865,Email Marketing,Gold,7/13/2019,7/20/2019,999,João
+Cli0866,Afiliados,Gold,7/12/2019,7/20/2019,999,Jorge
+Cli0867,Google Ads,Gold,7/8/2019,7/20/2019,999,Jorge
+Cli0868,Email Marketing,Gold,5/8/2019,7/19/2019,999,Clarita
+Cli0869,Google Ads,Platinum,2/10/2019,7/15/2019,3500,Jorge
+Cli0870,Email Marketing,Gold,6/28/2019,7/15/2019,999,Rodolfo
+Cli0871,Blog,Gold,11/27/2018,7/15/2019,2700,Jorge
+Cli0872,Blog,Platinum,4/1/2019,7/15/2019,3500,Jorge
+Cli0873,Blog,Gold,4/11/2019,7/15/2019,999,Thaize
+Cli0874,Facebook Ads,Gold,9/25/2018,7/15/2019,2700,Thaize
+Cli0875,Outros,Gold,6/26/2019,7/15/2019,2700,Jorge
+Cli0876,Blog,Gold,11/30/2018,7/15/2019,2700,Thaize
+Cli0877,Outros,Platinum,7/5/2019,7/15/2019,3500,Jorge
+Cli0878,Facebook Ads,Gold,7/10/2019,7/15/2019,999,Allan
+Cli0879,Google Ads,Gold,3/29/2019,7/14/2019,2700,João
+Cli0880,Outros,Gold,6/27/2019,7/14/2019,999,Roberto
+Cli0881,Google Ads,Gold,6/29/2019,7/14/2019,999,Roberto
+Cli0882,Google Ads,Platinum,5/26/2019,7/13/2019,3500,Oscar
+Cli0883,Facebook Ads,Gold,7/8/2019,7/13/2019,2700,Felipe
+Cli0884,Blog,Gold,7/2/2019,7/12/2019,2700,Oscar
+Cli0885,Outros,Gold,6/29/2019,7/11/2019,2700,Maria
+Cli0886,Afiliados,Gold,5/24/2019,7/8/2019,2700,Oscar
+Cli0887,Blog,Black,6/27/2019,7/8/2019,1800,Jorge
+Cli0888,Blog,Platinum,5/3/2019,7/8/2019,3500,João
+Cli0889,Google Ads,Platinum,6/23/2019,7/8/2019,3500,Jorge
+Cli0890,Email Marketing,Gold,6/10/2019,7/8/2019,999,Karina
+Cli0891,Facebook Ads,Gold,5/18/2019,7/7/2019,2700,Felipe
+Cli0892,Blog,Platinum,6/16/2019,7/7/2019,3500,Oscar
+Cli0893,Blog,Platinum,1/18/2019,7/7/2019,3500,João
+Cli0894,Blog,Gold,4/18/2019,7/4/2019,999,Karina
+Cli0895,Blog,Gold,6/29/2019,7/1/2019,999,Jorge
+Cli0896,Blog,Gold,3/27/2019,7/1/2019,999,Thaize
+Cli0897,Blog,Gold,6/15/2019,7/1/2019,2700,Allan
+Cli0898,Blog,Gold,4/26/2019,12/12/2019,2700,Roberto
+Cli0899,Blog,Gold,12/5/2019,12/12/2019,999,Thaize
+Cli0900,Blog,Gold,9/30/2019,12/9/2019,2700,Karina
+Cli0901,Google Ads,Gold,9/13/2018,12/9/2019,2700,Clarita
+Cli0902,Outros,Black,5/12/2018,12/9/2019,1800,Clarita
+Cli0903,Google Ads,Platinum,11/6/2019,12/9/2019,3500,Thaize
+Cli0904,Blog,Gold,11/20/2019,12/9/2019,999,Clarita
+Cli0905,Blog,Gold,7/11/2019,12/8/2019,2700,Felipe
+Cli0906,Email Marketing,Gold,11/25/2019,12/5/2019,2700,Jorge
+Cli0907,Outros,Gold,7/12/2019,12/2/2019,999,João
+Cli0908,Afiliados,Gold,11/28/2019,12/2/2019,2700,Rodolfo
+Cli0909,Blog,Gold,11/25/2019,12/1/2019,999,Maria
+Cli0910,Blog,Platinum,11/26/2018,12/1/2019,3500,Felipe
+Cli0911,Afiliados,Black,7/14/2019,12/1/2019,1800,Oscar
+Cli0912,Blog,Black,11/10/2018,12/1/2019,1800,Rodolfo
+Cli0913,Email Marketing,Platinum,2/6/2019,11/30/2019,3500,João
+Cli0914,Blog,Gold,11/11/2019,11/30/2019,999,Oscar
+Cli0915,Google Ads,Gold,11/27/2019,11/30/2019,2700,Roberto
+Cli0916,Blog,Gold,11/22/2019,11/30/2019,999,Rodolfo
+Cli0917,Blog,Platinum,7/12/2019,11/30/2019,3500,Rodolfo
+Cli0918,Afiliados,Black,10/5/2019,11/30/2019,1800,Roberto
+Cli0919,Google Ads,Gold,7/7/2019,11/30/2019,999,Felipe
+Cli0920,Google Ads,Gold,11/27/2019,11/30/2019,999,Oscar
+Cli0921,Blog,Gold,11/15/2019,11/30/2019,999,Jorge
+Cli0922,Email Marketing,Gold,11/20/2019,11/30/2019,999,Rodolfo
+Cli0923,Facebook Ads,Platinum,8/15/2019,11/29/2019,3500,Rodolfo
+Cli0924,Email Marketing,Gold,11/15/2019,11/29/2019,2700,Oscar
+Cli0925,Email Marketing,Black,11/20/2019,11/29/2019,1800,Felipe
+Cli0926,Blog,Gold,11/8/2019,11/29/2019,2700,Felipe
+Cli0927,Blog,Gold,10/25/2019,11/29/2019,999,Allan
+Cli0928,Facebook Ads,Gold,11/22/2019,11/29/2019,999,Roberto
+Cli0929,Blog,Platinum,7/31/2018,11/28/2019,3500,Jorge
+Cli0930,Afiliados,Gold,5/17/2019,11/28/2019,999,Felipe
+Cli0931,Blog,Gold,11/21/2019,11/28/2019,2700,Karina
+Cli0932,Afiliados,Gold,9/21/2019,11/28/2019,2700,Felipe
+Cli0933,Blog,Gold,11/30/2018,11/25/2019,2700,Clarita
+Cli0934,Google Ads,Gold,4/1/2019,11/25/2019,2700,Karina
+Cli0935,Blog,Gold,11/16/2019,11/25/2019,2700,Jorge
+Cli0936,Blog,Black,7/4/2018,11/25/2019,1800,Roberto
+Cli0937,Facebook Ads,Gold,11/15/2019,11/25/2019,2700,Felipe
+Cli0938,Email Marketing,Platinum,5/22/2019,11/25/2019,3500,João
+Cli0939,Blog,Black,11/10/2019,11/25/2019,1800,Felipe
+Cli0940,Blog,Platinum,5/31/2018,11/24/2019,3500,Karina
+Cli0941,Blog,Platinum,7/13/2019,11/24/2019,3500,Roberto
+Cli0942,Blog,Gold,11/15/2019,11/23/2019,2700,Allan
+Cli0943,Google Ads,Gold,5/24/2019,11/22/2019,999,Rodolfo
+Cli0944,Afiliados,Gold,10/10/2018,11/21/2019,2700,Thaize
+Cli0945,Email Marketing,Black,11/5/2018,11/18/2019,1800,João
+Cli0946,Blog,Platinum,9/8/2018,11/18/2019,3500,Karina
+Cli0947,Blog,Platinum,1/16/2019,11/18/2019,3500,Rodolfo
+Cli0948,Blog,Gold,11/13/2019,11/18/2019,999,João
+Cli0949,Blog,Black,11/6/2019,11/17/2019,1800,Oscar
+Cli0950,Blog,Black,9/11/2019,11/17/2019,1800,Felipe
+Cli0951,Blog,Gold,10/17/2019,11/17/2019,2700,Jorge
+Cli0952,Afiliados,Gold,8/5/2019,11/17/2019,999,João
+Cli0953,Blog,Gold,10/27/2019,11/17/2019,2700,Jorge
+Cli0954,Blog,Gold,9/11/2019,11/17/2019,2700,Rodolfo
+Cli0955,Email Marketing,Platinum,11/6/2019,11/17/2019,3500,Roberto
+Cli0956,Blog,Gold,10/17/2019,11/15/2019,999,Clarita
+Cli0957,Facebook Ads,Gold,11/7/2019,11/14/2019,999,Oscar
+Cli0958,Blog,Gold,10/25/2019,11/14/2019,2700,Allan
+Cli0959,Blog,Gold,11/6/2019,11/11/2019,2700,Jorge
+Cli0960,Facebook Ads,Gold,11/30/2018,11/11/2019,999,Felipe
+Cli0961,Outros,Gold,9/1/2019,11/11/2019,2700,Jorge
+Cli0962,Blog,Black,6/11/2019,11/11/2019,1800,Rodolfo
+Cli0963,Google Ads,Platinum,4/2/2018,11/10/2019,3500,Jorge
+Cli0964,Blog,Platinum,8/26/2019,11/10/2019,3500,Thaize
+Cli0965,Email Marketing,Black,9/14/2019,11/9/2019,1800,Felipe
+Cli0966,Blog,Platinum,10/6/2019,11/8/2019,3500,Jorge
+Cli0967,Blog,Gold,10/22/2019,11/8/2019,999,João
+Cli0968,Blog,Platinum,10/26/2019,11/8/2019,3500,Allan
+Cli0969,Blog,Gold,11/7/2019,11/7/2019,2700,Karina
+Cli0970,Blog,Gold,10/21/2019,11/7/2019,2700,Felipe
+Cli0971,Blog,Black,10/16/2019,11/4/2019,1800,Thaize
+Cli0972,Blog,Black,6/24/2019,11/3/2019,1800,Karina
+Cli0973,Google Ads,Gold,9/27/2019,11/3/2019,999,Oscar
+Cli0974,Google Ads,Gold,4/22/2019,11/3/2019,2700,Maria
+Cli0975,Facebook Ads,Gold,9/27/2019,11/3/2019,999,Roberto
+Cli0976,Blog,Platinum,3/14/2019,11/3/2019,3500,Thaize
+Cli0977,Outros,Gold,10/9/2019,11/2/2019,2700,João
+Cli0978,Afiliados,Gold,9/25/2019,11/2/2019,2700,Oscar
+Cli0979,Facebook Ads,Gold,3/30/2018,11/2/2019,2700,Clarita
+Cli0980,Blog,Gold,8/22/2019,11/1/2019,999,Rodolfo
+Cli0981,Google Ads,Gold,9/24/2019,11/1/2019,2700,Clarita
+Cli0982,Google Ads,Gold,2/23/2018,10/31/2019,2700,João
+Cli0983,Afiliados,Platinum,3/27/2019,10/31/2019,3500,Jorge
+Cli0984,Blog,Gold,10/17/2019,10/31/2019,2700,Roberto
+Cli0985,Outros,Gold,4/1/2018,10/28/2019,2700,Felipe
+Cli0986,Blog,Gold,8/7/2018,10/28/2019,2700,Oscar
+Cli0987,Outros,Gold,8/14/2019,10/28/2019,999,Karina
+Cli0988,Afiliados,Gold,10/19/2019,10/28/2019,2700,Roberto
+Cli0989,Blog,Gold,8/14/2019,10/28/2019,999,Oscar
+Cli0990,Google Ads,Platinum,2/15/2019,10/28/2019,3500,Allan
+Cli0991,Blog,Black,3/24/2019,10/28/2019,1800,Jorge
+Cli0992,Afiliados,Platinum,1/28/2018,10/28/2019,3500,Jorge
+Cli0993,Blog,Gold,7/27/2018,10/28/2019,2700,João
+Cli0994,Email Marketing,Gold,10/12/2019,10/28/2019,2700,Felipe
+Cli0995,Blog,Platinum,9/21/2019,10/28/2019,3500,Karina
+Cli0996,Outros,Platinum,10/20/2019,10/28/2019,3500,Allan
+Cli0997,Facebook Ads,Gold,12/16/2018,10/27/2019,999,Felipe
+Cli0998,Facebook Ads,Black,6/15/2018,10/27/2019,1800,Rodolfo
+Cli0999,Facebook Ads,Gold,6/26/2019,10/27/2019,2700,Clarita
+Cli1000,Google Ads,Gold,10/20/2019,10/27/2019,2700,Allan
+Cli1001,Afiliados,Black,2/19/2019,10/26/2019,1800,Jorge
+Cli1002,Afiliados,Gold,4/5/2018,10/26/2019,999,Karina
+Cli1003,Blog,Gold,9/27/2019,10/26/2019,999,Rodolfo
+Cli1004,Outros,Gold,10/20/2019,10/26/2019,2700,Thaize
+Cli1005,Blog,Gold,10/18/2019,10/26/2019,999,Roberto
+Cli1006,Blog,Platinum,11/2/2018,10/26/2019,3500,João
+Cli1007,Facebook Ads,Gold,10/7/2019,10/24/2019,2700,Karina
+Cli1008,Google Ads,Gold,9/11/2019,10/24/2019,2700,Allan
+Cli1009,Blog,Gold,2/27/2019,10/24/2019,2700,Jorge
+Cli1010,Blog,Gold,10/6/2018,10/21/2019,999,Karina
+Cli1011,Email Marketing,Gold,7/13/2019,10/21/2019,2700,Maria
+Cli1012,Afiliados,Black,10/12/2019,10/20/2019,1800,Clarita
+Cli1013,Email Marketing,Gold,10/12/2019,10/20/2019,2700,João
+Cli1014,Blog,Platinum,7/28/2019,10/18/2019,3500,Roberto
+Cli1015,Blog,Gold,10/12/2019,10/17/2019,2700,Thaize
+Cli1016,Blog,Black,9/12/2019,10/17/2019,1800,Roberto
+Cli1017,Afiliados,Black,7/21/2019,10/14/2019,1800,Allan
+Cli1018,Email Marketing,Platinum,10/6/2019,10/14/2019,3500,Karina
+Cli1019,Blog,Gold,9/30/2019,10/14/2019,2700,Thaize
+Cli1020,Blog,Gold,5/4/2018,10/14/2019,2700,João
+Cli1021,Blog,Black,10/1/2019,10/14/2019,1800,Roberto
+Cli1022,Blog,Platinum,3/20/2018,10/13/2019,3500,Thaize
+Cli1023,Blog,Platinum,9/24/2019,10/13/2019,3500,Clarita
+Cli1024,Google Ads,Gold,8/22/2018,10/13/2019,2700,Oscar
+Cli1025,Blog,Platinum,9/26/2019,10/11/2019,3500,Jorge
+Cli1026,Facebook Ads,Gold,9/15/2019,10/10/2019,999,Karina
+Cli1027,Blog,Gold,9/24/2019,10/10/2019,999,Clarita
+Cli1028,Afiliados,Platinum,3/31/2018,10/7/2019,3500,Jorge
+Cli1029,Email Marketing,Gold,9/30/2019,10/7/2019,2700,Maria
+Cli1030,Outros,Platinum,7/20/2019,10/7/2019,3500,Roberto
+Cli1031,Google Ads,Gold,10/1/2019,10/6/2019,2700,Jorge
+Cli1032,Blog,Gold,8/20/2019,10/6/2019,2700,Allan
+Cli1033,Facebook Ads,Gold,8/29/2019,10/6/2019,2700,Clarita
+Cli1034,Google Ads,Gold,2/20/2019,10/5/2019,2700,Thaize
+Cli1035,Blog,Platinum,8/8/2019,10/5/2019,3500,João
+Cli1036,Afiliados,Platinum,8/28/2019,10/4/2019,3500,Maria
+Cli1037,Blog,Gold,9/27/2019,10/4/2019,2700,Maria
+Cli1038,Blog,Gold,9/13/2019,10/4/2019,2700,Clarita
+Cli1039,Google Ads,Gold,6/7/2019,9/30/2019,2700,Clarita
+Cli1040,Blog,Black,9/21/2019,9/30/2019,1800,Felipe
+Cli1041,Blog,Platinum,8/29/2019,9/30/2019,3500,Clarita
+Cli1042,Blog,Gold,8/2/2019,9/30/2019,2700,Jorge
+Cli1043,Facebook Ads,Gold,9/18/2019,9/29/2019,2700,Jorge
+Cli1044,Blog,Gold,7/16/2018,9/26/2019,2700,Maria
+Cli1045,Google Ads,Black,11/26/2018,9/26/2019,1800,João
+Cli1046,Google Ads,Platinum,4/5/2019,9/26/2019,3500,Jorge
+Cli1047,Afiliados,Gold,9/23/2019,9/26/2019,2700,Felipe
+Cli1048,Email Marketing,Gold,8/25/2018,9/23/2019,999,Jorge
+Cli1049,Outros,Gold,3/19/2018,9/23/2019,999,Oscar
+Cli1050,Blog,Platinum,1/16/2019,9/23/2019,3500,Thaize
+Cli1051,Blog,Platinum,3/20/2018,9/23/2019,3500,Maria
+Cli1052,Afiliados,Platinum,7/14/2019,9/23/2019,3500,Jorge
+Cli1053,Blog,Gold,6/1/2019,9/23/2019,2700,Felipe
+Cli1054,Blog,Platinum,4/3/2019,9/23/2019,3500,Oscar
+Cli1055,Facebook Ads,Black,8/25/2019,9/23/2019,1800,Maria
+Cli1056,Blog,Platinum,11/30/2018,9/23/2019,3500,Felipe
+Cli1057,Blog,Gold,5/8/2019,9/21/2019,2700,Maria
+Cli1058,Afiliados,Platinum,9/4/2019,9/19/2019,3500,Jorge
+Cli1059,Facebook Ads,Gold,1/2/2019,9/19/2019,999,Clarita
+Cli1060,Afiliados,Gold,5/4/2019,9/19/2019,2700,Roberto
+Cli1061,Facebook Ads,Gold,10/4/2018,9/15/2019,2700,Karina
+Cli1062,Blog,Gold,9/12/2019,9/15/2019,2700,João
+Cli1063,Blog,Gold,8/28/2019,9/14/2019,2700,Allan
+Cli1064,Outros,Gold,1/30/2019,9/14/2019,2700,Clarita
+Cli1065,Afiliados,Gold,6/8/2018,9/12/2019,2700,Jorge
+Cli1066,Blog,Gold,9/6/2019,9/12/2019,2700,Jorge
+Cli1067,Outros,Gold,11/27/2018,9/8/2019,2700,Oscar
+Cli1068,Blog,Gold,10/26/2018,9/8/2019,2700,João
+Cli1069,Google Ads,Gold,2/21/2018,9/8/2019,999,João
+Cli1070,Afiliados,Gold,11/28/2018,9/7/2019,2700,Clarita
+Cli1071,Facebook Ads,Gold,6/11/2018,9/6/2019,2700,Karina
+Cli1072,Afiliados,Gold,11/1/2018,9/5/2019,2700,Jorge
+Cli1073,Google Ads,Black,8/24/2019,9/2/2019,1800,Jorge
+Cli1074,Blog,Gold,6/19/2019,9/1/2019,999,João
+Cli1075,Blog,Gold,7/20/2018,8/31/2019,2700,Roberto
+Cli1076,Blog,Gold,3/15/2018,8/31/2019,2700,Karina
+Cli1077,Google Ads,Gold,8/24/2019,8/31/2019,2700,João
+Cli1078,Blog,Black,7/13/2019,8/31/2019,1800,Karina
+Cli1079,Google Ads,Black,6/10/2019,8/31/2019,1800,Jorge
+Cli1080,Blog,Gold,7/30/2018,8/31/2019,2700,João
+Cli1081,Blog,Black,3/22/2019,8/31/2019,1800,Felipe
+Cli1082,Blog,Gold,6/9/2018,8/31/2019,2700,Oscar
+Cli1083,Blog,Gold,8/31/2019,8/31/2019,2700,Jorge
+Cli1084,Blog,Platinum,7/5/2019,8/31/2019,3500,Jorge
+Cli1085,Outros,Gold,5/31/2018,8/31/2019,2700,Thaize
+Cli1086,Blog,Gold,8/12/2019,8/31/2019,2700,Oscar
+Cli1087,Facebook Ads,Gold,5/5/2019,8/30/2019,2700,Maria
+Cli1088,Outros,Platinum,10/3/2018,8/30/2019,3500,Thaize
+Cli1089,Blog,Gold,6/16/2018,8/29/2019,2700,Roberto
+Cli1090,Blog,Gold,7/5/2019,8/29/2019,2700,Felipe
+Cli1091,Blog,Platinum,8/21/2019,8/29/2019,3500,Roberto
+Cli1092,Blog,Black,6/30/2019,8/29/2019,1800,Allan
+Cli1093,Blog,Black,7/12/2019,8/29/2019,1800,Thaize
+Cli1094,Afiliados,Gold,4/18/2019,8/26/2019,2700,Thaize
+Cli1095,Email Marketing,Black,12/12/2018,8/26/2019,1800,Jorge
+Cli1096,Blog,Gold,7/18/2019,8/26/2019,999,Allan
+Cli1097,Facebook Ads,Gold,8/25/2019,8/25/2019,2700,Rodolfo
+Cli1098,Google Ads,Gold,8/25/2019,8/25/2019,2700,Clarita
+Cli1099,Blog,Gold,8/25/2019,8/25/2019,2700,Clarita
+Cli1100,Blog,Gold,3/7/2018,8/24/2019,2700,Jorge
+Cli1101,Facebook Ads,Gold,2/22/2018,8/24/2019,2700,Jorge
+Cli1102,Blog,Gold,7/13/2019,8/24/2019,999,Rodolfo
+Cli1103,Google Ads,Platinum,3/23/2019,8/24/2019,3500,Jorge
+Cli1104,Blog,Black,3/27/2019,8/24/2019,1800,Clarita
+Cli1105,Blog,Gold,8/9/2018,8/24/2019,999,Rodolfo
+Cli1106,Email Marketing,Gold,10/3/2018,8/22/2019,2700,Oscar
+Cli1107,Email Marketing,Gold,1/29/2018,8/22/2019,2700,Roberto
+Cli1108,Outros,Gold,1/23/2019,8/22/2019,2700,Karina
+Cli1109,Blog,Gold,7/18/2019,8/22/2019,999,Jorge
+Cli1110,Facebook Ads,Gold,3/29/2019,8/19/2019,2700,Maria
+Cli1111,Facebook Ads,Gold,8/12/2019,8/19/2019,2700,Maria
+Cli1112,Blog,Gold,6/22/2018,8/19/2019,2700,Jorge
+Cli1113,Afiliados,Black,6/6/2019,8/19/2019,1800,Oscar
+Cli1114,Email Marketing,Platinum,5/11/2019,8/18/2019,3500,João
+Cli1115,Blog,Black,5/1/2019,8/17/2019,1800,Karina
+Cli1116,Google Ads,Platinum,11/5/2018,8/17/2019,3500,Oscar
+Cli1117,Blog,Platinum,7/16/2018,8/16/2019,3500,Roberto
+Cli1118,Blog,Black,11/29/2018,8/15/2019,1800,Allan
+Cli1119,Facebook Ads,Black,7/25/2019,8/15/2019,1800,Allan
+Cli1120,Blog,Gold,8/6/2019,8/15/2019,2700,Allan
+Cli1121,Outros,Black,8/8/2019,8/12/2019,1800,Roberto
+Cli1122,Blog,Gold,3/8/2018,8/12/2019,2700,Felipe
+Cli1123,Outros,Gold,8/7/2019,8/11/2019,2700,Rodolfo
+Cli1124,Blog,Gold,4/16/2019,8/11/2019,2700,João
+Cli1125,Afiliados,Gold,7/27/2019,8/11/2019,999,Oscar
+Cli1126,Blog,Gold,8/7/2019,8/11/2019,2700,Thaize
+Cli1127,Blog,Platinum,7/30/2019,8/8/2019,3500,Rodolfo
+Cli1128,Blog,Platinum,7/27/2019,8/5/2019,3500,Maria
+Cli1129,Blog,Gold,2/14/2019,8/4/2019,2700,Felipe
+Cli1130,Blog,Gold,7/28/2019,8/1/2019,2700,Oscar
+Cli1131,Blog,Black,7/11/2019,8/1/2019,1800,Jorge
+Cli1132,Blog,Black,3/12/2019,8/1/2019,1800,João
+Cli1133,Blog,Gold,7/27/2019,8/1/2019,2700,Jorge
+Cli1134,Facebook Ads,Gold,6/26/2019,7/29/2019,2700,Karina
+Cli1135,Google Ads,Gold,1/28/2018,7/29/2019,2700,Felipe
+Cli1136,Blog,Black,7/13/2019,7/29/2019,1800,Oscar
+Cli1137,Facebook Ads,Gold,5/18/2019,7/29/2019,2700,Karina
+Cli1138,Outros,Gold,7/25/2019,7/28/2019,999,Thaize
+Cli1139,Email Marketing,Gold,7/28/2019,7/28/2019,999,Karina
+Cli1140,Blog,Gold,6/8/2019,7/28/2019,2700,Maria
+Cli1141,Facebook Ads,Gold,7/22/2019,7/28/2019,2700,Rodolfo
+Cli1142,Email Marketing,Gold,4/11/2019,7/28/2019,2700,Jorge
+Cli1143,Blog,Gold,3/19/2019,7/27/2019,2700,Jorge
+Cli1144,Afiliados,Black,5/25/2019,7/26/2019,1800,Maria
+Cli1145,Blog,Gold,7/26/2019,7/26/2019,2700,Maria
+Cli1146,Facebook Ads,Gold,4/10/2019,7/26/2019,2700,Clarita
+Cli1147,Blog,Gold,7/26/2019,7/26/2019,2700,Allan
+Cli1148,Outros,Gold,7/14/2019,7/25/2019,999,Allan
+Cli1149,Google Ads,Gold,7/25/2019,7/25/2019,2700,Rodolfo
+Cli1150,Facebook Ads,Gold,7/25/2019,7/25/2019,2700,Thaize
+Cli1151,Facebook Ads,Gold,7/25/2019,7/25/2019,2700,Karina
+Cli1152,Outros,Black,7/25/2019,7/25/2019,1800,João
+Cli1153,Email Marketing,Platinum,7/25/2019,7/25/2019,3500,Felipe
+Cli1154,Google Ads,Platinum,7/25/2019,7/25/2019,3500,Thaize
+Cli1155,Blog,Platinum,7/25/2019,7/25/2019,3500,Clarita
+Cli1156,Blog,Gold,7/25/2019,7/25/2019,999,Rodolfo
+Cli1157,Blog,Gold,7/25/2019,7/25/2019,2700,Clarita
+Cli1158,Email Marketing,Gold,7/25/2019,7/25/2019,2700,Roberto
+Cli1159,Afiliados,Gold,5/15/2019,7/25/2019,999,Maria
+Cli1160,Google Ads,Black,7/13/2019,7/22/2019,1800,Jorge
+Cli1161,Outros,Gold,5/10/2018,7/22/2019,999,Rodolfo
+Cli1162,Blog,Gold,7/18/2019,7/22/2019,2700,João
+Cli1163,Blog,Platinum,5/18/2019,7/22/2019,3500,Maria
+Cli1164,Blog,Platinum,7/13/2019,7/20/2019,3500,Clarita
+Cli1165,Blog,Black,7/12/2019,7/20/2019,1800,Maria
+Cli1166,Google Ads,Gold,7/8/2019,7/20/2019,2700,Thaize
+Cli1167,Facebook Ads,Black,5/8/2019,7/19/2019,1800,Karina
+Cli1168,Blog,Gold,2/10/2019,7/15/2019,999,Jorge
+Cli1169,Blog,Gold,6/28/2019,7/15/2019,2700,Allan
+Cli1170,Facebook Ads,Gold,11/27/2018,7/15/2019,2700,Roberto
+Cli1171,Blog,Gold,4/1/2019,7/15/2019,2700,Roberto
+Cli1172,Outros,Black,4/11/2019,7/15/2019,1800,João
+Cli1173,Blog,Gold,9/25/2018,7/15/2019,999,Roberto
+Cli1174,Blog,Gold,6/26/2019,7/15/2019,999,Clarita
+Cli1175,Facebook Ads,Gold,11/30/2018,7/15/2019,2700,Allan
+Cli1176,Google Ads,Gold,7/5/2019,7/15/2019,999,Maria
+Cli1177,Blog,Gold,7/10/2019,7/15/2019,2700,Felipe
+Cli1178,Google Ads,Gold,3/29/2019,7/14/2019,2700,João
+Cli1179,Blog,Platinum,6/27/2019,7/14/2019,3500,Rodolfo
+Cli1180,Blog,Gold,6/29/2019,7/14/2019,999,Allan
+Cli1181,Afiliados,Gold,5/26/2019,7/13/2019,2700,João
+Cli1182,Google Ads,Gold,7/8/2019,7/13/2019,2700,João
+Cli1183,Facebook Ads,Gold,7/2/2019,7/12/2019,2700,Karina
+Cli1184,Blog,Gold,6/29/2019,7/11/2019,2700,Clarita
+Cli1185,Blog,Gold,5/24/2019,7/8/2019,2700,Rodolfo
+Cli1186,Afiliados,Black,6/27/2019,7/8/2019,1800,Rodolfo
+Cli1187,Google Ads,Gold,5/3/2019,7/8/2019,2700,Karina
+Cli1188,Blog,Gold,6/23/2019,7/8/2019,2700,Maria
+Cli1189,Blog,Gold,6/10/2019,7/8/2019,2700,Roberto
+Cli1190,Google Ads,Gold,5/18/2019,7/7/2019,2700,Karina
+Cli1191,Blog,Black,6/16/2019,7/7/2019,1800,Clarita
+Cli1192,Blog,Platinum,1/18/2019,7/7/2019,3500,Allan
+Cli1193,Blog,Black,4/18/2019,7/4/2019,1800,Jorge
+Cli1194,Outros,Gold,6/29/2019,7/1/2019,2700,Oscar
+Cli1195,Blog,Gold,3/27/2019,7/1/2019,2700,Allan
+Cli1196,Google Ads,Black,6/15/2019,7/1/2019,1800,Thaize
+Cli1197,Email Marketing,Black,4/26/2019,12/12/2019,1800,Jorge
+Cli1198,Blog,Gold,12/5/2019,12/12/2019,2700,Roberto
+Cli1199,Facebook Ads,Gold,9/30/2019,12/9/2019,2700,Karina
+Cli1200,Google Ads,Gold,9/13/2018,12/9/2019,2700,João
+Cli1201,Outros,Gold,5/12/2018,12/9/2019,2700,Rodolfo
+Cli1202,Blog,Black,11/6/2019,12/9/2019,1800,Felipe
+Cli1203,Outros,Platinum,11/20/2019,12/9/2019,3500,Jorge
+Cli1204,Afiliados,Black,7/11/2019,12/8/2019,1800,Oscar
+Cli1205,Google Ads,Black,11/25/2019,12/5/2019,1800,João
+Cli1206,Google Ads,Gold,7/12/2019,12/2/2019,999,Karina
+Cli1207,Blog,Black,11/28/2019,12/2/2019,1800,Clarita
+Cli1208,Facebook Ads,Black,11/25/2019,12/1/2019,1800,Thaize
+Cli1209,Blog,Gold,11/26/2018,12/1/2019,2700,João
+Cli1210,Afiliados,Black,7/14/2019,12/1/2019,1800,Clarita
+Cli1211,Blog,Gold,11/10/2018,12/1/2019,2700,Oscar
+Cli1212,Blog,Black,2/6/2019,11/30/2019,1800,Rodolfo
+Cli1213,Blog,Gold,11/11/2019,11/30/2019,2700,Oscar
+Cli1214,Blog,Gold,11/27/2019,11/30/2019,2700,João
+Cli1215,Blog,Platinum,11/22/2019,11/30/2019,3500,Jorge
+Cli1216,Google Ads,Gold,7/12/2019,11/30/2019,999,Felipe
+Cli1217,Blog,Black,10/5/2019,11/30/2019,1800,Oscar
+Cli1218,Email Marketing,Platinum,7/7/2019,11/30/2019,3500,Clarita
+Cli1219,Google Ads,Black,11/27/2019,11/30/2019,1800,Karina
+Cli1220,Afiliados,Gold,11/15/2019,11/30/2019,999,Allan
+Cli1221,Blog,Gold,11/20/2019,11/30/2019,2700,João
+Cli1222,Google Ads,Black,8/15/2019,11/29/2019,1800,Clarita
+Cli1223,Afiliados,Black,11/15/2019,11/29/2019,1800,Clarita
+Cli1224,Blog,Black,11/20/2019,11/29/2019,1800,Thaize
+Cli1225,Outros,Platinum,11/8/2019,11/29/2019,3500,Oscar
+Cli1226,Facebook Ads,Gold,10/25/2019,11/29/2019,999,Jorge
+Cli1227,Outros,Black,11/22/2019,11/29/2019,1800,João
+Cli1228,Blog,Gold,7/31/2018,11/28/2019,999,Felipe
+Cli1229,Google Ads,Gold,5/17/2019,11/28/2019,999,Jorge
+Cli1230,Google Ads,Platinum,11/21/2019,11/28/2019,3500,Allan
+Cli1231,Afiliados,Gold,9/21/2019,11/28/2019,2700,Thaize
+Cli1232,Afiliados,Gold,11/30/2018,11/25/2019,2700,Oscar
+Cli1233,Blog,Gold,4/1/2019,11/25/2019,2700,João
+Cli1234,Blog,Gold,11/16/2019,11/25/2019,999,Thaize
+Cli1235,Facebook Ads,Gold,7/4/2018,11/25/2019,2700,Roberto
+Cli1236,Blog,Black,11/15/2019,11/25/2019,1800,Felipe
+Cli1237,Google Ads,Gold,5/22/2019,11/25/2019,2700,Roberto
+Cli1238,Outros,Gold,11/10/2019,11/25/2019,2700,Allan
+Cli1239,Google Ads,Platinum,5/31/2018,11/24/2019,3500,Jorge
+Cli1240,Email Marketing,Gold,7/13/2019,11/24/2019,999,Allan
+Cli1241,Google Ads,Gold,11/15/2019,11/23/2019,999,Maria
+Cli1242,Afiliados,Gold,5/24/2019,11/22/2019,2700,Jorge
+Cli1243,Email Marketing,Gold,10/10/2018,11/21/2019,2700,Felipe
+Cli1244,Blog,Platinum,11/5/2018,11/18/2019,3500,Rodolfo
+Cli1245,Google Ads,Gold,9/8/2018,11/18/2019,999,Felipe
+Cli1246,Google Ads,Gold,1/16/2019,11/18/2019,2700,Oscar
+Cli1247,Afiliados,Gold,11/13/2019,11/18/2019,2700,Rodolfo
+Cli1248,Email Marketing,Gold,11/6/2019,11/17/2019,2700,Roberto
+Cli1249,Email Marketing,Gold,9/11/2019,11/17/2019,2700,Clarita
+Cli1250,Afiliados,Gold,10/17/2019,11/17/2019,2700,Felipe
+Cli1251,Blog,Black,8/5/2019,11/17/2019,1800,Thaize
+Cli1252,Blog,Black,10/27/2019,11/17/2019,1800,Jorge
+Cli1253,Blog,Platinum,9/11/2019,11/17/2019,3500,Roberto
+Cli1254,Blog,Platinum,11/6/2019,11/17/2019,3500,Rodolfo
+Cli1255,Google Ads,Gold,10/17/2019,11/15/2019,999,Oscar
+Cli1256,Google Ads,Black,11/7/2019,11/14/2019,1800,João
+Cli1257,Blog,Platinum,10/25/2019,11/14/2019,3500,Thaize
+Cli1258,Blog,Gold,11/6/2019,11/11/2019,2700,João
+Cli1259,Email Marketing,Black,11/30/2018,11/11/2019,1800,Clarita
+Cli1260,Facebook Ads,Gold,9/1/2019,11/11/2019,2700,Jorge
+Cli1261,Blog,Gold,6/11/2019,11/11/2019,999,Oscar
+Cli1262,Outros,Gold,4/2/2018,11/10/2019,2700,João
+Cli1263,Afiliados,Platinum,8/26/2019,11/10/2019,3500,Felipe
+Cli1264,Blog,Platinum,9/14/2019,11/9/2019,3500,Thaize
+Cli1265,Blog,Gold,10/6/2019,11/8/2019,2700,Jorge
+Cli1266,Google Ads,Gold,10/22/2019,11/8/2019,2700,João
+Cli1267,Blog,Black,10/26/2019,11/8/2019,1800,Thaize
+Cli1268,Blog,Gold,11/7/2019,11/7/2019,2700,Oscar
+Cli1269,Blog,Gold,10/21/2019,11/7/2019,2700,Thaize
+Cli1270,Email Marketing,Platinum,10/16/2019,11/4/2019,3500,Jorge
+Cli1271,Outros,Gold,6/24/2019,11/3/2019,2700,Allan
+Cli1272,Google Ads,Black,9/27/2019,11/3/2019,1800,Karina
+Cli1273,Blog,Gold,4/22/2019,11/3/2019,2700,Clarita
+Cli1274,Outros,Gold,9/27/2019,11/3/2019,2700,Felipe
+Cli1275,Afiliados,Gold,3/14/2019,11/3/2019,2700,Oscar
+Cli1276,Facebook Ads,Gold,10/9/2019,11/2/2019,2700,Karina
+Cli1277,Email Marketing,Platinum,9/25/2019,11/2/2019,3500,Clarita
+Cli1278,Blog,Gold,3/30/2018,11/2/2019,999,Felipe
+Cli1279,Blog,Black,8/22/2019,11/1/2019,1800,Karina
+Cli1280,Blog,Gold,9/24/2019,11/1/2019,2700,Jorge
+Cli1281,Blog,Platinum,2/23/2018,10/31/2019,3500,Maria
+Cli1282,Blog,Gold,3/27/2019,10/31/2019,2700,Felipe
+Cli1283,Afiliados,Gold,10/17/2019,10/31/2019,999,Clarita
+Cli1284,Blog,Platinum,4/1/2018,10/28/2019,3500,Maria
+Cli1285,Google Ads,Black,8/7/2018,10/28/2019,1800,Allan
+Cli1286,Google Ads,Platinum,8/14/2019,10/28/2019,3500,Maria
+Cli1287,Blog,Gold,10/19/2019,10/28/2019,2700,Maria
+Cli1288,Blog,Gold,8/14/2019,10/28/2019,2700,João
+Cli1289,Afiliados,Gold,2/15/2019,10/28/2019,2700,Rodolfo
+Cli1290,Google Ads,Gold,3/24/2019,10/28/2019,999,Jorge
+Cli1291,Blog,Gold,1/28/2018,10/28/2019,2700,Allan
+Cli1292,Google Ads,Gold,7/27/2018,10/28/2019,999,Clarita
+Cli1293,Google Ads,Black,10/12/2019,10/28/2019,1800,Karina
+Cli1294,Google Ads,Gold,9/21/2019,10/28/2019,2700,Felipe
+Cli1295,Facebook Ads,Gold,10/20/2019,10/28/2019,2700,Rodolfo
+Cli1296,Blog,Gold,12/16/2018,10/27/2019,999,João
+Cli1297,Blog,Black,6/15/2018,10/27/2019,1800,Jorge
+Cli1298,Google Ads,Platinum,6/26/2019,10/27/2019,3500,Thaize
+Cli1299,Google Ads,Platinum,10/20/2019,10/27/2019,3500,Karina
+Cli1300,Afiliados,Gold,2/19/2019,10/26/2019,999,Allan
+Cli1301,Blog,Black,4/5/2018,10/26/2019,1800,Roberto
+Cli1302,Google Ads,Gold,9/27/2019,10/26/2019,2700,João
+Cli1303,Blog,Black,10/20/2019,10/26/2019,1800,Allan
+Cli1304,Afiliados,Platinum,10/18/2019,10/26/2019,3500,Roberto
+Cli1305,Outros,Gold,11/2/2018,10/26/2019,2700,Roberto
+Cli1306,Blog,Black,10/7/2019,10/24/2019,1800,Maria
+Cli1307,Facebook Ads,Gold,9/11/2019,10/24/2019,2700,Oscar
+Cli1308,Outros,Gold,2/27/2019,10/24/2019,2700,Felipe
+Cli1309,Email Marketing,Gold,10/6/2018,10/21/2019,2700,Karina
+Cli1310,Outros,Gold,7/13/2019,10/21/2019,2700,Roberto
+Cli1311,Afiliados,Gold,10/12/2019,10/20/2019,2700,João
+Cli1312,Blog,Platinum,10/12/2019,10/20/2019,3500,Jorge
+Cli1313,Blog,Gold,7/28/2019,10/18/2019,2700,Clarita
+Cli1314,Google Ads,Gold,10/12/2019,10/17/2019,999,Jorge
+Cli1315,Outros,Gold,9/12/2019,10/17/2019,2700,Roberto
+Cli1316,Blog,Gold,7/21/2019,10/14/2019,2700,Thaize
+Cli1317,Email Marketing,Black,10/6/2019,10/14/2019,1800,Maria
+Cli1318,Blog,Gold,9/30/2019,10/14/2019,2700,Rodolfo
+Cli1319,Google Ads,Black,5/4/2018,10/14/2019,1800,Maria
+Cli1320,Blog,Gold,10/1/2019,10/14/2019,2700,Jorge
+Cli1321,Afiliados,Platinum,3/20/2018,10/13/2019,3500,Oscar
+Cli1322,Afiliados,Gold,9/24/2019,10/13/2019,999,Allan
+Cli1323,Blog,Platinum,8/22/2018,10/13/2019,3500,Rodolfo
+Cli1324,Blog,Black,9/26/2019,10/11/2019,1800,Roberto
+Cli1325,Afiliados,Gold,9/15/2019,10/10/2019,2700,Maria
+Cli1326,Outros,Black,9/24/2019,10/10/2019,1800,Jorge
+Cli1327,Afiliados,Gold,3/31/2018,10/7/2019,2700,Roberto
+Cli1328,Blog,Black,9/30/2019,10/7/2019,1800,Jorge
+Cli1329,Email Marketing,Platinum,7/20/2019,10/7/2019,3500,Oscar
+Cli1330,Outros,Black,10/1/2019,10/6/2019,1800,Rodolfo
+Cli1331,Google Ads,Platinum,8/20/2019,10/6/2019,3500,João
+Cli1332,Email Marketing,Platinum,8/29/2019,10/6/2019,3500,Karina
+Cli1333,Blog,Gold,2/20/2019,10/5/2019,999,Jorge
+Cli1334,Facebook Ads,Gold,8/8/2019,10/5/2019,999,Maria
+Cli1335,Blog,Gold,8/28/2019,10/4/2019,2700,Clarita
+Cli1336,Blog,Gold,9/27/2019,10/4/2019,2700,Jorge
+Cli1337,Blog,Gold,9/13/2019,10/4/2019,2700,Jorge
+Cli1338,Blog,Gold,6/7/2019,9/30/2019,999,Thaize
+Cli1339,Blog,Gold,9/21/2019,9/30/2019,999,Allan
+Cli1340,Blog,Black,8/29/2019,9/30/2019,1800,Oscar
+Cli1341,Google Ads,Platinum,8/2/2019,9/30/2019,3500,Maria
+Cli1342,Blog,Gold,9/18/2019,9/29/2019,2700,Clarita
+Cli1343,Email Marketing,Gold,7/16/2018,9/26/2019,2700,Karina
+Cli1344,Afiliados,Gold,11/26/2018,9/26/2019,2700,Jorge
+Cli1345,Email Marketing,Gold,4/5/2019,9/26/2019,2700,Roberto
+Cli1346,Blog,Black,9/23/2019,9/26/2019,1800,Karina
+Cli1347,Blog,Black,8/25/2018,9/23/2019,1800,Clarita
+Cli1348,Google Ads,Black,3/19/2018,9/23/2019,1800,Roberto
+Cli1349,Outros,Black,1/16/2019,9/23/2019,1800,Felipe
+Cli1350,Blog,Black,3/20/2018,9/23/2019,1800,Karina
+Cli1351,Blog,Black,7/14/2019,9/23/2019,1800,Maria
+Cli1352,Blog,Platinum,6/1/2019,9/23/2019,3500,Karina
+Cli1353,Blog,Gold,4/3/2019,9/23/2019,2700,Jorge
+Cli1354,Google Ads,Gold,8/25/2019,9/23/2019,999,Roberto
+Cli1355,Blog,Gold,11/30/2018,9/23/2019,999,Allan
+Cli1356,Google Ads,Gold,5/8/2019,9/21/2019,2700,Oscar
+Cli1357,Outros,Platinum,9/4/2019,9/19/2019,3500,Karina
+Cli1358,Blog,Gold,1/2/2019,9/19/2019,2700,Clarita
+Cli1359,Outros,Gold,5/4/2019,9/19/2019,2700,Thaize
+Cli1360,Facebook Ads,Platinum,10/4/2018,9/15/2019,3500,Thaize
+Cli1361,Blog,Black,9/12/2019,9/15/2019,1800,Roberto
+Cli1362,Blog,Gold,8/28/2019,9/14/2019,2700,Felipe
+Cli1363,Blog,Platinum,1/30/2019,9/14/2019,3500,Rodolfo
+Cli1364,Google Ads,Gold,6/8/2018,9/12/2019,999,Jorge
+Cli1365,Google Ads,Gold,9/6/2019,9/12/2019,2700,Roberto
+Cli1366,Blog,Platinum,11/27/2018,9/8/2019,3500,Thaize
+Cli1367,Blog,Gold,10/26/2018,9/8/2019,999,Jorge
+Cli1368,Afiliados,Black,2/21/2018,9/8/2019,1800,Thaize
+Cli1369,Facebook Ads,Gold,11/28/2018,9/7/2019,2700,João
+Cli1370,Google Ads,Platinum,6/11/2018,9/6/2019,3500,Clarita
+Cli1371,Blog,Black,11/1/2018,9/5/2019,1800,Roberto
+Cli1372,Google Ads,Platinum,8/24/2019,9/2/2019,3500,Jorge
+Cli1373,Afiliados,Black,6/19/2019,9/1/2019,1800,Felipe
+Cli1374,Facebook Ads,Gold,7/20/2018,8/31/2019,2700,Maria
+Cli1375,Outros,Platinum,3/15/2018,8/31/2019,3500,Thaize
+Cli1376,Outros,Platinum,8/24/2019,8/31/2019,3500,Karina
+Cli1377,Outros,Platinum,7/13/2019,8/31/2019,3500,Allan
+Cli1378,Blog,Gold,6/10/2019,8/31/2019,2700,Thaize
+Cli1379,Outros,Gold,7/30/2018,8/31/2019,2700,Jorge
+Cli1380,Afiliados,Black,3/22/2019,8/31/2019,1800,Oscar
+Cli1381,Blog,Black,6/9/2018,8/31/2019,1800,Roberto
+Cli1382,Email Marketing,Gold,8/31/2019,8/31/2019,2700,Maria
+Cli1383,Blog,Black,7/5/2019,8/31/2019,1800,Maria
+Cli1384,Blog,Platinum,5/31/2018,8/31/2019,3500,Oscar
+Cli1385,Blog,Platinum,8/12/2019,8/31/2019,3500,Jorge
+Cli1386,Blog,Black,5/5/2019,8/30/2019,1800,Roberto
+Cli1387,Outros,Platinum,10/3/2018,8/30/2019,3500,Felipe
+Cli1388,Facebook Ads,Gold,6/16/2018,8/29/2019,2700,Karina
+Cli1389,Google Ads,Black,7/5/2019,8/29/2019,1800,Rodolfo
+Cli1390,Email Marketing,Black,8/21/2019,8/29/2019,1800,Oscar
+Cli1391,Blog,Black,6/30/2019,8/29/2019,1800,Karina
+Cli1392,Blog,Gold,7/12/2019,8/29/2019,2700,Clarita
+Cli1393,Afiliados,Gold,4/18/2019,8/26/2019,2700,Rodolfo
+Cli1394,Blog,Gold,12/12/2018,8/26/2019,2700,Jorge
+Cli1395,Google Ads,Gold,7/18/2019,8/26/2019,2700,Oscar
+Cli1396,Blog,Black,8/25/2019,8/25/2019,1800,Roberto
+Cli1397,Blog,Gold,8/25/2019,8/25/2019,2700,Allan
+Cli1398,Google Ads,Gold,8/25/2019,8/25/2019,999,Roberto
+Cli1399,Outros,Gold,3/7/2018,8/24/2019,2700,Rodolfo
+Cli1400,Outros,Black,2/22/2018,8/24/2019,1800,Felipe
+Cli1401,Blog,Gold,7/13/2019,8/24/2019,2700,Jorge
+Cli1402,Email Marketing,Gold,3/23/2019,8/24/2019,2700,Karina
+Cli1403,Blog,Platinum,3/27/2019,8/24/2019,3500,Rodolfo
+Cli1404,Blog,Gold,8/9/2018,8/24/2019,2700,Jorge
+Cli1405,Blog,Black,10/3/2018,8/22/2019,1800,Jorge
+Cli1406,Outros,Gold,1/29/2018,8/22/2019,2700,Oscar
+Cli1407,Blog,Gold,1/23/2019,8/22/2019,2700,Allan
+Cli1408,Outros,Gold,7/18/2019,8/22/2019,2700,Oscar
+Cli1409,Blog,Gold,3/29/2019,8/19/2019,2700,Clarita
+Cli1410,Afiliados,Platinum,8/12/2019,8/19/2019,3500,Rodolfo
+Cli1411,Blog,Gold,6/22/2018,8/19/2019,2700,Thaize
+Cli1412,Blog,Black,6/6/2019,8/19/2019,1800,João
+Cli1413,Outros,Gold,5/11/2019,8/18/2019,2700,Maria
+Cli1414,Google Ads,Gold,5/1/2019,8/17/2019,2700,Rodolfo
+Cli1415,Google Ads,Platinum,11/5/2018,8/17/2019,3500,Maria
+Cli1416,Blog,Gold,7/16/2018,8/16/2019,999,Oscar
+Cli1417,Outros,Gold,11/29/2018,8/15/2019,2700,Thaize
+Cli1418,Google Ads,Gold,7/25/2019,8/15/2019,2700,Maria
+Cli1419,Facebook Ads,Platinum,8/6/2019,8/15/2019,3500,Karina
+Cli1420,Blog,Gold,8/8/2019,8/12/2019,2700,Thaize
+Cli1421,Google Ads,Gold,3/8/2018,8/12/2019,2700,Jorge
+Cli1422,Blog,Gold,8/7/2019,8/11/2019,2700,Thaize
+Cli1423,Google Ads,Platinum,4/16/2019,8/11/2019,3500,Maria
+Cli1424,Blog,Black,7/27/2019,8/11/2019,1800,Karina
+Cli1425,Blog,Gold,8/7/2019,8/11/2019,2700,Oscar
+Cli1426,Email Marketing,Gold,7/30/2019,8/8/2019,2700,Maria
+Cli1427,Blog,Black,7/27/2019,8/5/2019,1800,Thaize
+Cli1428,Google Ads,Gold,2/14/2019,8/4/2019,2700,Maria
+Cli1429,Facebook Ads,Gold,7/28/2019,8/1/2019,999,Felipe
+Cli1430,Blog,Gold,7/11/2019,8/1/2019,2700,Allan
+Cli1431,Blog,Platinum,3/12/2019,8/1/2019,3500,Clarita
+Cli1432,Afiliados,Gold,7/27/2019,8/1/2019,2700,João
+Cli1433,Blog,Gold,6/26/2019,7/29/2019,2700,Thaize
+Cli1434,Blog,Gold,1/28/2018,7/29/2019,2700,Karina
+Cli1435,Blog,Platinum,7/13/2019,7/29/2019,3500,Thaize
+Cli1436,Blog,Gold,5/18/2019,7/29/2019,999,Jorge
+Cli1437,Blog,Gold,7/25/2019,7/28/2019,999,Oscar
+Cli1438,Facebook Ads,Gold,7/28/2019,7/28/2019,999,Allan
+Cli1439,Blog,Gold,6/8/2019,7/28/2019,999,Felipe
+Cli1440,Facebook Ads,Platinum,7/22/2019,7/28/2019,3500,Roberto
+Cli1441,Google Ads,Gold,4/11/2019,7/28/2019,999,Maria
+Cli1442,Blog,Gold,3/19/2019,7/27/2019,999,Roberto
+Cli1443,Afiliados,Gold,5/25/2019,7/26/2019,2700,Maria
+Cli1444,Facebook Ads,Platinum,7/26/2019,7/26/2019,3500,Allan
+Cli1445,Blog,Black,4/10/2019,7/26/2019,1800,Jorge
+Cli1446,Google Ads,Black,7/26/2019,7/26/2019,1800,Rodolfo
+Cli1447,Blog,Gold,7/14/2019,7/25/2019,999,Clarita
+Cli1448,Blog,Black,7/25/2019,7/25/2019,1800,Rodolfo
+Cli1449,Blog,Gold,7/25/2019,7/25/2019,2700,Rodolfo
+Cli1450,Blog,Gold,7/25/2019,7/25/2019,2700,João
+Cli1451,Blog,Black,7/25/2019,7/25/2019,1800,Felipe
+Cli1452,Facebook Ads,Gold,7/25/2019,7/25/2019,2700,Felipe
+Cli1453,Blog,Gold,7/25/2019,7/25/2019,999,Oscar
+Cli1454,Blog,Platinum,7/25/2019,7/25/2019,3500,Jorge
+Cli1455,Blog,Platinum,7/25/2019,7/25/2019,3500,Thaize
+Cli1456,Google Ads,Platinum,7/25/2019,7/25/2019,3500,Roberto
+Cli1457,Blog,Gold,7/25/2019,7/25/2019,2700,Maria
+Cli1458,Outros,Gold,5/15/2019,7/25/2019,2700,Jorge
+Cli1459,Blog,Gold,7/13/2019,7/22/2019,2700,Oscar
+Cli1460,Blog,Gold,5/10/2018,7/22/2019,2700,Clarita
+Cli1461,Email Marketing,Gold,7/18/2019,7/22/2019,2700,Roberto
+Cli1462,Facebook Ads,Platinum,5/18/2019,7/22/2019,3500,João
+Cli1463,Blog,Black,7/13/2019,7/20/2019,1800,Roberto
+Cli1464,Facebook Ads,Platinum,7/12/2019,7/20/2019,3500,Maria
+Cli1465,Facebook Ads,Gold,7/8/2019,7/20/2019,2700,Allan
+Cli1466,Blog,Gold,5/8/2019,7/19/2019,2700,Karina
+Cli1467,Google Ads,Gold,2/10/2019,7/15/2019,2700,Karina
+Cli1468,Facebook Ads,Gold,6/28/2019,7/15/2019,2700,Felipe
+Cli1469,Outros,Gold,11/27/2018,7/15/2019,2700,Clarita
+Cli1470,Google Ads,Gold,4/1/2019,7/15/2019,999,Allan
+Cli1471,Blog,Black,4/11/2019,7/15/2019,1800,Clarita
+Cli1472,Google Ads,Gold,9/25/2018,7/15/2019,999,Allan
+Cli1473,Google Ads,Gold,6/26/2019,7/15/2019,999,Thaize
+Cli1474,Email Marketing,Gold,11/30/2018,7/15/2019,2700,Maria
+Cli1475,Blog,Gold,7/5/2019,7/15/2019,2700,João
+Cli1476,Blog,Black,7/10/2019,7/15/2019,1800,Thaize
+Cli1477,Blog,Gold,3/29/2019,7/14/2019,999,Karina
+Cli1478,Blog,Gold,6/27/2019,7/14/2019,999,Thaize
+Cli1479,Outros,Gold,6/29/2019,7/14/2019,2700,Karina
+Cli1480,Blog,Black,5/26/2019,7/13/2019,1800,Allan
+Cli1481,Blog,Gold,7/8/2019,7/13/2019,999,Maria
+Cli1482,Blog,Platinum,7/2/2019,7/12/2019,3500,Karina
+Cli1483,Blog,Black,6/29/2019,7/11/2019,1800,Clarita
+Cli1484,Blog,Gold,5/24/2019,7/8/2019,2700,Clarita
+Cli1485,Afiliados,Gold,6/27/2019,7/8/2019,2700,Oscar
+Cli1486,Blog,Gold,5/3/2019,7/8/2019,999,Roberto
+Cli1487,Blog,Platinum,6/23/2019,7/8/2019,3500,Maria
+Cli1488,Blog,Platinum,6/10/2019,7/8/2019,3500,Roberto
+Cli1489,Blog,Gold,5/18/2019,7/7/2019,2700,Allan
+Cli1490,Google Ads,Black,6/16/2019,7/7/2019,1800,Rodolfo
+Cli1491,Outros,Black,1/18/2019,7/7/2019,1800,Thaize
+Cli1492,Blog,Black,4/18/2019,7/4/2019,1800,Jorge
+Cli1493,Google Ads,Gold,6/29/2019,7/1/2019,2700,Karina
+Cli1494,Google Ads,Gold,3/27/2019,7/1/2019,2700,Jorge
+Cli1495,Google Ads,Gold,6/15/2019,7/1/2019,2700,Jorge
+Cli1496,Blog,Gold,4/26/2019,12/12/2019,2700,Jorge
+Cli1497,Blog,Gold,12/5/2019,12/12/2019,2700,Rodolfo
+Cli1498,Blog,Black,9/30/2019,12/9/2019,1800,Thaize
+Cli1499,Google Ads,Black,9/13/2018,12/9/2019,1800,João
+Cli1500,Facebook Ads,Platinum,5/12/2018,12/9/2019,3500,João
+Cli1501,Google Ads,Gold,11/6/2019,12/9/2019,2700,Jorge
+Cli1502,Facebook Ads,Black,11/20/2019,12/9/2019,1800,Clarita
+Cli1503,Blog,Gold,7/11/2019,12/8/2019,2700,Clarita
+Cli1504,Blog,Gold,11/25/2019,12/5/2019,2700,Rodolfo
+Cli1505,Blog,Gold,7/12/2019,12/2/2019,2700,Clarita
+Cli1506,Blog,Gold,11/28/2019,12/2/2019,2700,Allan
+Cli1507,Google Ads,Platinum,11/25/2019,12/1/2019,3500,Jorge
+Cli1508,Facebook Ads,Platinum,11/26/2018,12/1/2019,3500,Maria
+Cli1509,Google Ads,Gold,7/14/2019,12/1/2019,2700,Oscar
+Cli1510,Google Ads,Platinum,11/10/2018,12/1/2019,3500,Jorge
+Cli1511,Outros,Gold,2/6/2019,11/30/2019,999,Rodolfo
+Cli1512,Blog,Gold,11/11/2019,11/30/2019,2700,Rodolfo
+Cli1513,Outros,Gold,11/27/2019,11/30/2019,2700,Oscar
+Cli1514,Blog,Black,11/22/2019,11/30/2019,1800,Oscar
+Cli1515,Blog,Gold,7/12/2019,11/30/2019,2700,Allan
+Cli1516,Facebook Ads,Gold,10/5/2019,11/30/2019,2700,Roberto
+Cli1517,Google Ads,Platinum,7/7/2019,11/30/2019,3500,Clarita
+Cli1518,Blog,Gold,11/27/2019,11/30/2019,999,Allan
+Cli1519,Google Ads,Gold,11/15/2019,11/30/2019,2700,Felipe
+Cli1520,Blog,Black,11/20/2019,11/30/2019,1800,Clarita
+Cli1521,Blog,Gold,8/15/2019,11/29/2019,2700,Roberto
+Cli1522,Blog,Gold,11/15/2019,11/29/2019,2700,Jorge
+Cli1523,Blog,Gold,11/20/2019,11/29/2019,999,Rodolfo
+Cli1524,Blog,Platinum,11/8/2019,11/29/2019,3500,Oscar
+Cli1525,Blog,Platinum,10/25/2019,11/29/2019,3500,Thaize
+Cli1526,Blog,Gold,11/22/2019,11/29/2019,2700,Jorge
+Cli1527,Blog,Black,7/31/2018,11/28/2019,1800,Roberto
+Cli1528,Outros,Gold,5/17/2019,11/28/2019,999,Jorge
+Cli1529,Blog,Black,11/21/2019,11/28/2019,1800,Felipe
+Cli1530,Blog,Platinum,9/21/2019,11/28/2019,3500,Allan
+Cli1531,Email Marketing,Platinum,11/30/2018,11/25/2019,3500,Jorge
+Cli1532,Google Ads,Gold,4/1/2019,11/25/2019,2700,Allan
+Cli1533,Blog,Gold,11/16/2019,11/25/2019,2700,Allan
+Cli1534,Outros,Platinum,7/4/2018,11/25/2019,3500,João
+Cli1535,Blog,Black,11/15/2019,11/25/2019,1800,Roberto
+Cli1536,Blog,Gold,5/22/2019,11/25/2019,2700,João
+Cli1537,Email Marketing,Black,11/10/2019,11/25/2019,1800,Jorge
+Cli1538,Email Marketing,Black,5/31/2018,11/24/2019,1800,Roberto
+Cli1539,Blog,Platinum,7/13/2019,11/24/2019,3500,Jorge
+Cli1540,Google Ads,Gold,11/15/2019,11/23/2019,999,Rodolfo
+Cli1541,Blog,Gold,5/24/2019,11/22/2019,2700,Jorge
+Cli1542,Google Ads,Gold,10/10/2018,11/21/2019,2700,Thaize
+Cli1543,Facebook Ads,Gold,11/5/2018,11/18/2019,999,Clarita
+Cli1544,Blog,Platinum,9/8/2018,11/18/2019,3500,Maria
+Cli1545,Blog,Black,1/16/2019,11/18/2019,1800,Roberto
+Cli1546,Google Ads,Platinum,11/13/2019,11/18/2019,3500,Oscar
+Cli1547,Outros,Gold,11/6/2019,11/17/2019,2700,Oscar
+Cli1548,Blog,Gold,9/11/2019,11/17/2019,999,Oscar
+Cli1549,Blog,Gold,10/17/2019,11/17/2019,2700,Oscar
+Cli1550,Blog,Gold,8/5/2019,11/17/2019,999,Roberto
+Cli1551,Blog,Gold,10/27/2019,11/17/2019,999,Thaize
+Cli1552,Google Ads,Gold,9/11/2019,11/17/2019,2700,João
+Cli1553,Google Ads,Platinum,11/6/2019,11/17/2019,3500,Oscar
+Cli1554,Blog,Gold,10/17/2019,11/15/2019,2700,Roberto
+Cli1555,Facebook Ads,Platinum,11/7/2019,11/14/2019,3500,Oscar
+Cli1556,Blog,Black,10/25/2019,11/14/2019,1800,Karina
+Cli1557,Blog,Black,11/6/2019,11/11/2019,1800,Oscar
+Cli1558,Blog,Gold,11/30/2018,11/11/2019,2700,Allan
+Cli1559,Blog,Gold,9/1/2019,11/11/2019,2700,Karina
+Cli1560,Google Ads,Gold,6/11/2019,11/11/2019,2700,João
+Cli1561,Blog,Black,4/2/2018,11/10/2019,1800,João
+Cli1562,Google Ads,Platinum,8/26/2019,11/10/2019,3500,João
+Cli1563,Facebook Ads,Platinum,9/14/2019,11/9/2019,3500,Jorge
+Cli1564,Facebook Ads,Gold,10/6/2019,11/8/2019,999,Felipe
+Cli1565,Blog,Gold,10/22/2019,11/8/2019,2700,Maria
+Cli1566,Blog,Gold,10/26/2019,11/8/2019,2700,Clarita
+Cli1567,Afiliados,Platinum,11/7/2019,11/7/2019,3500,Clarita
+Cli1568,Email Marketing,Gold,10/21/2019,11/7/2019,999,Clarita
+Cli1569,Blog,Platinum,10/16/2019,11/4/2019,3500,Thaize
+Cli1570,Email Marketing,Gold,6/24/2019,11/3/2019,2700,Jorge
+Cli1571,Email Marketing,Gold,9/27/2019,11/3/2019,2700,João
+Cli1572,Blog,Black,4/22/2019,11/3/2019,1800,Allan
+Cli1573,Blog,Black,9/27/2019,11/3/2019,1800,Roberto
+Cli1574,Google Ads,Gold,3/14/2019,11/3/2019,2700,Jorge
+Cli1575,Google Ads,Gold,10/9/2019,11/2/2019,2700,Jorge
+Cli1576,Blog,Gold,9/25/2019,11/2/2019,2700,Karina
+Cli1577,Blog,Gold,3/30/2018,11/2/2019,2700,Rodolfo
+Cli1578,Facebook Ads,Gold,8/22/2019,11/1/2019,999,Thaize
+Cli1579,Google Ads,Gold,9/24/2019,11/1/2019,2700,Allan
+Cli1580,Blog,Gold,2/23/2018,10/31/2019,2700,Allan
+Cli1581,Blog,Gold,3/27/2019,10/31/2019,2700,Allan
+Cli1582,Blog,Gold,10/17/2019,10/31/2019,999,Maria
+Cli1583,Google Ads,Black,4/1/2018,10/28/2019,1800,Karina
+Cli1584,Blog,Gold,8/7/2018,10/28/2019,999,Allan
+Cli1585,Blog,Black,8/14/2019,10/28/2019,1800,Oscar
+Cli1586,Facebook Ads,Gold,10/19/2019,10/28/2019,999,Oscar
+Cli1587,Facebook Ads,Gold,8/14/2019,10/28/2019,999,Jorge
+Cli1588,Blog,Black,2/15/2019,10/28/2019,1800,Allan
+Cli1589,Blog,Gold,3/24/2019,10/28/2019,999,Rodolfo
+Cli1590,Facebook Ads,Black,1/28/2018,10/28/2019,1800,Jorge
+Cli1591,Google Ads,Platinum,7/27/2018,10/28/2019,3500,Oscar
+Cli1592,Outros,Gold,10/12/2019,10/28/2019,999,João
+Cli1593,Blog,Black,9/21/2019,10/28/2019,1800,Felipe
+Cli1594,Blog,Gold,10/20/2019,10/28/2019,2700,João
+Cli1595,Afiliados,Black,12/16/2018,10/27/2019,1800,Oscar
+Cli1596,Google Ads,Platinum,6/15/2018,10/27/2019,3500,Karina
+Cli1597,Blog,Platinum,6/26/2019,10/27/2019,3500,Allan
+Cli1598,Google Ads,Black,10/20/2019,10/27/2019,1800,Jorge
+Cli1599,Blog,Platinum,2/19/2019,10/26/2019,3500,Thaize
+Cli1600,Blog,Gold,4/5/2018,10/26/2019,999,Felipe
+Cli1601,Outros,Gold,9/27/2019,10/26/2019,2700,Roberto
+Cli1602,Facebook Ads,Platinum,10/20/2019,10/26/2019,3500,Allan
+Cli1603,Blog,Gold,10/18/2019,10/26/2019,999,Rodolfo
+Cli1604,Blog,Gold,11/2/2018,10/26/2019,2700,Roberto
+Cli1605,Blog,Gold,10/7/2019,10/24/2019,999,Thaize
+Cli1606,Email Marketing,Gold,9/11/2019,10/24/2019,2700,Jorge
+Cli1607,Email Marketing,Platinum,2/27/2019,10/24/2019,3500,Roberto
+Cli1608,Blog,Black,10/6/2018,10/21/2019,1800,Maria
+Cli1609,Blog,Platinum,7/13/2019,10/21/2019,3500,Karina
+Cli1610,Facebook Ads,Gold,10/12/2019,10/20/2019,2700,Roberto
+Cli1611,Blog,Gold,10/12/2019,10/20/2019,2700,Felipe
+Cli1612,Blog,Gold,7/28/2019,10/18/2019,999,Jorge
+Cli1613,Facebook Ads,Platinum,10/12/2019,10/17/2019,3500,Thaize
+Cli1614,Email Marketing,Platinum,9/12/2019,10/17/2019,3500,Karina
+Cli1615,Blog,Platinum,7/21/2019,10/14/2019,3500,Maria
+Cli1616,Email Marketing,Gold,10/6/2019,10/14/2019,999,Jorge
+Cli1617,Email Marketing,Platinum,9/30/2019,10/14/2019,3500,Allan
+Cli1618,Blog,Gold,5/4/2018,10/14/2019,2700,Jorge
+Cli1619,Facebook Ads,Gold,10/1/2019,10/14/2019,2700,Jorge
+Cli1620,Blog,Gold,3/20/2018,10/13/2019,999,Karina
+Cli1621,Blog,Gold,9/24/2019,10/13/2019,999,Felipe
+Cli1622,Email Marketing,Black,8/22/2018,10/13/2019,1800,Oscar
+Cli1623,Outros,Gold,9/26/2019,10/11/2019,999,Rodolfo
+Cli1624,Google Ads,Gold,9/15/2019,10/10/2019,2700,Felipe
+Cli1625,Afiliados,Gold,9/24/2019,10/10/2019,999,Oscar
+Cli1626,Facebook Ads,Gold,3/31/2018,10/7/2019,2700,João
+Cli1627,Facebook Ads,Gold,9/30/2019,10/7/2019,2700,Thaize
+Cli1628,Facebook Ads,Platinum,7/20/2019,10/7/2019,3500,Maria
+Cli1629,Facebook Ads,Black,10/1/2019,10/6/2019,1800,Thaize
+Cli1630,Facebook Ads,Platinum,8/20/2019,10/6/2019,3500,Jorge
+Cli1631,Afiliados,Gold,8/29/2019,10/6/2019,999,Allan
+Cli1632,Google Ads,Black,2/20/2019,10/5/2019,1800,Allan
+Cli1633,Blog,Gold,8/8/2019,10/5/2019,999,Allan
+Cli1634,Blog,Gold,8/28/2019,10/4/2019,2700,Felipe
+Cli1635,Blog,Black,9/27/2019,10/4/2019,1800,Rodolfo
+Cli1636,Afiliados,Gold,9/13/2019,10/4/2019,999,Rodolfo
+Cli1637,Blog,Gold,6/7/2019,9/30/2019,2700,Roberto
+Cli1638,Blog,Gold,9/21/2019,9/30/2019,2700,Thaize
+Cli1639,Blog,Gold,8/29/2019,9/30/2019,2700,Thaize
+Cli1640,Afiliados,Gold,8/2/2019,9/30/2019,2700,Maria
+Cli1641,Google Ads,Gold,9/18/2019,9/29/2019,2700,Thaize
+Cli1642,Outros,Gold,7/16/2018,9/26/2019,999,Oscar
+Cli1643,Afiliados,Black,11/26/2018,9/26/2019,1800,Clarita
+Cli1644,Afiliados,Gold,4/5/2019,9/26/2019,2700,Allan
+Cli1645,Blog,Platinum,9/23/2019,9/26/2019,3500,Oscar
+Cli1646,Google Ads,Gold,8/25/2018,9/23/2019,2700,Maria
+Cli1647,Email Marketing,Gold,3/19/2018,9/23/2019,2700,Rodolfo
+Cli1648,Blog,Gold,1/16/2019,9/23/2019,999,Rodolfo
+Cli1649,Google Ads,Gold,3/20/2018,9/23/2019,2700,Maria
+Cli1650,Google Ads,Black,7/14/2019,9/23/2019,1800,Oscar
+Cli1651,Blog,Gold,6/1/2019,9/23/2019,2700,Clarita
+Cli1652,Google Ads,Gold,4/3/2019,9/23/2019,2700,Thaize
+Cli1653,Outros,Gold,8/25/2019,9/23/2019,999,Roberto
+Cli1654,Blog,Platinum,11/30/2018,9/23/2019,3500,Maria
+Cli1655,Afiliados,Platinum,5/8/2019,9/21/2019,3500,Felipe
+Cli1656,Blog,Gold,9/4/2019,9/19/2019,2700,Rodolfo
+Cli1657,Email Marketing,Gold,1/2/2019,9/19/2019,2700,Jorge
+Cli1658,Blog,Gold,5/4/2019,9/19/2019,2700,Clarita
+Cli1659,Outros,Platinum,10/4/2018,9/15/2019,3500,Maria
+Cli1660,Afiliados,Platinum,9/12/2019,9/15/2019,3500,Clarita
+Cli1661,Blog,Gold,8/28/2019,9/14/2019,2700,Jorge
+Cli1662,Blog,Gold,1/30/2019,9/14/2019,2700,Felipe
+Cli1663,Outros,Black,6/8/2018,9/12/2019,1800,Rodolfo
+Cli1664,Email Marketing,Gold,9/6/2019,9/12/2019,999,Clarita
+Cli1665,Afiliados,Platinum,11/27/2018,9/8/2019,3500,João
+Cli1666,Blog,Gold,10/26/2018,9/8/2019,999,Allan
+Cli1667,Facebook Ads,Gold,2/21/2018,9/8/2019,2700,Allan
+Cli1668,Blog,Gold,11/28/2018,9/7/2019,999,Roberto
+Cli1669,Afiliados,Black,6/11/2018,9/6/2019,1800,Maria
+Cli1670,Google Ads,Platinum,11/1/2018,9/5/2019,3500,Maria
+Cli1671,Blog,Platinum,8/24/2019,9/2/2019,3500,Felipe
+Cli1672,Facebook Ads,Platinum,6/19/2019,9/1/2019,3500,Felipe
+Cli1673,Google Ads,Gold,7/20/2018,8/31/2019,2700,Thaize
+Cli1674,Blog,Black,3/15/2018,8/31/2019,1800,Rodolfo
+Cli1675,Afiliados,Gold,8/24/2019,8/31/2019,999,Oscar
+Cli1676,Blog,Gold,7/13/2019,8/31/2019,2700,Maria
+Cli1677,Facebook Ads,Gold,6/10/2019,8/31/2019,2700,Clarita
+Cli1678,Google Ads,Gold,7/30/2018,8/31/2019,2700,Jorge
+Cli1679,Outros,Black,3/22/2019,8/31/2019,1800,Rodolfo
+Cli1680,Outros,Black,6/9/2018,8/31/2019,1800,Rodolfo
+Cli1681,Blog,Black,8/31/2019,8/31/2019,1800,Allan
+Cli1682,Google Ads,Platinum,7/5/2019,8/31/2019,3500,Oscar
+Cli1683,Blog,Gold,5/31/2018,8/31/2019,2700,Jorge
+Cli1684,Outros,Gold,8/12/2019,8/31/2019,2700,Felipe
+Cli1685,Blog,Gold,5/5/2019,8/30/2019,999,Oscar
+Cli1686,Google Ads,Platinum,10/3/2018,8/30/2019,3500,Felipe
+Cli1687,Outros,Platinum,6/16/2018,8/29/2019,3500,Oscar
+Cli1688,Facebook Ads,Gold,7/5/2019,8/29/2019,2700,Allan
+Cli1689,Google Ads,Gold,8/21/2019,8/29/2019,2700,Maria
+Cli1690,Google Ads,Gold,6/30/2019,8/29/2019,2700,Rodolfo
+Cli1691,Facebook Ads,Black,7/12/2019,8/29/2019,1800,Oscar
+Cli1692,Google Ads,Gold,4/18/2019,8/26/2019,2700,Thaize
+Cli1693,Blog,Gold,12/12/2018,8/26/2019,2700,Jorge
+Cli1694,Google Ads,Gold,7/18/2019,8/26/2019,2700,Jorge
+Cli1695,Blog,Platinum,8/25/2019,8/25/2019,3500,Karina
+Cli1696,Blog,Gold,8/25/2019,8/25/2019,2700,Clarita
+Cli1697,Google Ads,Gold,8/25/2019,8/25/2019,2700,Karina
+Cli1698,Email Marketing,Gold,3/7/2018,8/24/2019,2700,Oscar
+Cli1699,Outros,Gold,2/22/2018,8/24/2019,2700,Karina
+Cli1700,Blog,Gold,7/13/2019,8/24/2019,999,Jorge
+Cli1701,Blog,Gold,3/23/2019,8/24/2019,2700,Jorge
+Cli1702,Blog,Platinum,3/27/2019,8/24/2019,3500,Roberto
+Cli1703,Facebook Ads,Gold,8/9/2018,8/24/2019,2700,Karina
+Cli1704,Blog,Gold,10/3/2018,8/22/2019,2700,Oscar
+Cli1705,Google Ads,Black,1/29/2018,8/22/2019,1800,Roberto
+Cli1706,Blog,Gold,1/23/2019,8/22/2019,999,Felipe
+Cli1707,Google Ads,Gold,7/18/2019,8/22/2019,999,Felipe
+Cli1708,Blog,Gold,3/29/2019,8/19/2019,2700,Clarita
+Cli1709,Blog,Gold,8/12/2019,8/19/2019,2700,Rodolfo
+Cli1710,Outros,Gold,6/22/2018,8/19/2019,999,Roberto
+Cli1711,Blog,Gold,6/6/2019,8/19/2019,2700,Karina
+Cli1712,Google Ads,Platinum,5/11/2019,8/18/2019,3500,Maria
+Cli1713,Blog,Gold,5/1/2019,8/17/2019,2700,Jorge
+Cli1714,Blog,Gold,11/5/2018,8/17/2019,999,Felipe
+Cli1715,Outros,Gold,7/16/2018,8/16/2019,2700,Felipe
+Cli1716,Google Ads,Gold,11/29/2018,8/15/2019,999,Rodolfo
+Cli1717,Outros,Platinum,7/25/2019,8/15/2019,3500,Karina
+Cli1718,Blog,Gold,8/6/2019,8/15/2019,2700,Felipe
+Cli1719,Blog,Gold,8/8/2019,8/12/2019,999,Maria
+Cli1720,Google Ads,Platinum,3/8/2018,8/12/2019,3500,Oscar
+Cli1721,Facebook Ads,Gold,8/7/2019,8/11/2019,999,Maria
+Cli1722,Blog,Black,4/16/2019,8/11/2019,1800,Thaize
+Cli1723,Blog,Gold,7/27/2019,8/11/2019,999,Thaize
+Cli1724,Blog,Gold,8/7/2019,8/11/2019,2700,Jorge
+Cli1725,Google Ads,Gold,7/30/2019,8/8/2019,2700,Thaize
+Cli1726,Email Marketing,Gold,7/27/2019,8/5/2019,999,Maria
+Cli1727,Google Ads,Gold,2/14/2019,8/4/2019,999,João
+Cli1728,Blog,Gold,7/28/2019,8/1/2019,2700,Karina
+Cli1729,Google Ads,Gold,7/11/2019,8/1/2019,999,Allan
+Cli1730,Email Marketing,Black,3/12/2019,8/1/2019,1800,Karina
+Cli1731,Afiliados,Black,7/27/2019,8/1/2019,1800,Roberto
+Cli1732,Email Marketing,Gold,6/26/2019,7/29/2019,2700,Allan
+Cli1733,Email Marketing,Gold,1/28/2018,7/29/2019,999,Roberto
+Cli1734,Blog,Black,7/13/2019,7/29/2019,1800,João
+Cli1735,Blog,Gold,5/18/2019,7/29/2019,2700,Allan
+Cli1736,Outros,Platinum,7/25/2019,7/28/2019,3500,Rodolfo
+Cli1737,Google Ads,Gold,7/28/2019,7/28/2019,2700,Jorge
+Cli1738,Outros,Gold,6/8/2019,7/28/2019,2700,Rodolfo
+Cli1739,Blog,Gold,7/22/2019,7/28/2019,999,João
+Cli1740,Google Ads,Gold,4/11/2019,7/28/2019,999,Clarita
+Cli1741,Email Marketing,Black,3/19/2019,7/27/2019,1800,Clarita
+Cli1742,Blog,Gold,5/25/2019,7/26/2019,2700,Thaize
+Cli1743,Google Ads,Black,7/26/2019,7/26/2019,1800,Roberto
+Cli1744,Email Marketing,Black,4/10/2019,7/26/2019,1800,Allan
+Cli1745,Blog,Platinum,7/26/2019,7/26/2019,3500,Jorge
+Cli1746,Email Marketing,Platinum,7/14/2019,7/25/2019,3500,João
+Cli1747,Blog,Gold,7/25/2019,7/25/2019,2700,Karina
+Cli1748,Google Ads,Gold,7/25/2019,7/25/2019,2700,Jorge
+Cli1749,Google Ads,Black,7/25/2019,7/25/2019,1800,Rodolfo
+Cli1750,Google Ads,Gold,7/25/2019,7/25/2019,2700,Felipe
+Cli1751,Blog,Gold,7/25/2019,7/25/2019,2700,João
+Cli1752,Google Ads,Gold,7/25/2019,7/25/2019,999,Allan
+Cli1753,Blog,Gold,7/25/2019,7/25/2019,999,Jorge
+Cli1754,Facebook Ads,Platinum,7/25/2019,7/25/2019,3500,Allan
+Cli1755,Outros,Gold,7/25/2019,7/25/2019,2700,Thaize
+Cli1756,Blog,Gold,7/25/2019,7/25/2019,2700,Karina
+Cli1757,Google Ads,Gold,5/15/2019,7/25/2019,2700,Allan
+Cli1758,Email Marketing,Gold,7/13/2019,7/22/2019,999,Oscar
+Cli1759,Email Marketing,Gold,5/10/2018,7/22/2019,999,Allan
+Cli1760,Google Ads,Black,7/18/2019,7/22/2019,1800,Thaize
+Cli1761,Email Marketing,Gold,5/18/2019,7/22/2019,2700,Jorge
+Cli1762,Blog,Gold,7/13/2019,7/20/2019,2700,Oscar
+Cli1763,Outros,Black,7/12/2019,7/20/2019,1800,Jorge
+Cli1764,Facebook Ads,Platinum,7/8/2019,7/20/2019,3500,Rodolfo
+Cli1765,Google Ads,Gold,5/8/2019,7/19/2019,999,Jorge
+Cli1766,Blog,Gold,2/10/2019,7/15/2019,2700,Thaize
+Cli1767,Facebook Ads,Gold,6/28/2019,7/15/2019,2700,Jorge
+Cli1768,Blog,Platinum,11/27/2018,7/15/2019,3500,Allan
+Cli1769,Blog,Gold,4/1/2019,7/15/2019,2700,João
+Cli1770,Blog,Gold,4/11/2019,7/15/2019,999,João
+Cli1771,Outros,Gold,9/25/2018,7/15/2019,999,Clarita
+Cli1772,Blog,Black,6/26/2019,7/15/2019,1800,Maria
+Cli1773,Google Ads,Gold,11/30/2018,7/15/2019,2700,Karina
+Cli1774,Blog,Gold,7/5/2019,7/15/2019,999,Jorge
+Cli1775,Outros,Platinum,7/10/2019,7/15/2019,3500,João
+Cli1776,Facebook Ads,Black,3/29/2019,7/14/2019,1800,João
+Cli1777,Blog,Gold,6/27/2019,7/14/2019,999,Rodolfo
+Cli1778,Facebook Ads,Gold,6/29/2019,7/14/2019,2700,Felipe
+Cli1779,Blog,Black,5/26/2019,7/13/2019,1800,Clarita
+Cli1780,Google Ads,Gold,7/8/2019,7/13/2019,2700,João
+Cli1781,Blog,Gold,7/2/2019,7/12/2019,999,Oscar
+Cli1782,Facebook Ads,Gold,6/29/2019,7/11/2019,2700,Karina
+Cli1783,Google Ads,Gold,5/24/2019,7/8/2019,2700,João
+Cli1784,Blog,Gold,6/27/2019,7/8/2019,2700,João
+Cli1785,Google Ads,Gold,5/3/2019,7/8/2019,2700,Clarita
+Cli1786,Google Ads,Black,6/23/2019,7/8/2019,1800,João
+Cli1787,Google Ads,Gold,6/10/2019,7/8/2019,999,Maria
+Cli1788,Google Ads,Gold,5/18/2019,7/7/2019,2700,Oscar
+Cli1789,Blog,Platinum,6/16/2019,7/7/2019,3500,Karina
+Cli1790,Afiliados,Platinum,1/18/2019,7/7/2019,3500,João
+Cli1791,Google Ads,Black,4/18/2019,7/4/2019,1800,Oscar
+Cli1792,Outros,Gold,6/29/2019,7/1/2019,2700,Karina
+Cli1793,Blog,Gold,3/27/2019,7/1/2019,2700,Felipe
+Cli1794,Blog,Gold,6/15/2019,7/1/2019,999,Maria
+Cli1795,Outros,Gold,4/26/2019,12/12/2019,999,Maria
+Cli1796,Blog,Gold,12/5/2019,12/12/2019,999,Rodolfo
+Cli1797,Google Ads,Gold,9/30/2019,12/9/2019,999,Maria
+Cli1798,Email Marketing,Platinum,9/13/2018,12/9/2019,3500,Allan
+Cli1799,Outros,Gold,5/12/2018,12/9/2019,2700,João
+Cli1800,Blog,Black,11/6/2019,12/9/2019,1800,Jorge
+Cli1801,Facebook Ads,Gold,11/20/2019,12/9/2019,2700,Jorge
+Cli1802,Facebook Ads,Gold,7/11/2019,12/8/2019,2700,Roberto
+Cli1803,Afiliados,Platinum,11/25/2019,12/5/2019,3500,Rodolfo
+Cli1804,Blog,Platinum,7/12/2019,12/2/2019,3500,Maria
+Cli1805,Facebook Ads,Platinum,11/28/2019,12/2/2019,3500,Rodolfo
+Cli1806,Google Ads,Gold,11/25/2019,12/1/2019,999,Felipe
+Cli1807,Blog,Gold,11/26/2018,12/1/2019,999,Maria
+Cli1808,Facebook Ads,Gold,7/14/2019,12/1/2019,2700,Jorge
+Cli1809,Facebook Ads,Black,11/10/2018,12/1/2019,1800,Roberto
+Cli1810,Blog,Gold,2/6/2019,11/30/2019,2700,Allan
+Cli1811,Blog,Gold,11/11/2019,11/30/2019,2700,Clarita
+Cli1812,Afiliados,Gold,11/27/2019,11/30/2019,2700,João
+Cli1813,Google Ads,Gold,11/22/2019,11/30/2019,2700,Roberto
+Cli1814,Outros,Gold,7/12/2019,11/30/2019,2700,Roberto
+Cli1815,Email Marketing,Gold,10/5/2019,11/30/2019,2700,Jorge
+Cli1816,Google Ads,Gold,7/7/2019,11/30/2019,2700,Allan
+Cli1817,Facebook Ads,Black,11/27/2019,11/30/2019,1800,Maria
+Cli1818,Google Ads,Black,11/15/2019,11/30/2019,1800,Rodolfo
+Cli1819,Afiliados,Platinum,11/20/2019,11/30/2019,3500,Thaize
+Cli1820,Blog,Platinum,8/15/2019,11/29/2019,3500,João
+Cli1821,Afiliados,Gold,11/15/2019,11/29/2019,2700,Clarita
+Cli1822,Google Ads,Gold,11/20/2019,11/29/2019,2700,Allan
+Cli1823,Afiliados,Black,11/8/2019,11/29/2019,1800,Roberto
+Cli1824,Google Ads,Gold,10/25/2019,11/29/2019,2700,Thaize
+Cli1825,Blog,Platinum,11/22/2019,11/29/2019,3500,Felipe
+Cli1826,Blog,Gold,7/31/2018,11/28/2019,2700,Allan
+Cli1827,Blog,Black,5/17/2019,11/28/2019,1800,Thaize
+Cli1828,Facebook Ads,Black,11/21/2019,11/28/2019,1800,Maria
+Cli1829,Blog,Platinum,9/21/2019,11/28/2019,3500,Jorge
+Cli1830,Google Ads,Gold,11/30/2018,11/25/2019,2700,Roberto
+Cli1831,Blog,Gold,4/1/2019,11/25/2019,2700,Rodolfo
+Cli1832,Blog,Gold,11/16/2019,11/25/2019,2700,Maria
+Cli1833,Blog,Gold,7/4/2018,11/25/2019,2700,Thaize
+Cli1834,Google Ads,Gold,11/15/2019,11/25/2019,2700,Karina
+Cli1835,Google Ads,Gold,5/22/2019,11/25/2019,2700,Rodolfo
+Cli1836,Blog,Platinum,11/10/2019,11/25/2019,3500,Karina
+Cli1837,Blog,Platinum,5/31/2018,11/24/2019,3500,Thaize
+Cli1838,Afiliados,Black,7/13/2019,11/24/2019,1800,Thaize
+Cli1839,Google Ads,Gold,11/15/2019,11/23/2019,999,Thaize
+Cli1840,Blog,Gold,5/24/2019,11/22/2019,999,Clarita
+Cli1841,Facebook Ads,Gold,10/10/2018,11/21/2019,2700,Roberto
+Cli1842,Blog,Gold,11/5/2018,11/18/2019,2700,Clarita
+Cli1843,Email Marketing,Gold,9/8/2018,11/18/2019,2700,Roberto
+Cli1844,Outros,Black,1/16/2019,11/18/2019,1800,Karina
+Cli1845,Outros,Gold,11/13/2019,11/18/2019,2700,Roberto
+Cli1846,Blog,Gold,11/6/2019,11/17/2019,2700,Thaize
+Cli1847,Blog,Gold,9/11/2019,11/17/2019,999,Jorge
+Cli1848,Google Ads,Platinum,10/17/2019,11/17/2019,3500,Thaize
+Cli1849,Google Ads,Gold,8/5/2019,11/17/2019,2700,Maria
+Cli1850,Blog,Platinum,10/27/2019,11/17/2019,3500,Maria
+Cli1851,Google Ads,Gold,9/11/2019,11/17/2019,2700,Jorge
+Cli1852,Google Ads,Black,11/6/2019,11/17/2019,1800,Roberto
+Cli1853,Blog,Gold,10/17/2019,11/15/2019,2700,Roberto
+Cli1854,Blog,Gold,11/7/2019,11/14/2019,999,Maria
+Cli1855,Afiliados,Gold,10/25/2019,11/14/2019,999,Roberto
+Cli1856,Google Ads,Black,11/6/2019,11/11/2019,1800,Jorge
+Cli1857,Afiliados,Black,11/30/2018,11/11/2019,1800,Maria
+Cli1858,Afiliados,Gold,9/1/2019,11/11/2019,2700,João
+Cli1859,Google Ads,Gold,6/11/2019,11/11/2019,2700,Jorge
+Cli1860,Email Marketing,Gold,4/2/2018,11/10/2019,2700,Oscar
+Cli1861,Blog,Gold,8/26/2019,11/10/2019,2700,João
+Cli1862,Blog,Gold,9/14/2019,11/9/2019,2700,Oscar
+Cli1863,Blog,Platinum,10/6/2019,11/8/2019,3500,Clarita
+Cli1864,Facebook Ads,Platinum,10/22/2019,11/8/2019,3500,Jorge
+Cli1865,Blog,Platinum,10/26/2019,11/8/2019,3500,Roberto
+Cli1866,Blog,Platinum,11/7/2019,11/7/2019,3500,Oscar
+Cli1867,Blog,Gold,10/21/2019,11/7/2019,999,Felipe
+Cli1868,Google Ads,Gold,10/16/2019,11/4/2019,2700,Rodolfo
+Cli1869,Outros,Gold,6/24/2019,11/3/2019,2700,Maria
+Cli1870,Email Marketing,Gold,9/27/2019,11/3/2019,2700,Allan
+Cli1871,Afiliados,Gold,4/22/2019,11/3/2019,2700,Jorge
+Cli1872,Blog,Gold,9/27/2019,11/3/2019,2700,Felipe
+Cli1873,Facebook Ads,Gold,3/14/2019,11/3/2019,999,Rodolfo
+Cli1874,Facebook Ads,Black,10/9/2019,11/2/2019,1800,Roberto
+Cli1875,Blog,Gold,9/25/2019,11/2/2019,999,Karina
+Cli1876,Facebook Ads,Gold,3/30/2018,11/2/2019,999,Thaize
+Cli1877,Google Ads,Gold,8/22/2019,11/1/2019,2700,João
+Cli1878,Blog,Platinum,9/24/2019,11/1/2019,3500,Allan
+Cli1879,Afiliados,Gold,2/23/2018,10/31/2019,999,Maria
+Cli1880,Google Ads,Gold,3/27/2019,10/31/2019,2700,Jorge
+Cli1881,Facebook Ads,Gold,10/17/2019,10/31/2019,999,Thaize
+Cli1882,Afiliados,Gold,4/1/2018,10/28/2019,999,Maria
+Cli1883,Blog,Gold,8/7/2018,10/28/2019,2700,Jorge
+Cli1884,Blog,Gold,8/14/2019,10/28/2019,2700,João
+Cli1885,Google Ads,Gold,10/19/2019,10/28/2019,999,Thaize
+Cli1886,Facebook Ads,Platinum,8/14/2019,10/28/2019,3500,Jorge
+Cli1887,Google Ads,Platinum,2/15/2019,10/28/2019,3500,Allan
+Cli1888,Blog,Gold,3/24/2019,10/28/2019,999,Jorge
+Cli1889,Blog,Platinum,1/28/2018,10/28/2019,3500,Roberto
+Cli1890,Blog,Gold,7/27/2018,10/28/2019,999,Rodolfo
+Cli1891,Outros,Gold,10/12/2019,10/28/2019,2700,João
+Cli1892,Facebook Ads,Black,9/21/2019,10/28/2019,1800,Oscar
+Cli1893,Google Ads,Gold,10/20/2019,10/28/2019,2700,Thaize
+Cli1894,Google Ads,Black,12/16/2018,10/27/2019,1800,Allan
+Cli1895,Facebook Ads,Black,6/15/2018,10/27/2019,1800,Jorge
+Cli1896,Facebook Ads,Platinum,6/26/2019,10/27/2019,3500,Karina
+Cli1897,Google Ads,Black,10/20/2019,10/27/2019,1800,Rodolfo
+Cli1898,Blog,Gold,2/19/2019,10/26/2019,2700,João
+Cli1899,Google Ads,Gold,4/5/2018,10/26/2019,999,Rodolfo
+Cli1900,Google Ads,Gold,9/27/2019,10/26/2019,2700,Jorge
+Cli1901,Facebook Ads,Platinum,10/20/2019,10/26/2019,3500,Felipe
+Cli1902,Google Ads,Platinum,10/18/2019,10/26/2019,3500,Oscar
+Cli1903,Blog,Black,11/2/2018,10/26/2019,1800,Karina
+Cli1904,Email Marketing,Gold,10/7/2019,10/24/2019,2700,Clarita
+Cli1905,Blog,Gold,9/11/2019,10/24/2019,2700,Jorge
+Cli1906,Afiliados,Gold,2/27/2019,10/24/2019,999,Clarita
+Cli1907,Outros,Gold,10/6/2018,10/21/2019,2700,Jorge
+Cli1908,Blog,Black,7/13/2019,10/21/2019,1800,Clarita
+Cli1909,Blog,Gold,10/12/2019,10/20/2019,999,Jorge
+Cli1910,Blog,Black,10/12/2019,10/20/2019,1800,Thaize
+Cli1911,Google Ads,Gold,7/28/2019,10/18/2019,2700,Karina
+Cli1912,Afiliados,Platinum,10/12/2019,10/17/2019,3500,Allan
+Cli1913,Email Marketing,Gold,9/12/2019,10/17/2019,2700,Rodolfo
+Cli1914,Google Ads,Black,7/21/2019,10/14/2019,1800,Rodolfo
+Cli1915,Blog,Gold,10/6/2019,10/14/2019,2700,Clarita
+Cli1916,Facebook Ads,Platinum,9/30/2019,10/14/2019,3500,Clarita
+Cli1917,Blog,Gold,5/4/2018,10/14/2019,2700,Thaize
+Cli1918,Blog,Gold,10/1/2019,10/14/2019,999,Jorge
+Cli1919,Google Ads,Gold,3/20/2018,10/13/2019,2700,Rodolfo
+Cli1920,Google Ads,Gold,9/24/2019,10/13/2019,2700,Jorge
+Cli1921,Email Marketing,Gold,8/22/2018,10/13/2019,999,Maria
+Cli1922,Google Ads,Gold,9/26/2019,10/11/2019,2700,João
+Cli1923,Blog,Gold,9/15/2019,10/10/2019,2700,Felipe
+Cli1924,Blog,Gold,9/24/2019,10/10/2019,2700,Clarita
+Cli1925,Google Ads,Gold,3/31/2018,10/7/2019,2700,Thaize
+Cli1926,Blog,Gold,9/30/2019,10/7/2019,2700,Oscar
+Cli1927,Email Marketing,Gold,7/20/2019,10/7/2019,999,Felipe
+Cli1928,Afiliados,Platinum,10/1/2019,10/6/2019,3500,Rodolfo
+Cli1929,Google Ads,Gold,8/20/2019,10/6/2019,2700,Clarita
+Cli1930,Google Ads,Gold,8/29/2019,10/6/2019,2700,Roberto
+Cli1931,Blog,Gold,2/20/2019,10/5/2019,2700,Clarita
+Cli1932,Outros,Gold,8/8/2019,10/5/2019,2700,Oscar
+Cli1933,Facebook Ads,Gold,8/28/2019,10/4/2019,999,Jorge
+Cli1934,Google Ads,Platinum,9/27/2019,10/4/2019,3500,Karina
+Cli1935,Blog,Gold,9/13/2019,10/4/2019,999,Karina
+Cli1936,Blog,Gold,6/7/2019,9/30/2019,999,Oscar
+Cli1937,Blog,Black,9/21/2019,9/30/2019,1800,Karina
+Cli1938,Google Ads,Gold,8/29/2019,9/30/2019,2700,Jorge
+Cli1939,Blog,Gold,8/2/2019,9/30/2019,2700,Allan
+Cli1940,Facebook Ads,Gold,9/18/2019,9/29/2019,2700,Roberto
+Cli1941,Afiliados,Gold,7/16/2018,9/26/2019,2700,Allan
+Cli1942,Blog,Gold,11/26/2018,9/26/2019,2700,Jorge
+Cli1943,Blog,Gold,4/5/2019,9/26/2019,2700,Thaize
+Cli1944,Blog,Platinum,9/23/2019,9/26/2019,3500,Jorge
+Cli1945,Blog,Platinum,8/25/2018,9/23/2019,3500,Jorge
+Cli1946,Blog,Platinum,3/19/2018,9/23/2019,3500,João
+Cli1947,Blog,Gold,1/16/2019,9/23/2019,999,Thaize
+Cli1948,Afiliados,Platinum,3/20/2018,9/23/2019,3500,Karina
+Cli1949,Blog,Gold,7/14/2019,9/23/2019,2700,Rodolfo
+Cli1950,Blog,Black,6/1/2019,9/23/2019,1800,Rodolfo
+Cli1951,Blog,Gold,4/3/2019,9/23/2019,2700,Thaize
+Cli1952,Outros,Gold,8/25/2019,9/23/2019,2700,Jorge
+Cli1953,Blog,Gold,11/30/2018,9/23/2019,2700,Thaize
+Cli1954,Outros,Gold,5/8/2019,9/21/2019,2700,Felipe
+Cli1955,Blog,Gold,9/4/2019,9/19/2019,2700,Clarita
+Cli1956,Outros,Black,1/2/2019,9/19/2019,1800,Karina
+Cli1957,Blog,Gold,5/4/2019,9/19/2019,999,Felipe
+Cli1958,Facebook Ads,Platinum,10/4/2018,9/15/2019,3500,Felipe
+Cli1959,Google Ads,Gold,9/12/2019,9/15/2019,999,Felipe
+Cli1960,Afiliados,Black,8/28/2019,9/14/2019,1800,Allan
+Cli1961,Blog,Gold,1/30/2019,9/14/2019,2700,Clarita
+Cli1962,Google Ads,Black,6/8/2018,9/12/2019,1800,Clarita
+Cli1963,Outros,Gold,9/6/2019,9/12/2019,2700,Jorge
+Cli1964,Blog,Gold,11/27/2018,9/8/2019,2700,Allan
+Cli1965,Blog,Platinum,10/26/2018,9/8/2019,3500,Karina
+Cli1966,Facebook Ads,Platinum,2/21/2018,9/8/2019,3500,Oscar
+Cli1967,Afiliados,Gold,11/28/2018,9/7/2019,2700,Thaize
+Cli1968,Blog,Gold,6/11/2018,9/6/2019,2700,Allan
+Cli1969,Google Ads,Gold,11/1/2018,9/5/2019,999,Jorge
+Cli1970,Blog,Black,8/24/2019,9/2/2019,1800,Felipe
+Cli1971,Blog,Gold,6/19/2019,9/1/2019,2700,Allan
+Cli1972,Blog,Gold,7/20/2018,8/31/2019,2700,Karina
+Cli1973,Google Ads,Gold,3/15/2018,8/31/2019,2700,Rodolfo
+Cli1974,Afiliados,Gold,8/24/2019,8/31/2019,2700,Allan
+Cli1975,Blog,Platinum,7/13/2019,8/31/2019,3500,Felipe
+Cli1976,Blog,Gold,6/10/2019,8/31/2019,999,Roberto
+Cli1977,Email Marketing,Platinum,7/30/2018,8/31/2019,3500,Jorge
+Cli1978,Outros,Platinum,3/22/2019,8/31/2019,3500,Karina
+Cli1979,Facebook Ads,Black,6/9/2018,8/31/2019,1800,Thaize
+Cli1980,Blog,Gold,8/31/2019,8/31/2019,2700,Jorge
+Cli1981,Facebook Ads,Platinum,7/5/2019,8/31/2019,3500,Clarita
+Cli1982,Blog,Black,5/31/2018,8/31/2019,1800,Oscar
+Cli1983,Email Marketing,Gold,8/12/2019,8/31/2019,2700,Rodolfo
+Cli1984,Blog,Platinum,5/5/2019,8/30/2019,3500,João
+Cli1985,Facebook Ads,Gold,10/3/2018,8/30/2019,999,Oscar
+Cli1986,Google Ads,Platinum,6/16/2018,8/29/2019,3500,Felipe
+Cli1987,Facebook Ads,Gold,7/5/2019,8/29/2019,2700,João
+Cli1988,Blog,Gold,8/21/2019,8/29/2019,2700,Allan
+Cli1989,Afiliados,Gold,6/30/2019,8/29/2019,2700,Maria
+Cli1990,Blog,Gold,7/12/2019,8/29/2019,999,Oscar
+Cli1991,Google Ads,Gold,4/18/2019,8/26/2019,2700,Maria
+Cli1992,Blog,Gold,12/12/2018,8/26/2019,999,João
+Cli1993,Google Ads,Gold,7/18/2019,8/26/2019,2700,Jorge
+Cli1994,Google Ads,Gold,8/25/2019,8/25/2019,999,Roberto
+Cli1995,Afiliados,Gold,8/25/2019,8/25/2019,2700,Roberto
+Cli1996,Blog,Gold,8/25/2019,8/25/2019,2700,Felipe
+Cli1997,Facebook Ads,Black,3/7/2018,8/24/2019,1800,Allan
+Cli1998,Email Marketing,Black,2/22/2018,8/24/2019,1800,Maria
+Cli1999,Blog,Black,7/13/2019,8/24/2019,1800,Jorge
+Cli2000,Google Ads,Platinum,3/23/2019,8/24/2019,3500,Felipe
