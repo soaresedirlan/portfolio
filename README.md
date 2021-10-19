@@ -14,13 +14,17 @@ Especialista em Business Intelligence & Analytics, hard skills em Microsoft BI t
 
 ## Projetos (Em Construção):
 
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="edirlansoares" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://app.powerbi.com/view?r=eyJrIjoiNDc0N2Y3YzQtNGQyNy00MjNjLWJlNzUtMzhhZTc5ZjAxNzUxIiwidCI6ImJjODAwMGFiLTg2MmUtNGFiYS05MWQ5LTFhNzE5MTdmYzJmYSJ9">01 - Logística</a></div>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="edirlansoares" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://app.powerbi.com/view?r=eyJrIjoiNDc0N2Y3YzQtNGQyNy00MjNjLWJlNzUtMzhhZTc5ZjAxNzUxIiwidCI6ImJjODAwMGFiLTg2MmUtNGFiYS05MWQ5LTFhNzE5MTdmYzJmYSJ9">Logística</a></div>
 
 
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="edirlansoares" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://app.powerbi.com/view?r=eyJrIjoiYWVjNTU4MzctNDNjMS00Y2MyLWI4ZjctNTBhYmJlOTU5MDBlIiwidCI6ImJjODAwMGFiLTg2MmUtNGFiYS05MWQ5LTFhNzE5MTdmYzJmYSJ9">02 - Marketing</a></div>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="edirlansoares" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://app.powerbi.com/view?r=eyJrIjoiYWVjNTU4MzctNDNjMS00Y2MyLWI4ZjctNTBhYmJlOTU5MDBlIiwidCI6ImJjODAwMGFiLTg2MmUtNGFiYS05MWQ5LTFhNzE5MTdmYzJmYSJ9"> Marketing</a></div>
 
 
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="edirlansoares" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://app.powerbi.com/view?r=eyJrIjoiNGQ1YzRmYjQtZTI0Zi00YWZkLWFhMmQtNjUyNzAwZjJiNWRlIiwidCI6ImJjODAwMGFiLTg2MmUtNGFiYS05MWQ5LTFhNzE5MTdmYzJmYSJ9">03 - Demonstrativo de Resultados (DRE)</a></div>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="edirlansoares" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://app.powerbi.com/view?r=eyJrIjoiNGQ1YzRmYjQtZTI0Zi00YWZkLWFhMmQtNjUyNzAwZjJiNWRlIiwidCI6ImJjODAwMGFiLTg2MmUtNGFiYS05MWQ5LTFhNzE5MTdmYzJmYSJ9">Demonstrativo de Resultados (DRE)</a></div>
+
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="edirlansoares" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://app.powerbi.com/view?r=eyJrIjoiNGQ1YzRmYjQtZTI0Zi00YWZkLWFhMmQtNjUyNzAwZjJiNWRlIiwidCI6ImJjODAwMGFiLTg2MmUtNGFiYS05MWQ5LTFhNzE5MTdmYzJmYSJ9">Demonstrativo de Resultados (DRE)</a></div>
+
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="edirlansoares" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://app.powerbi.com/view?r=eyJrIjoiNDQ3ZjNiNDYtNmEzNy00OTU2LWI4NzItMDk0NzkwMTkxMDEwIiwidCI6ImJjODAwMGFiLTg2MmUtNGFiYS05MWQ5LTFhNzE5MTdmYzJmYSJ9">Recursos Humanos</a></div>
 
 
 
