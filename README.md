@@ -12,7 +12,7 @@ Especialista em Business Intelligence & Analytics, hard skills em Microsoft BI t
 <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="edirlansoares" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.credly.com/badges/53407672-0fa1-440e-a6fe-f77eb939b22c?source=linked_in_profile">Microsoft Certified: Data Analyst Associate</a></div> 
 
 
-## Projetos (Em Construção):
+## Projetos:
 
 <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="edirlansoares" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://app.powerbi.com/view?r=eyJrIjoiNDc0N2Y3YzQtNGQyNy00MjNjLWJlNzUtMzhhZTc5ZjAxNzUxIiwidCI6ImJjODAwMGFiLTg2MmUtNGFiYS05MWQ5LTFhNzE5MTdmYzJmYSJ9">Logística</a></div>
 
