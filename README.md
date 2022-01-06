@@ -27,6 +27,8 @@ Especialista em Business Intelligence & Analytics, hard skills em Microsoft BI t
 
 <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="edirlansoares" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://app.powerbi.com/view?r=eyJrIjoiOWEwMjEwZjEtMzZjNy00YmRiLWFlODktZGFlYWVjNmZkZjI4IiwidCI6ImJjODAwMGFiLTg2MmUtNGFiYS05MWQ5LTFhNzE5MTdmYzJmYSJ9">Comercial</a></div>
 
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="edirlansoares" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://app.powerbi.com/view?r=eyJrIjoiZDQ0MDY0ZWQtOWQ3Zi00MWIxLTgwNzMtYjM4NmI3NTY0OWRkIiwidCI6ImJjODAwMGFiLTg2MmUtNGFiYS05MWQ5LTFhNzE5MTdmYzJmYSJ9&pageName=ReportSection113056bd0eb5e4c6bcc7">Covid-19</a></div>
+
 
 
 
