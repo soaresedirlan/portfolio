@@ -1,0 +1,108 @@
+
+Cores e Temas
+https://logomakr.com/
+https://palettegenerator.com/
+
+Instalar Power BI no Teams:
+https://docs.microsoft.com/pt-br/power-bi/collaborate-share/service-microsoft-teams-app
+
+Exportar para csv/excel no Power BI:
+https://docs.microsoft.com/pt-br/power-bi/visuals/power-bi-visualization-export-data
+
+
+Banco de Dados:
+dbCIEE_SCE
+dbCIEE_SIAG
+dbCIEE_DataWarehouse
+dbCIEE_DataStaging
+
+REPORT SERVICES:
+Produção: http://sql.cieepr.org.br/ReportServer/
+homolog: http://vdesenv/ReportServer_sql2016/
+
+BASES DE DADOS: 
+VSERVERSQLSEC
+VDESENV\SQL2016
+
+Servidor Analysis Services
+VSERVERSQLSEC\SSAS2016
+
+
+Servidor SSIS
+SSISCATALOG
+##!#WdUsr
+
+
+Senhas e Users BI:
+Usuário: usr_bi
+Senha: ##!#wdusr
+
+POWER BI
+Usuario:powerbi@cieepr.org.br
+Senha:ciee*1609
+
+AKNA
+edirlan.soares@cieepr.org.br	
+ciee@2122
+
+GATEWAY
+CIEE_GatewayPadrao
+Senha:##!#wdusr
+
+SQL_USER
+CIEEPR\sql_user
+Senha:507_user!@#
+
+
+
+Login do face:
+ti@cieepr.org.br
+#@!Ci&&987
+
+Google Analytics:
+cieeparana@gmail.com
+Senha:12ciee34
+
+CallCenter:
+voip.cieepr.org.br
+User: bi_user
+Senha:bi@cieepr6213
+host:%
+
+Power BI INTRANET Alterar:
+\\vserveriisport\d$\Sistemas\Producao\CIEE.Intranet\Views\Relatorio
+
+
+RELATORIOS INTRANET:
+
+
+SELECT * FROM  intranet.tbRelGrupo
+SELECT * FROM  intranet.tbRelSubGrupo
+SELECT * FROM  intranet.tbRelGrupoRelatorio
+SELECT * FROM  intranet.tbRelatorio
+
+
+UPDATE intranet.tbRelatorio
+SET idAtivo = 0
+WHERE cdRelatorio = 169
+
+ UPDATE intranet.tbRelGrupo
+ SET dsNome = 'Power BI'
+ WHERE cdRelGrupo = 6
+
+
+ UPDATE intranet.tbRelSubGrupo
+ SET dsNome = 'Gerencial'
+ WHERE cdRelSubGrupo = 31
+
+
+insert into intranet.tbRelSubGrupo(cdRelGrupo, dsNome, nrOrdem, cdTipoServicoRelatorio)
+values (6, 'Nacop', 8, 258)
+
+-- Excluir Report Linha
+delete from intranet.tbRelGrupoRelatorio
+where intranet.tbRelGrupoRelatorio.cdRelatorio in (246, 247)
+
+delete from intranet.tbRelatorio
+where intranet.tbRelatorio.cdRelatorio in (246, 247)
+ 
